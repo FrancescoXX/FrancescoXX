@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/master/devcard.svg" width="400" alt="Francesco Ciulla's Dev Card"/></a>
+<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/devcard.svg" width="400" alt="Francesco Ciulla's Dev Card"/></a>
 
 <!--
 **FrancescoXX/FrancescoXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
