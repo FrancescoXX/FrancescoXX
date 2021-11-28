@@ -95,7 +95,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/dailydotdev/docs/pull/31) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+1. ❗️ Opened issue [#1](https://github.com/FrancescoXX/nft-projects/issues/1) in [FrancescoXX/nft-projects](https://github.com/FrancescoXX/nft-projects)
 2. 🎉 Merged PR [#30](https://github.com/dailydotdev/docs/pull/30) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 3. 🎉 Merged PR [#29](https://github.com/dailydotdev/docs/pull/29) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 4. ❌ Closed PR [#28](https://github.com/dailydotdev/docs/pull/28) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
