@@ -1,4 +1,4 @@
-xname: Latest DEVto Articles
+name: Latest DEVto Articles
 on:
   schedule:
     - cron: '0 * * * *'
