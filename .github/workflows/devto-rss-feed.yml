@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DEVTO-BLOG-LIST"
-          feed_list: "https://dev.to/feed/francescoxx"
+          feed_list: "https://daily.dev/blog/rss.xml"
