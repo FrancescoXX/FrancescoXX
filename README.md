@@ -50,6 +50,8 @@ I...](https://www.instagram.com/p/CWBDetLDSU-)
 - [Updating the 2015 Macbook. wish me luck.](https://www.instagram.com/p/CVi0_oMg6MN)
 <!-- INSTAGRAM-POSTS-LIST:END -->
  
+<rssapp-wall id="U7ww78S0gEHh60Br"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+ 
 ## Recent Activities 
 
 <!--START_SECTION:activity-->
