@@ -1,0 +1,17 @@
+name: Latest Twitch Videos
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-twitch:
+    name: Update this repo's README with latest videos from Twitch
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "TWITCH-VIDEOS-LIST"
+          feed_list: "https://twitchrss.appspot.com/vod/francesco_ciulla"
