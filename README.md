@@ -13,7 +13,10 @@
 - [Samsung Odyssey CRG9 49 inches Curved Monitor - Final result and Unboxing Timelapse](https://www.youtube.com/watch?v=rAV-6uvuBiI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
-## Recent Blog Articles
+<!--  CDyAuTy75.png -->
+
+ 
+## <a href="https://blog.francescociulla.com/"><img src="./CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="50"/></a> Recent Blog articles
 <!-- BLOG-POST-LIST:START -->
 - [Working in public](https://blog.francescociulla.com/working-in-public)
 - [4C - The Cool Community of Content Creators](https://blog.francescociulla.com/4c-the-cool-community-of-content-creators)
