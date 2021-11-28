@@ -2,7 +2,11 @@
 
 <a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/devcard.svg" width="200" alt="Francesco Ciulla's Dev Card"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  
 
 <!--
 **FrancescoXX/FrancescoXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
