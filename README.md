@@ -79,5 +79,19 @@ I...](https://www.instagram.com/p/CWBDetLDSU-)
 
  
 <!--START_SECTION:feed-->
-...
+* [New monitor @samsung  Odyssey CRG9 49&quot;.
+
+#monitor #monitorultrawide #programming #programmers #ultrawidemonitor #setupga...](https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CWu8AoygKGf)
+* [🟪Twitch Series on YouTube, with chapters. https:&#x2F;&#x2F;twitch.tv&#x2F;francesco_ciulla
+
+Last week I started my Twitch journey.
+
+I...](https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CWBDetLDSU-)
+* [Coffe containers
+
+#coffee #coffeetime #coffeelover #coffeebreak #coffeeholic](https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CV-WWZJg4Sr)
+* [New Livestream T-shirt 👾👾👾
+
+#nostalgic #commodore #commodore64 #commodoreamiga #commodore64games](https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CVsQJtNgVIy)
+* [Updating the 2015 Macbook. wish me luck.](https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CVi0_oMg6MN)
 <!--END_SECTION:feed-->
