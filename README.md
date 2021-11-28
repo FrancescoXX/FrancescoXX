@@ -50,7 +50,7 @@ I...](https://www.instagram.com/p/CWBDetLDSU-)
 - [Updating the 2015 Macbook. wish me luck.](https://www.instagram.com/p/CVi0_oMg6MN)
 <!-- INSTAGRAM-POSTS-LIST:END -->
  
-<rssapp-wall id="U7ww78S0gEHh60Br"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+<iframe width="900" height="1600" src="https://rss.app/embed/v1/wall/U7ww78S0gEHh60Br" frameborder="0"></iframe>
  
 ## Recent Activities 
 
@@ -62,7 +62,7 @@ I...](https://www.instagram.com/p/CWBDetLDSU-)
 5. 🗣 Commented on [#28](https://github.com/dailydotdev/docs/issues/28) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 <!--END_SECTION:activity-->
 
-
+<iframe width="900" height="1600" src="https://rss.app/embed/v1/wall/U7ww78S0gEHh60Br" frameborder="0"></iframe>
 ---
 
 ## 🥞 Tech Stack
