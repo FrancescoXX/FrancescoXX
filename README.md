@@ -4,6 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#31](https://github.com/dailydotdev/docs/pull/31) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+2. 🎉 Merged PR [#30](https://github.com/dailydotdev/docs/pull/30) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+3. 🎉 Merged PR [#29](https://github.com/dailydotdev/docs/pull/29) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+4. ❌ Closed PR [#28](https://github.com/dailydotdev/docs/pull/28) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+5. 🗣 Commented on [#28](https://github.com/dailydotdev/docs/issues/28) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+<!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
  
