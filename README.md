@@ -3,21 +3,25 @@
 
 <!-- Actual text -->
 
-**Find me on:**
 <a href="https://twitter.com/FrancescoCiull4"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
-<a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a> 
-<a href="https://www.youtube.com/c/FrancescoCiulla"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a> 
-<a href="https://www.linkedin.com/in/francesco-ciulla-roma/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
-<a href="https://www.instagram.com/francescociullaroma"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
-<a href="https://www.showwcase.com/francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase Account" width="30"/></a> 
-<a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
-<a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
-<a href="https://github.com/FrancescoXX"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" title="GitHub" alt="GitHub" width="30"/></a>
-<a href="https://app.daily.dev/Francesco"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="GitHub" width="30"/></a>
-
+&ensp;<a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a> 
+&ensp;<a href="https://www.youtube.com/c/FrancescoCiulla"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a> 
+&ensp;<a href="https://www.linkedin.com/in/francesco-ciulla-roma/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
+&ensp;<a href="https://www.instagram.com/francescociullaroma"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
+&ensp;<a href="https://www.showwcase.com/francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase Account" width="30"/></a> 
+&ensp;<a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
+&ensp;<a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
+&ensp;<a href="https://github.com/FrancescoXX"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" title="GitHub" alt="GitHub" width="30"/></a>
+&ensp;<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/App%20Icon%20-%20Black.png" title="GitHub" alt="GitHub" width="30"/></a>
 <br>
 
-asdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasga
+Hi, I am Francesco!
+
+
+
+[Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021
+
+Sign in to my [Newsletter](https://blog.francescociulla.com/newsletter) to stay up-to-date with important upcoming events, 
 
 <a href="https://app.daily.dev/Francesco"><img align='right' src="https://github.com/FrancescoXX/FrancescoXX/blob/main/devcard.svg" width="200" alt="Francesco Ciulla's Dev Card"/></a>
 
@@ -33,7 +37,7 @@ asdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaas
 
  <br>
  
-## <a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Recent Livestreams
+## <a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Recent Livestreams on Twitch
 <!-- TWITCH-VIDEOS-LIST:START -->
 - [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1217349260)
 - [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1210917798)
@@ -42,7 +46,7 @@ asdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaas
 - [Highlight: ⚙ Twitch Setup + first test](https://www.twitch.tv/videos/1202601592)
 <!-- TWITCH-VIDEOS-LIST:END -->
  
-## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> Recent Videos on YouTube</a>
+## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to Deploy your app with Portainer | With Hrittik](https://www.youtube.com/watch?v=3G0XOOA_fJo)
@@ -63,7 +67,7 @@ asdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaas
 <!-- DEVTO-BLOG-LIST:END -->
  
  
-## <a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blog articles
+## <a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
 - [Working in public](https://blog.francescociulla.com/working-in-public)
@@ -76,7 +80,7 @@ asdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaasdasagagasgaas
 
  
  
-## Recent Activities 
+## <a href="https://github.com/FrancescoXX"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#31](https://github.com/dailydotdev/docs/pull/31) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
