@@ -12,6 +12,11 @@
 - [Samsung Odyssey CRG9 49 inches Curved Monitor - Final result and Unboxing Timelapse](https://www.youtube.com/watch?v=rAV-6uvuBiI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
+## Recent Blog Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+ 
+ 
 ## Recent Activities 
 
 <!--START_SECTION:activity-->
