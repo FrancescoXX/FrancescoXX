@@ -14,6 +14,11 @@
  
 ## Recent Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Working in public](https://blog.francescociulla.com/working-in-public)
+- [4C - The Cool Community of Content Creators](https://blog.francescociulla.com/4c-the-cool-community-of-content-creators)
+- [Dockerize a Django Application](https://blog.francescociulla.com/docker-django-1)
+- [How to build a personal brand effectively](https://blog.francescociulla.com/how-to-build-a-personal-brand-effectively)
+- [How to install Portainer with Docker](https://blog.francescociulla.com/how-to-install-portainer-with-docker)
 <!-- BLOG-POST-LIST:END -->
  
  
