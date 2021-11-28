@@ -4,6 +4,7 @@
 <a href="https://twitter.com/FrancescoCiull4"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FrancescoCiull4?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.twitch.tv/francesco_ciulla"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/francesco_ciulla?style=for-the-badge&logo=twitch&color=8a43f2">&nbsp;<a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
 
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="Docker" alt="Docker Logo" width="30"/></a> Recent Videos
+ 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to Deploy your app with Portainer | With Hrittik](https://www.youtube.com/watch?v=3G0XOOA_fJo)
 - [Build a Rest API - Using NestJS, MongoDB, Docker](https://www.youtube.com/watch?v=2eY_iQ9iCtE)
@@ -21,6 +22,15 @@
 - [How to install Portainer with Docker](https://blog.francescociulla.com/how-to-install-portainer-with-docker)
 <!-- BLOG-POST-LIST:END -->
  
+## Recent Twitch Videos
+ 
+<!-- TWITCH-VIDEOS-LIST:START -->
+- [How to Deploy your app with Portainer | With Hrittik](https://www.youtube.com/watch?v=3G0XOOA_fJo)
+- [Build a Rest API - Using NestJS, MongoDB, Docker](https://www.youtube.com/watch?v=2eY_iQ9iCtE)
+- [Rapid Api in Action | with Pratham](https://www.youtube.com/watch?v=oLknCDv4to0)
+- [DevOps Advocacy | Kunal Kushwaha](https://www.youtube.com/watch?v=Wh6r6xHPEIg)
+- [Samsung Odyssey CRG9 49 inches Curved Monitor - Final result and Unboxing Timelapse](https://www.youtube.com/watch?v=rAV-6uvuBiI)
+<!-- TWITCH-VIDEOS-LIST:END -->
  
 ## Recent Activities 
 
