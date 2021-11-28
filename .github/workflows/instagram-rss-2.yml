@@ -1,0 +1,15 @@
+name: Update this repo's README
+
+on:
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://rss.app/feeds/U7ww78S0gEHh60Br.xml
+          readme-section: feed
