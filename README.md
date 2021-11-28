@@ -14,11 +14,11 @@
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 <!-- DEVTO-BLOG-LIST:START -->
-- [Building a news app using RedwoodJS](https://daily.dev/blog/building-news-app-using-redwoodjs)
-- [How to start with RedwoodJS - The full guide](https://daily.dev/blog/starting-up-with-redwoodjs)
-- [RedwoodJS and PostgreSQL](https://daily.dev/blog/redwoodjs-and-postgressql)
-- [Next.js is turning 5. Join the celebration!](https://daily.dev/blog/next-js-is-turning-5-join-the-celebration)
-- [Building an image searching app using Alpine and Tailwind CSS](https://daily.dev/blog/building-an-image-searching-app-using-alpine-and-tailwind-css)
+- [CRUD API using NestJS, MongoDB and Docker](https://dev.to/francescoxx/crud-api-using-nestjs-mongodb-and-docker-39jm)
+- [A Guide to Stacks and Stages on AWS](https://dev.to/tinystacks/a-guide-to-stacks-and-stages-on-aws-44fh)
+- [Flask CRUD API](https://dev.to/tinystacks/flask-crud-api-3pl2)
+- [Working in public](https://dev.to/francescoxx/working-in-public-3mll)
+- [Migrating DigitalOcean database to AWS](https://dev.to/tinystacks/migrating-digitalocean-database-to-aws-4fj8)
 <!-- DEVTO-BLOG-LIST:END -->
  
  
