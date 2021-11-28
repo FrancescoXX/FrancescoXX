@@ -25,11 +25,11 @@
 ## Recent Twitch Videos
  
 <!-- TWITCH-VIDEOS-LIST:START -->
-- [How to Deploy your app with Portainer | With Hrittik](https://www.youtube.com/watch?v=3G0XOOA_fJo)
-- [Build a Rest API - Using NestJS, MongoDB, Docker](https://www.youtube.com/watch?v=2eY_iQ9iCtE)
-- [Rapid Api in Action | with Pratham](https://www.youtube.com/watch?v=oLknCDv4to0)
-- [DevOps Advocacy | Kunal Kushwaha](https://www.youtube.com/watch?v=Wh6r6xHPEIg)
-- [Samsung Odyssey CRG9 49 inches Curved Monitor - Final result and Unboxing Timelapse](https://www.youtube.com/watch?v=rAV-6uvuBiI)
+- [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1217349260)
+- [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1210917798)
+- [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1204319542)
+- [Highlight: 📊Social Dashboard - Display your Social Media stats &lpar;JavaScript, Node, Grafana, Docker&rpar;- Day 0](https://www.twitch.tv/videos/1203102356)
+- [Highlight: ⚙ Twitch Setup + first test](https://www.twitch.tv/videos/1202601592)
 <!-- TWITCH-VIDEOS-LIST:END -->
  
 ## Recent Activities 
