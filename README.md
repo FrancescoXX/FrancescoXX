@@ -14,7 +14,7 @@
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 
-## <a href="https://blog.francescociulla.com/"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="DEV" alt="DEV" width="25"/></a> Recent Blog articles
+## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Blog articles
  <!-- DEVTO-BLOG-LIST:START -->
 - [CRUD API using NestJS, MongoDB and Docker](https://dev.to/francescoxx/crud-api-using-nestjs-mongodb-and-docker-39jm)
 - [A Guide to Stacks and Stages on AWS](https://dev.to/tinystacks/a-guide-to-stacks-and-stages-on-aws-44fh)
