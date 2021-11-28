@@ -33,6 +33,21 @@
 <!-- TWITCH-VIDEOS-LIST:END -->
  
 <!-- INSTAGRAM-POSTS-LIST:START -->
+- [New monitor @samsung  Odyssey CRG9 49&quot;.
+
+#monitor #monitorultrawide #programming #programmers #ultrawidemonitor #setupga...](https://www.instagram.com/p/CWu8AoygKGf)
+- [🟪Twitch Series on YouTube, with chapters. https://twitch.tv/francesco_ciulla
+
+Last week I started my Twitch journey.
+
+I...](https://www.instagram.com/p/CWBDetLDSU-)
+- [Coffe containers
+
+#coffee #coffeetime #coffeelover #coffeebreak #coffeeholic](https://www.instagram.com/p/CV-WWZJg4Sr)
+- [New Livestream T-shirt 👾👾👾
+
+#nostalgic #commodore #commodore64 #commodoreamiga #commodore64games](https://www.instagram.com/p/CVsQJtNgVIy)
+- [Updating the 2015 Macbook. wish me luck.](https://www.instagram.com/p/CVi0_oMg6MN)
 <!-- INSTAGRAM-POSTS-LIST:END -->
  
 ## Recent Activities 
