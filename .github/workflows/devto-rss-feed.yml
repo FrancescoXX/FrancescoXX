@@ -1,4 +1,4 @@
-name: Latest DEVto Articles
+xname: Latest DEVto Articles
 on:
   schedule:
     - cron: '0 * * * *'
@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DEVTO-BLOG-LIST"
-          feed_list: "https://dev.to/feed/gautamkrishnar"
+          feed_list: "https://dev.to/feed/francescoxx"
