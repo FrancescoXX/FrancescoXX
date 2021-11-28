@@ -12,7 +12,7 @@
 <a href="https://www.showwcase.com/francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase Account" width="30"/></a> 
 <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 <a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
-<a href="https://github.com/FrancescoXX"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="GitHub" width="30"/></a>
+<a href="https://github.com/FrancescoXX"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" title="GitHub" alt="GitHub" width="30"/></a>
 <a href="https://app.daily.dev/Francesco"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="GitHub" width="30"/></a>
 
 <br>
