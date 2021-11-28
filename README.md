@@ -1,5 +1,8 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=FrancescoXX&show_icons=true&theme=tokyonight" />
+
 <a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/devcard.svg" width="200" alt="Francesco Ciulla's Dev Card"/></a>
+
+
 
 <!--
 **FrancescoXX/FrancescoXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
