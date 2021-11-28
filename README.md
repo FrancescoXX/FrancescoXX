@@ -32,25 +32,6 @@
 - [Highlight: ⚙ Twitch Setup + first test](https://www.twitch.tv/videos/1202601592)
 <!-- TWITCH-VIDEOS-LIST:END -->
  
-<!-- INSTAGRAM-POSTS-LIST:START -->
-- [New monitor @samsung  Odyssey CRG9 49&quot;.
-
-#monitor #monitorultrawide #programming #programmers #ultrawidemonitor #setupga...](https://www.instagram.com/p/CWu8AoygKGf)
-- [🟪Twitch Series on YouTube, with chapters. https://twitch.tv/francesco_ciulla
-
-Last week I started my Twitch journey.
-
-I...](https://www.instagram.com/p/CWBDetLDSU-)
-- [Coffe containers
-
-#coffee #coffeetime #coffeelover #coffeebreak #coffeeholic](https://www.instagram.com/p/CV-WWZJg4Sr)
-- [New Livestream T-shirt 👾👾👾
-
-#nostalgic #commodore #commodore64 #commodoreamiga #commodore64games](https://www.instagram.com/p/CVsQJtNgVIy)
-- [Updating the 2015 Macbook. wish me luck.](https://www.instagram.com/p/CVi0_oMg6MN)
-<!-- INSTAGRAM-POSTS-LIST:END -->
- 
-<iframe width="900" height="1600" src="https://rss.app/embed/v1/wall/U7ww78S0gEHh60Br" frameborder="0"></iframe>
  
 ## Recent Activities 
 
@@ -76,22 +57,3 @@ I...](https://www.instagram.com/p/CWBDetLDSU-)
 ## 🖥⌨ Most used Languages 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
- 
-<!--START_SECTION:feed-->
-* [New monitor @samsung  Odyssey CRG9 49&quot;.
-
-#monitor #monitorultrawide #programming #programmers #ultrawidemonitor #setupga...](https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CWu8AoygKGf)
-* [🟪Twitch Series on YouTube, with chapters. https:&#x2F;&#x2F;twitch.tv&#x2F;francesco_ciulla
-
-Last week I started my Twitch journey.
-
-I...](https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CWBDetLDSU-)
-* [Coffe containers
-
-#coffee #coffeetime #coffeelover #coffeebreak #coffeeholic](https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CV-WWZJg4Sr)
-* [New Livestream T-shirt 👾👾👾
-
-#nostalgic #commodore #commodore64 #commodoreamiga #commodore64games](https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CVsQJtNgVIy)
-* [Updating the 2015 Macbook. wish me luck.](https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CVi0_oMg6MN)
-<!--END_SECTION:feed-->
