@@ -20,7 +20,27 @@ Find me on
 
 <a href="https://twitter.com/FrancescoCiull4"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FrancescoCiull4?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.twitch.tv/francesco_ciulla"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/francesco_ciulla?style=for-the-badge&logo=twitch&color=8a43f2">&nbsp;<a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
 
-## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/></a> Recent Videos on YouTube
+## 🥞 Tech Stack
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="NExtJS Logo" alt="NextJS Logo" width="60"/>&emsp;
+
+ <br><br> 
+ 
+## <a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Recent Livestreams
+<!-- TWITCH-VIDEOS-LIST:START -->
+- [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1217349260)
+- [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1210917798)
+- [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1204319542)
+- [Highlight: 📊Social Dashboard - Display your Social Media stats &lpar;JavaScript, Node, Grafana, Docker&rpar;- Day 0](https://www.twitch.tv/videos/1203102356)
+- [Highlight: ⚙ Twitch Setup + first test](https://www.twitch.tv/videos/1202601592)
+<!-- TWITCH-VIDEOS-LIST:END -->
+ 
+## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> Recent Videos on YouTube</a>
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to Deploy your app with Portainer | With Hrittik](https://www.youtube.com/watch?v=3G0XOOA_fJo)
@@ -51,14 +71,7 @@ Find me on
 - [How to install Portainer with Docker](https://blog.francescociulla.com/how-to-install-portainer-with-docker)
 <!-- BLOG-POST-LIST:END -->
  
-## <a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Recent Livestreams
-<!-- TWITCH-VIDEOS-LIST:START -->
-- [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1217349260)
-- [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1210917798)
-- [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1204319542)
-- [Highlight: 📊Social Dashboard - Display your Social Media stats &lpar;JavaScript, Node, Grafana, Docker&rpar;- Day 0](https://www.twitch.tv/videos/1203102356)
-- [Highlight: ⚙ Twitch Setup + first test](https://www.twitch.tv/videos/1202601592)
-<!-- TWITCH-VIDEOS-LIST:END -->
+
  
  
 ## Recent Activities 
@@ -73,12 +86,7 @@ Find me on
  
 ---
 
-## 🥞 Tech Stack
- 
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+
 
 ## 🖥⌨ Most used Languages 
  
