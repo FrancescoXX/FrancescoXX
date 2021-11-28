@@ -2,8 +2,8 @@
 <!-- Actual text -->
 
 Find me on 
-<a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="20"/></a>
-<a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="20"/></a> 
+<a href="https://twitter.com/FrancescoCiull4"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="20"/></a>
+<a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitch" alt="Twitch Account" width="20"/></a> 
 
 <!-- Icons -->
 
