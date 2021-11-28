@@ -46,8 +46,6 @@
 4. ❌ Closed PR [#28](https://github.com/dailydotdev/docs/pull/28) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 5. 🗣 Commented on [#28](https://github.com/dailydotdev/docs/issues/28) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 <!--END_SECTION:activity-->
-
-<iframe width="900" height="1600" src="https://rss.app/embed/v1/wall/U7ww78S0gEHh60Br" frameborder="0"></iframe>
  
 ---
 
