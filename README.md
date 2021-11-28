@@ -26,7 +26,7 @@ Find me on
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/nextjs%20(1).png" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="NExtJS Logo" alt="NextJS Logo" width="60"/>&emsp;
 
  <br><br> 
