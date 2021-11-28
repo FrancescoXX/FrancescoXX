@@ -14,6 +14,11 @@
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 <!-- DEVTO-BLOG-LIST:START -->
+- [CRUD API using NestJS, MongoDB and Docker](https://dev.to/francescoxx/crud-api-using-nestjs-mongodb-and-docker-39jm)
+- [A Guide to Stacks and Stages on AWS](https://dev.to/tinystacks/a-guide-to-stacks-and-stages-on-aws-44fh)
+- [Flask CRUD API](https://dev.to/tinystacks/flask-crud-api-3pl2)
+- [Working in public](https://dev.to/francescoxx/working-in-public-3mll)
+- [Migrating DigitalOcean database to AWS](https://dev.to/tinystacks/migrating-digitalocean-database-to-aws-4fj8)
 <!-- DEVTO-BLOG-LIST:END -->
  
  
