@@ -22,14 +22,16 @@
 5. 🗣 Commented on [#28](https://github.com/dailydotdev/docs/issues/28) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 <!--END_SECTION:activity-->
 
-## Most used Languages 
+
+---
+
+## 🥞 Tech Stack
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+
+## 🖥⌨ Most used Languages 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- 
----
-
-🧰 Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-
----
