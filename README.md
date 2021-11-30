@@ -26,7 +26,7 @@ I have interviewed 140+ Developers in my [YouTube Channel](https://youtu.be/Wh6r
 
 Currently Head of DevRel 🥑 at [daily.dev](https://daily.dev) 
 
-I have create a [Cool Community of Content Creators](https://discord.com/invite/cRjhjFRRre) to help each other and stand out in the world of content creation.
+I have created a [Cool Community of Content Creators](https://discord.com/invite/cRjhjFRRre) to help each other and stand out in the world of content creation.
 
 I stream on <a href="https://www.twitch.tv/francesco_ciulla">Twitch</a> 
 
