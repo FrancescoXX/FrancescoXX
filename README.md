@@ -95,11 +95,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/dailydotdev/docs/issues/36) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-2. 🎉 Merged PR [#36](https://github.com/dailydotdev/docs/pull/36) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-3. ❗️ Closed issue [#35](https://github.com/dailydotdev/docs/issues/35) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-4. 💪 Opened PR [#7](https://github.com/tinystacks/aws-docker-templates-express/pull/7) in [tinystacks/aws-docker-templates-express](https://github.com/tinystacks/aws-docker-templates-express)
-5. 🎉 Merged PR [#33](https://github.com/dailydotdev/docs/pull/33) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+1. 💪 Opened PR [#7](https://github.com/tinystacks/aws-docker-templates-flask/pull/7) in [tinystacks/aws-docker-templates-flask](https://github.com/tinystacks/aws-docker-templates-flask)
+2. 🗣 Commented on [#36](https://github.com/dailydotdev/docs/issues/36) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+3. 🎉 Merged PR [#36](https://github.com/dailydotdev/docs/pull/36) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+4. ❗️ Closed issue [#35](https://github.com/dailydotdev/docs/issues/35) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+5. 💪 Opened PR [#7](https://github.com/tinystacks/aws-docker-templates-express/pull/7) in [tinystacks/aws-docker-templates-express](https://github.com/tinystacks/aws-docker-templates-express)
 <!--END_SECTION:activity-->
 
 ## They say about me
