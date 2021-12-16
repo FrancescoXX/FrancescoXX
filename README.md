@@ -63,11 +63,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Communication in Tech - Danny Thompson &amp; Stephanie Wong](https://www.youtube.com/watch?v=C7uWFrr349c)
 - [Rapid Api in Action | with Pratham](https://www.youtube.com/watch?v=JZ6oDqRtRB4)
 - [Web3 &amp; Developer Advocacy | Samina](https://www.youtube.com/watch?v=E6QoeAwhAJ8)
 - [Blockchain and web3 | Kacie Ahmed](https://www.youtube.com/watch?v=nMimDaiOTv4)
 - [How to Deploy your app with Portainer | With Hrittik](https://www.youtube.com/watch?v=3G0XOOA_fJo)
-- [Build a Rest API - Using NestJS, MongoDB, Docker](https://www.youtube.com/watch?v=2eY_iQ9iCtE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 
