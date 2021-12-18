@@ -53,11 +53,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 ## <a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Recent Livestreams on Twitch
 <!-- TWITCH-VIDEOS-LIST:START -->
+- [Social Dashboard Readme! 📊🐳 - LIVE](https://www.twitch.tv/francesco_ciulla)
 - [📊🐳Social Dashboard - Update Values on DB](https://www.twitch.tv/videos/1230487609)
 - [🦁🍃🐳NestJS-MongoDB-Docker app deployed on AWS with TinyStacks](https://www.twitch.tv/videos/1221122246)
 - [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1217349260)
 - [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1210917798)
-- [📊📈🐳Social Dashboard: Show your Social Stats using Node, Postgres, Grafana and Docker](https://www.twitch.tv/videos/1204319542)
 <!-- TWITCH-VIDEOS-LIST:END -->
  
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
