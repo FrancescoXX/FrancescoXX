@@ -63,11 +63,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Dev Environments | Felipe Cruz](https://www.youtube.com/watch?v=XSIS3UtooNM)
 - [RapidAPI in Action | with Pratham](https://www.youtube.com/watch?v=gfAmn9v0lSM)
 - [2022 and the Future of Web Dev | Joe Previte](https://www.youtube.com/watch?v=4mN1JqUDwZk)
 - [Back from the U.S - Live Q&amp;A](https://www.youtube.com/watch?v=Krzf6IOgmmg)
 - [Communication in Tech - Danny Thompson &amp; Stephanie Wong](https://www.youtube.com/watch?v=C7uWFrr349c)
+- [Web3 &amp; Developer Advocacy | Samina](https://www.youtube.com/watch?v=E6QoeAwhAJ8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 
