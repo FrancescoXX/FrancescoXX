@@ -95,11 +95,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/FrancescoXX/100-days-of-Web3/pull/2) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-2. 🗣 Commented on [#1](https://github.com/FrancescoXX/100-days-of-Web3/issues/1) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-3. 💪 Opened PR [#7](https://github.com/tinystacks/aws-docker-templates-flask/pull/7) in [tinystacks/aws-docker-templates-flask](https://github.com/tinystacks/aws-docker-templates-flask)
-4. 🗣 Commented on [#36](https://github.com/dailydotdev/docs/issues/36) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-5. 🎉 Merged PR [#36](https://github.com/dailydotdev/docs/pull/36) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+1. ❌ Closed PR [#3](https://github.com/FrancescoXX/FrancescoXX/pull/3) in [FrancescoXX/FrancescoXX](https://github.com/FrancescoXX/FrancescoXX)
+2. 🗣 Commented on [#3](https://github.com/FrancescoXX/FrancescoXX/issues/3) in [FrancescoXX/FrancescoXX](https://github.com/FrancescoXX/FrancescoXX)
+3. 🎉 Merged PR [#2](https://github.com/FrancescoXX/100-days-of-Web3/pull/2) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+4. 🗣 Commented on [#1](https://github.com/FrancescoXX/100-days-of-Web3/issues/1) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+5. 💪 Opened PR [#7](https://github.com/tinystacks/aws-docker-templates-flask/pull/7) in [tinystacks/aws-docker-templates-flask](https://github.com/tinystacks/aws-docker-templates-flask)
 <!--END_SECTION:activity-->
 
 ## They say about me
