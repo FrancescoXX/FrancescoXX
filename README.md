@@ -63,11 +63,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [🤯 I will mint THIS thumbnail during the Livestream!](https://www.youtube.com/watch?v=zjFhN2oTbPk)
 - [Portainer in Action | Dmytro Zhluktenko](https://www.youtube.com/watch?v=KJi-RU29neg)
 - [AWS Amplify Studio in Action | Ali Spittel](https://www.youtube.com/watch?v=qPSOVgDX5NI)
 - [Devrel &amp; Web3 - How to get Started | Pratim Bhosale](https://www.youtube.com/watch?v=azgWjNjYfc0)
 - [Kubernetes App Deployment | Hrittik, Portainer Developer Advocate](https://www.youtube.com/watch?v=prGxEp01idA)
-- [Solidity with Cryptozombies - Lesson 1](https://www.youtube.com/watch?v=DBh7H2hI_PY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 
