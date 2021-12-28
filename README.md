@@ -73,11 +73,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
  <!-- DEVTO-BLOG-LIST:START -->
+- [Approval Workflow: Manual and Automated Approvals in CI/CD](https://dev.to/tinystacks/approval-workflow-manual-and-automated-approvals-in-cicd-2p7m)
 - [Dev Environments: An Essential Tool for Software Quality](https://dev.to/tinystacks/dev-environments-an-essential-tool-for-software-quality-gpd)
 - [Flask CRUD API on AWS](https://dev.to/tinystacks/flask-crud-api-on-aws-257n)
 - [CRUD API using NestJS, MongoDB and Docker](https://dev.to/francescoxx/crud-api-using-nestjs-mongodb-and-docker-39jm)
 - [A Guide to Stacks and Stages on AWS](https://dev.to/tinystacks/a-guide-to-stacks-and-stages-on-aws-44fh)
-- [Flask CRUD API](https://dev.to/tinystacks/flask-crud-api-3pl2)
 <!-- DEVTO-BLOG-LIST:END -->
  
  
