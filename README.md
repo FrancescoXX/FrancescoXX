@@ -53,7 +53,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 ## <a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Recent Livestreams on Twitch
 <!-- TWITCH-VIDEOS-LIST:START -->
-- [⬛ SOLIDITY LANGUAGE⬛ - LIVE](https://www.twitch.tv/francesco_ciulla)
+- [⬛ SOLIDITY LANGUAGE⬛](https://www.twitch.tv/videos/1249738121)
 - [🧟‍♂️🧟‍♀️🎄Crypto Christmas zombies](https://www.twitch.tv/videos/1242940324)
 - [🧟‍♂️🧟‍♀️Cryptozombies! Solidity Course](https://www.twitch.tv/videos/1242190812)
 - [Social Dashboard Readme! 📊🐳](https://www.twitch.tv/videos/1236830355)
