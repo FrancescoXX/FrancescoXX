@@ -67,7 +67,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Teach &amp; Learn as a Developer | Ali Spittel](https://www.youtube.com/watch?v=kX5nt1SkzqA)
 - [daily.dev reloaded &lpar;1 year later&rpar; | Ido Shamun](https://www.youtube.com/watch?v=s_f28zsHogU)
 - [YouTube for Devs | sudoCode aka Yogita Sharma](https://www.youtube.com/watch?v=Ys5VkHXFlUA)
-- [Working at FAANG - Dylan Isreal](https://www.youtube.com/watch?v=3Tmqod2oLAk)
+- [Web 3 for developers. &lpar;by daily.dev&rpar;](https://www.youtube.com/watch?v=rQ5cmYY-qW0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 
