@@ -95,11 +95,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/FrancescoXX/100-days-of-Web3/issues/3) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-2. 🗣 Commented on [#3](https://github.com/FrancescoXX/100-days-of-Web3/issues/3) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-3. 🎉 Merged PR [#50](https://github.com/dailydotdev/docs/pull/50) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-4. 🎉 Merged PR [#49](https://github.com/dailydotdev/docs/pull/49) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-5. 🎉 Merged PR [#48](https://github.com/dailydotdev/docs/pull/48) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+1. 🎉 Merged PR [#51](https://github.com/dailydotdev/docs/pull/51) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+2. ❗️ Closed issue [#3](https://github.com/FrancescoXX/100-days-of-Web3/issues/3) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+3. 🗣 Commented on [#3](https://github.com/FrancescoXX/100-days-of-Web3/issues/3) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+4. 🎉 Merged PR [#50](https://github.com/dailydotdev/docs/pull/50) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+5. 🎉 Merged PR [#49](https://github.com/dailydotdev/docs/pull/49) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 <!--END_SECTION:activity-->
 
 ## They say about me
