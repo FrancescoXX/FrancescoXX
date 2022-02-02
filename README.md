@@ -70,6 +70,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Working at FAANG - Dylan Isreal](https://www.youtube.com/watch?v=3Tmqod2oLAk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
+## daily.dev Bookmarks 
+ 
 <!-- BOOKMARKS-LIST:START -->
 - [Adding the daily DevCard to your GitHub profile](https://app.daily.dev/posts/dxE0jkVmP?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 - [#DevCard 🤩](https://app.daily.dev/posts/w5oH_HZeY?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
