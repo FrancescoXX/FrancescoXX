@@ -1,0 +1,17 @@
+name: Daily Bookmarks
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-bookmarks:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BOOKMARKS-LIST"
+          feed_list: "https://api.daily.dev/rss/b/11114489-4a15-431c-9a50-f1f26d383ff2"
