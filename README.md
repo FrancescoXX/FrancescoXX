@@ -71,6 +71,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 <!-- BOOKMARKS-LIST:START -->
+- [Adding the daily DevCard to your GitHub profile](https://app.daily.dev/posts/dxE0jkVmP?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [#DevCard 🤩](https://app.daily.dev/posts/w5oH_HZeY?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 <!-- BOOKMARKS-LIST:END -->
  
 
