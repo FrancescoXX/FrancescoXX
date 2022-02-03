@@ -73,6 +73,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## daily.dev Bookmarks 
  
 <!-- BOOKMARKS-LIST:START -->
+- [UI library for building web3 apps](https://app.daily.dev/posts/nd5SD0KAy?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 - [It happened: I moved to web3 🎈](https://app.daily.dev/posts/ELMRoQC-_?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 - [Adding the daily DevCard to your GitHub profile](https://app.daily.dev/posts/dxE0jkVmP?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 - [#DevCard 🤩](https://app.daily.dev/posts/w5oH_HZeY?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
