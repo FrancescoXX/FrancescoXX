@@ -52,6 +52,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  <br>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [55 Web3 Projects Worth Following - Best Web 3.0 Examples](https://app.daily.dev/posts/jz4B3m4CV?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [Entering Web3](https://app.daily.dev/posts/b1QA4swN6?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [A simple Ethereum prediction market boilerplate build on top of Moralis Web3 SDK + Ethereum Boilerplate](https://app.daily.dev/posts/UgszDss2n?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [UI library for building web3 apps](https://app.daily.dev/posts/nd5SD0KAy?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [It happened: I moved to web3 🎈](https://app.daily.dev/posts/ELMRoQC-_?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 <!-- daily.dev BOOKMARKS:END -->
  
 ## <a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Recent Livestreams on Twitch
