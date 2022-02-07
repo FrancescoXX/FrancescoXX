@@ -1,4 +1,4 @@
-name: Daily Bookmarks
+name: daily.dev Bookmarks
 on:
   schedule:
     # Runs every hour
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  daily.dev-bookmarks:
+  dailydotdev-bookmarks:
     name: Update this repo's README with latest bookmarks from daily.dev
     runs-on: ubuntu-latest
     steps:
