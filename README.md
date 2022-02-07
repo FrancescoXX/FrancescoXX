@@ -71,7 +71,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Computer Science Degree or Self taughtr? | daily.dev Spaces](https://www.youtube.com/watch?v=ql2-hpcN4nQ)
+- [Computer Science Degree or Self taught? | daily.dev Spaces](https://www.youtube.com/watch?v=ql2-hpcN4nQ)
 - [Web3 Simplified | Ivan on Tech &lpar;Moralis&rpar;](https://www.youtube.com/watch?v=j92Tv5g_XJk)
 - [Web3, how to get started | Nader Dabit](https://www.youtube.com/watch?v=MeqE2iDuFBw)
 - [Web3 &amp; NFT in the Metaverse | Cat McGee](https://www.youtube.com/watch?v=lYYKlxDjZfg)
