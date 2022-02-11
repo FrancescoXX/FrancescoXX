@@ -61,11 +61,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 ## <a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Recent Livestreams on Twitch
 <!-- TWITCH-VIDEOS-LIST:START -->
+- [💥Web3 Full Stack Development Article Learning in public - LIVE](https://www.twitch.tv/francesco_ciulla)
 - [⬛ SOLIDITY LANGUAGE⬛](https://www.twitch.tv/videos/1249738121)
 - [🧟‍♂️🧟‍♀️🎄Crypto Christmas zombies](https://www.twitch.tv/videos/1242940324)
 - [🧟‍♂️🧟‍♀️Cryptozombies! Solidity Course](https://www.twitch.tv/videos/1242190812)
 - [Social Dashboard Readme! 📊🐳](https://www.twitch.tv/videos/1236830355)
-- [Highlight: 📊Social Dashboard - Display your Social Media stats &lpar;JavaScript, Node, Grafana, Docker&rpar;- Day 0](https://www.twitch.tv/videos/1203102356)
 <!-- TWITCH-VIDEOS-LIST:END -->
  
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
