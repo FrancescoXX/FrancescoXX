@@ -47,7 +47,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
-<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="NExtjs Logo" alt="NExtJS Grafana Logo" width="150"/>&emsp;
+<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp;
 
  <br>
 
