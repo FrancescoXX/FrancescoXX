@@ -113,11 +113,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/dailydotdev/docs/pull/58) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-2. 💪 Opened PR [#58](https://github.com/dailydotdev/docs/pull/58) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-3. 🎉 Merged PR [#55](https://github.com/dailydotdev/docs/pull/55) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-4. 🎉 Merged PR [#57](https://github.com/dailydotdev/docs/pull/57) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-5. 💪 Opened PR [#57](https://github.com/dailydotdev/docs/pull/57) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+1. 🎉 Merged PR [#4](https://github.com/FrancescoXX/FrancescoXX/pull/4) in [FrancescoXX/FrancescoXX](https://github.com/FrancescoXX/FrancescoXX)
+2. 🎉 Merged PR [#58](https://github.com/dailydotdev/docs/pull/58) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+3. 💪 Opened PR [#58](https://github.com/dailydotdev/docs/pull/58) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+4. 🎉 Merged PR [#55](https://github.com/dailydotdev/docs/pull/55) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+5. 🎉 Merged PR [#57](https://github.com/dailydotdev/docs/pull/57) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 <!--END_SECTION:activity-->
 
 ## They say about me
