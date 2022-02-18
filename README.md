@@ -64,10 +64,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Web3, how to get started | Nader Dabit](https://www.youtube.com/watch?v=MeqE2iDuFBw)
-- [Gitpod in action | Pauline P. Narvas](https://www.youtube.com/watch?v=eCHu_1FOlvk)
 - [Polygon Blockchain for Beginners with @Etisha Garg  | Etisha Garg](https://www.youtube.com/watch?v=QHh0-725noE)
 - [Teach &amp; Learn as a Developer | Ali Spittel](https://www.youtube.com/watch?v=kX5nt1SkzqA)
 - [Computer Science Degree or Self taught? | daily.dev Spaces](https://www.youtube.com/watch?v=ql2-hpcN4nQ)
+- [Web3 &amp; NFT in the Metaverse | Cat McGee](https://www.youtube.com/watch?v=lYYKlxDjZfg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 ## daily.dev Bookmarks 
