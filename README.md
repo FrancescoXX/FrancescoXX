@@ -63,9 +63,9 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Behind the scenes with @Clever Programmer  #Shorts](https://www.youtube.com/watch?v=jIo68Piv6gg)
 - [Web3 Content for Developers | Rafaeh Qazi @Clever Programmer](https://www.youtube.com/watch?v=PFnIzTuwgYY)
+- [Developer Advocacy &amp; DevOps | @Kunal Kushwaha](https://www.youtube.com/watch?v=Uc2aSwSDNXk)
 - [Augmented Reality In Action | Charlie Gerard](https://www.youtube.com/watch?v=j0ROyBRkhnA)
 - [Polygon Blockchain for Beginners with @Etisha Garg  | Etisha Garg](https://www.youtube.com/watch?v=QHh0-725noE)
-- [Gitpod in action | Pauline P. Narvas](https://www.youtube.com/watch?v=eCHu_1FOlvk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 ## daily.dev Bookmarks 
