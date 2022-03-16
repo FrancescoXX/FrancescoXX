@@ -103,11 +103,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/dailydotdev/hackathon-participants-March-2022/issues/44) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
-2. ❗️ Closed issue [#44](https://github.com/dailydotdev/hackathon-participants-March-2022/issues/44) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
-3. 🎉 Merged PR [#45](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/45) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
-4. 🗣 Commented on [#44](https://github.com/dailydotdev/hackathon-participants-March-2022/issues/44) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
-5. 🎉 Merged PR [#43](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/43) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
+1. 🎉 Merged PR [#47](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/47) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
+2. 🎉 Merged PR [#48](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/48) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
+3. 🗣 Commented on [#44](https://github.com/dailydotdev/hackathon-participants-March-2022/issues/44) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
+4. ❗️ Closed issue [#44](https://github.com/dailydotdev/hackathon-participants-March-2022/issues/44) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
+5. 🎉 Merged PR [#45](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/45) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
 <!--END_SECTION:activity-->
 
 ## They say about me
