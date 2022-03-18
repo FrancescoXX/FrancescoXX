@@ -61,11 +61,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Q&amp;A Live session](https://www.youtube.com/watch?v=6B-XLnmXQRc)
 - [No-Code Tools for Developers? - Harsh Makadia](https://www.youtube.com/watch?v=cGG3EJ49LE8)
 - [What is a decentralized application? #Shorts](https://www.youtube.com/watch?v=2hUhLkPhMsA)
 - [CSS - Coding Something Superb - Trecia Kat](https://www.youtube.com/watch?v=aBeu4IKJwOA)
 - [How I make My TikTok Videos #Shorts](https://www.youtube.com/watch?v=6nc3mufAQNo)
+- [Developer Advocacy &amp; DevOps | @Kunal Kushwaha](https://www.youtube.com/watch?v=Uc2aSwSDNXk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 ## daily.dev Bookmarks 
