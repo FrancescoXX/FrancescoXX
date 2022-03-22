@@ -81,11 +81,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
  <!-- DEVTO-BLOG-LIST:START -->
+- [Eddie Jaoude&#39;s Podcast Notes](https://dev.to/francescoxx/eddie-jaoudes-podcast-notes-2n3g)
 - [API Gateway REST vs. HTTP API: What Are The Differences?](https://dev.to/tinystacks/api-gateway-rest-vs-http-api-what-are-the-differences-2nj)
 - [Aiven VS AWS](https://dev.to/tinystacks/aiven-vs-aws-35ff)
 - [CRUD API with Fastify, Postgres, Docker](https://dev.to/francescoxx/crud-api-with-fastify-postgres-docker-1df3)
 - [What Does a DevOps Engineer Do?](https://dev.to/tinystacks/what-does-a-devops-engineer-do-5795)
-- [Approval Workflow: Manual and Automated Approvals in CI/CD](https://dev.to/tinystacks/approval-workflow-manual-and-automated-approvals-in-cicd-2p7m)
 <!-- DEVTO-BLOG-LIST:END -->
  
  
