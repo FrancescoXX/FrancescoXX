@@ -103,11 +103,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/FrancescoXX/100-days-of-Web3/issues/7) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-2. ❗️ Closed issue [#8](https://github.com/FrancescoXX/100-days-of-Web3/issues/8) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-3. 🗣 Commented on [#8](https://github.com/FrancescoXX/100-days-of-Web3/issues/8) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-4. ❌ Closed PR [#6](https://github.com/FrancescoXX/100-days-of-Web3/pull/6) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-5. 🗣 Commented on [#6](https://github.com/FrancescoXX/100-days-of-Web3/issues/6) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+1. 🎉 Merged PR [#49](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/49) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
+2. 🗣 Commented on [#7](https://github.com/FrancescoXX/100-days-of-Web3/issues/7) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+3. ❗️ Closed issue [#8](https://github.com/FrancescoXX/100-days-of-Web3/issues/8) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+4. 🗣 Commented on [#8](https://github.com/FrancescoXX/100-days-of-Web3/issues/8) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+5. ❌ Closed PR [#6](https://github.com/FrancescoXX/100-days-of-Web3/pull/6) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
 <!--END_SECTION:activity-->
 
 ## They say about me
