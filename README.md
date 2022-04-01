@@ -103,11 +103,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/FrancescoXX/100-days-of-Web3/issues/13) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-2. 🗣 Commented on [#13](https://github.com/FrancescoXX/100-days-of-Web3/issues/13) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-3. ❗️ Closed issue [#15](https://github.com/FrancescoXX/100-days-of-Web3/issues/15) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-4. 🗣 Commented on [#11](https://github.com/FrancescoXX/100-days-of-Web3/issues/11) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-5. ❗️ Closed issue [#11](https://github.com/FrancescoXX/100-days-of-Web3/issues/11) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+1. 🎉 Merged PR [#19](https://github.com/FrancescoXX/100-days-of-Web3/pull/19) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+2. ❗️ Closed issue [#12](https://github.com/FrancescoXX/100-days-of-Web3/issues/12) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+3. ❗️ Closed issue [#14](https://github.com/FrancescoXX/100-days-of-Web3/issues/14) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+4. 🗣 Commented on [#14](https://github.com/FrancescoXX/100-days-of-Web3/issues/14) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+5. ❗️ Closed issue [#16](https://github.com/FrancescoXX/100-days-of-Web3/issues/16) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
 <!--END_SECTION:activity-->
 
 ## They say about me
