@@ -63,9 +63,9 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Web3 - the bad parts | Tracy King](https://www.youtube.com/watch?v=tXcSmifrUvk)
 - [Full Stack Web3 Development](https://www.youtube.com/watch?v=8pMRLtArfhg)
-- [How to make a project Open Source | with @Eddie Jaoude](https://www.youtube.com/watch?v=ZQjdXMB0pOc)
 - [GitOps - How to Get Started | with Hrittik](https://www.youtube.com/watch?v=Ysfuu5lvQU4)
 - [🔴Live Q&amp;A - 25-03-2022](https://www.youtube.com/watch?v=Hk7j7d8UZ9w)
+- [CSS - Coding Something Superb - Trecia Kat](https://www.youtube.com/watch?v=aBeu4IKJwOA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 ## daily.dev Bookmarks 
