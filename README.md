@@ -103,11 +103,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/FrancescoXX/100-days-of-Web3/pull/19) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-2. ❗️ Closed issue [#12](https://github.com/FrancescoXX/100-days-of-Web3/issues/12) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-3. ❗️ Closed issue [#14](https://github.com/FrancescoXX/100-days-of-Web3/issues/14) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-4. 🗣 Commented on [#14](https://github.com/FrancescoXX/100-days-of-Web3/issues/14) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-5. ❗️ Closed issue [#16](https://github.com/FrancescoXX/100-days-of-Web3/issues/16) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+1. ❌ Closed PR [#25](https://github.com/FrancescoXX/free-Web3-resources/pull/25) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. 🗣 Commented on [#25](https://github.com/FrancescoXX/free-Web3-resources/issues/25) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🎉 Merged PR [#23](https://github.com/FrancescoXX/free-Web3-resources/pull/23) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. ❗️ Closed issue [#26](https://github.com/FrancescoXX/free-Web3-resources/issues/26) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. 🗣 Commented on [#26](https://github.com/FrancescoXX/free-Web3-resources/issues/26) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 ## They say about me
