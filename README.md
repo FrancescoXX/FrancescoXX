@@ -104,11 +104,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/FrancescoXX/free-Web3-resources/issues/29) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. ❗️ Closed issue [#18](https://github.com/FrancescoXX/free-Web3-resources/issues/18) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. 🗣 Commented on [#18](https://github.com/FrancescoXX/free-Web3-resources/issues/18) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. 🗣 Commented on [#9](https://github.com/FrancescoXX/free-Web3-resources/issues/9) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. ❗️ Opened issue [#28](https://github.com/FrancescoXX/free-Web3-resources/issues/28) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. 🗣 Commented on [#32](https://github.com/FrancescoXX/free-Web3-resources/issues/32) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. ❗️ Opened issue [#29](https://github.com/FrancescoXX/free-Web3-resources/issues/29) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. ❗️ Closed issue [#18](https://github.com/FrancescoXX/free-Web3-resources/issues/18) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. 🗣 Commented on [#18](https://github.com/FrancescoXX/free-Web3-resources/issues/18) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. 🗣 Commented on [#9](https://github.com/FrancescoXX/free-Web3-resources/issues/9) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 ## They say about me
