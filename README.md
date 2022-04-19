@@ -62,11 +62,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Content Creators and Communities](https://www.youtube.com/watch?v=c-POo2AHat8)
 - [🔴Francesco&#39;s Q&amp;A - 15-04-2022 - Public Speaking](https://www.youtube.com/watch?v=6CyV_5ZVSlE)
 - [How to reach 2 Millions of Subscribers on YouTube | @CS Dojo](https://www.youtube.com/watch?v=p6ovkNUqAcY)
 - [Solidity Language with Cryptozombies - Lesson 5](https://www.youtube.com/watch?v=j8GWl1TiCtM)
 - [Free Web3 Resources - Open Source Web3 Project on GitHub](https://www.youtube.com/watch?v=JT-ARwR0DBM)
-- [Full Stack Web3 Development](https://www.youtube.com/watch?v=8pMRLtArfhg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 ## daily.dev Bookmarks 
