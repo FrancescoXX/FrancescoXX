@@ -67,18 +67,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [🔴Francesco&#39;s Q&amp;A - 15-04-2022 - Public Speaking](https://www.youtube.com/watch?v=6CyV_5ZVSlE)
 - [How to reach 2 Millions of Subscribers on YouTube | @CS Dojo](https://www.youtube.com/watch?v=p6ovkNUqAcY)
 - [Solidity Language with Cryptozombies - Lesson 5](https://www.youtube.com/watch?v=j8GWl1TiCtM)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
- 
-## daily.dev Bookmarks 
- 
-<!-- BOOKMARKS-LIST:START -->
-- [The Complete Guide to Full Stack Web3 Development](https://app.daily.dev/posts/WcaeztDPx?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
-- [55 Web3 Projects Worth Following - Best Web 3.0 Examples](https://app.daily.dev/posts/jz4B3m4CV?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
-- [Entering Web3](https://app.daily.dev/posts/b1QA4swN6?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
-- [A simple Ethereum prediction market boilerplate build on top of Moralis Web3 SDK + Ethereum Boilerplate](https://app.daily.dev/posts/UgszDss2n?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
-- [UI library for building web3 apps](https://app.daily.dev/posts/nd5SD0KAy?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
-<!-- BOOKMARKS-LIST:END -->
- 
+<!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
  <!-- DEVTO-BLOG-LIST:START -->
@@ -111,10 +100,16 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 5. ❗️ Opened issue [#29](https://github.com/FrancescoXX/free-Web3-resources/issues/29) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
-## They say about me
+## daily.dev Bookmarks 
  
----
-
+<!-- BOOKMARKS-LIST:START -->
+- [The Complete Guide to Full Stack Web3 Development](https://app.daily.dev/posts/WcaeztDPx?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [55 Web3 Projects Worth Following - Best Web 3.0 Examples](https://app.daily.dev/posts/jz4B3m4CV?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [Entering Web3](https://app.daily.dev/posts/b1QA4swN6?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [A simple Ethereum prediction market boilerplate build on top of Moralis Web3 SDK + Ethereum Boilerplate](https://app.daily.dev/posts/UgszDss2n?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [UI library for building web3 apps](https://app.daily.dev/posts/nd5SD0KAy?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+<!-- BOOKMARKS-LIST:END -->
+ 
 ## 🖥⌨ Most used Languages 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
