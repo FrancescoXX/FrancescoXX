@@ -65,8 +65,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [🥑DevRel Collaborations | DevRel Roundtable](https://www.youtube.com/watch?v=7iXrBbyBss4)
 - [🟢FREE Web3 Resources with Emma Wain](https://www.youtube.com/watch?v=ubCY8JW5jTQ)
 - [Content Creators and Communities](https://www.youtube.com/watch?v=c-POo2AHat8)
-- [Breaking into Tech and Web3 | Kevin Canlas](https://www.youtube.com/watch?v=rZjokGqxC4o)
 - [GraphQL in Action | Roy Derks](https://www.youtube.com/watch?v=A0QZbY2HfEM)
+- [🔴Francesco&#39;s Q&amp;A - 15-04-2022 - Public Speaking](https://www.youtube.com/watch?v=6CyV_5ZVSlE)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
