@@ -103,11 +103,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## daily.dev Bookmarks 
  
 <!-- BOOKMARKS-LIST:START -->
+- [Solidity Hello world](https://app.daily.dev/posts/9SD2pfrqB?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 - [The Complete Guide to Full Stack Web3 Development](https://app.daily.dev/posts/WcaeztDPx?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 - [55 Web3 Projects Worth Following - Best Web 3.0 Examples](https://app.daily.dev/posts/jz4B3m4CV?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 - [Entering Web3](https://app.daily.dev/posts/b1QA4swN6?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 - [A simple Ethereum prediction market boilerplate build on top of Moralis Web3 SDK + Ethereum Boilerplate](https://app.daily.dev/posts/UgszDss2n?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
-- [UI library for building web3 apps](https://app.daily.dev/posts/nd5SD0KAy?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 <!-- BOOKMARKS-LIST:END -->
  
 ## 🖥⌨ Most used Languages 
