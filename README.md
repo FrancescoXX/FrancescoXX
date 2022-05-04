@@ -29,7 +29,7 @@ I have created a [Cool Community of Content Creators](https://discord.com/invite
 
 I stream on <a href="https://www.twitch.tv/francesco_ciulla">Twitch</a>. 
 
-Sign up to my [Newsletter](https://blog.francescociulla.com/newsletter) to stay up-to-date with important upcoming events, 
+Sign up to my [Newsletter](https://blog.francescociulla.com/newsletter) to stay up-to-date with important upcoming events. 
 
 ___
 
