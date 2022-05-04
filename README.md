@@ -27,7 +27,7 @@ Currently Developer Advocate at [daily.dev](https://daily.dev).
 
 I have created a [Cool Community of Content Creators](https://discord.com/invite/cRjhjFRRre) to help each other and stand out in the world of content creation.
 
-I stream on <a href="https://www.twitch.tv/francesco_ciulla">Twitch</a> 
+I stream on <a href="https://www.twitch.tv/francesco_ciulla">Twitch</a>. 
 
 Sign up to my [Newsletter](https://blog.francescociulla.com/newsletter) to stay up-to-date with important upcoming events, 
 
