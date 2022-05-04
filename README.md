@@ -23,7 +23,7 @@ I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia
 
 I have interviewed 140+ Developers in my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
 
-Currently Developer Advocate at [daily.dev](https://daily.dev) 
+Currently Developer Advocate at [daily.dev](https://daily.dev). 
 
 I have created a [Cool Community of Content Creators](https://discord.com/invite/cRjhjFRRre) to help each other and stand out in the world of content creation.
 
