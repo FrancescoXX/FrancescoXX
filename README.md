@@ -62,11 +62,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [State Variables - Solidity](https://www.youtube.com/watch?v=_FWS_Y4MkQU)
 - [Web3 Simplified | Ivan on Tech &lpar;Moralis&rpar;](https://www.youtube.com/watch?v=LnDCnynmmzo)
 - [🔴Francesco&#39;s Q&amp;A - 06-05-2022 - Free Web3 Resources &amp; Twitter Profiles Review &lpar;Part2&rpar;!](https://www.youtube.com/watch?v=hbNLHqdZvsE)
 - [How to get a Job in Tech | Danny Thompson](https://www.youtube.com/watch?v=gBnI7lWsjJI)
 - [Learn Web3 DAO Community](https://www.youtube.com/watch?v=Tfl4_lfKKRg)
-- [Solidity Hello World in 109 seconds](https://www.youtube.com/watch?v=MC5HC6GOr-w)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
