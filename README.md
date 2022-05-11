@@ -1,5 +1,6 @@
 # Hi 👋, I Am Francesco
 
+<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/devcard.svg" width="200" alt="Francesco's Dev Card"/></a>
 
 <!-- Actual text -->
 <a href="https://www.tiktok.com/@francesco.ciulla"><img src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" title="TikTok" alt="TikTok Account" width="38"/></a> 
