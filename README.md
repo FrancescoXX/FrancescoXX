@@ -1,7 +1,5 @@
 # Hi 👋, I Am Francesco
 
-<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/devcard.svg" width="200" alt="Francesco's Dev Card"/></a>
-
 <!-- Actual text -->
 <a href="https://www.tiktok.com/@francesco.ciulla"><img src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" title="TikTok" alt="TikTok Account" width="38"/></a> 
 <a href="https://twitter.com/FrancescoCiull4"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
@@ -112,3 +110,5 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## 🖥⌨ Most used Languages 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/devcard.svg" width="200" alt="Francesco's Dev Card"/></a>
