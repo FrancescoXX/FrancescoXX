@@ -59,11 +59,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to get a job in Web3 | Eda Akturk](https://www.youtube.com/watch?v=J6UiyoGFOxw)
 - [🔴Live Q&amp;A](https://www.youtube.com/watch?v=kIqJFwD1Hrc)
 - [🔴Live Q&amp;A using phone](https://www.youtube.com/watch?v=9TQeJzrPeb4)
 - [How to get a Job in Tech | Danny Thompson](https://www.youtube.com/watch?v=gBnI7lWsjJI)
 - [Web3 Simplified | Ivan on Tech &lpar;Moralis&rpar;](https://www.youtube.com/watch?v=LnDCnynmmzo)
-- [Dockerize a Python Application](https://www.youtube.com/watch?v=zGP_nYmZd9c)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
