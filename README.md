@@ -57,11 +57,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Twitter Profile Review + Q&amp;A !](https://www.youtube.com/watch?v=3B9Dmrf6YkU)
 - [Running in Villa Ada #shorts](https://www.youtube.com/watch?v=QwI7FYca8Cc)
 - [Developer&#39;s Health | Graham Ritchie](https://www.youtube.com/watch?v=JJ2CEDa4_KQ)
 - [Piazza Navona, Pantheon, Trevi&#39;s Fountain, Janiculum, Saint Peter&#39;s Square, Tiber #shorts](https://www.youtube.com/watch?v=dY2qlOFtiiE)
 - [Monte Mario - Bicycle Lane - Park Monte Ciocci #shorts](https://www.youtube.com/watch?v=OducebnAmPI)
+- [Piazza del Popolo, Pincio Terrace, Villa Borghese, Barcaccia, Tiber Waterfront, Rome](https://www.youtube.com/watch?v=w87yXYRcApo)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
