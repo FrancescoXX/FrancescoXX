@@ -58,10 +58,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to Maintain an Open Source Project - Free Web3 Resources](https://www.youtube.com/watch?v=27mvQAUfybk)
-- [Consistency for Developers | Chris Bongers](https://www.youtube.com/watch?v=MEXJ05JWgFA)
 - [12 months of 12 hours of Livestreams! #shorts #challenge](https://www.youtube.com/watch?v=M5dZlqGRixs)
 - [Cryptozombies - 12 hours Livestream](https://www.youtube.com/watch?v=WjgiFo6bPSU)
 - [Caffarelli sunset, Campidoglio, Sunset,Colosseum, Rome](https://www.youtube.com/watch?v=xJ162FuAz0w)
+- [Twitter Profile Review + Q&amp;A !](https://www.youtube.com/watch?v=3B9Dmrf6YkU)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
