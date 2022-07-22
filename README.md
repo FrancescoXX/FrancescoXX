@@ -88,11 +88,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#55](https://github.com/FrancescoXX/free-Web3-resources/pull/55) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. 🗣 Commented on [#55](https://github.com/FrancescoXX/free-Web3-resources/issues/55) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. 🎉 Merged PR [#52](https://github.com/FrancescoXX/free-Web3-resources/pull/52) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. ❗️ Opened issue [#64](https://github.com/FrancescoXX/free-Web3-resources/issues/64) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. 🎉 Merged PR [#85](https://github.com/dailydotdev/docs/pull/85) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+1. ❗️ Closed issue [#63](https://github.com/FrancescoXX/free-Web3-resources/issues/63) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. 🗣 Commented on [#63](https://github.com/FrancescoXX/free-Web3-resources/issues/63) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🗣 Commented on [#62](https://github.com/FrancescoXX/free-Web3-resources/issues/62) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. ❌ Closed PR [#62](https://github.com/FrancescoXX/free-Web3-resources/pull/62) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. 🗣 Commented on [#59](https://github.com/FrancescoXX/free-Web3-resources/issues/59) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
