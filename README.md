@@ -88,11 +88,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/FitDevs-withKat/Fitness-Accountability/pull/4) in [FitDevs-withKat/Fitness-Accountability](https://github.com/FitDevs-withKat/Fitness-Accountability)
-2. 🗣 Commented on [#1](https://github.com/FitDevs-withKat/Fitness-Accountability/issues/1) in [FitDevs-withKat/Fitness-Accountability](https://github.com/FitDevs-withKat/Fitness-Accountability)
-3. ❗️ Closed issue [#63](https://github.com/FrancescoXX/free-Web3-resources/issues/63) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. 🗣 Commented on [#63](https://github.com/FrancescoXX/free-Web3-resources/issues/63) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. 🗣 Commented on [#62](https://github.com/FrancescoXX/free-Web3-resources/issues/62) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. 💪 Opened PR [#15](https://github.com/FitDevs-withKat/Fitness-Accountability/pull/15) in [FitDevs-withKat/Fitness-Accountability](https://github.com/FitDevs-withKat/Fitness-Accountability)
+2. 💪 Opened PR [#10](https://github.com/FitDevs-withKat/Fitness-Accountability/pull/10) in [FitDevs-withKat/Fitness-Accountability](https://github.com/FitDevs-withKat/Fitness-Accountability)
+3. ❌ Closed PR [#4](https://github.com/FitDevs-withKat/Fitness-Accountability/pull/4) in [FitDevs-withKat/Fitness-Accountability](https://github.com/FitDevs-withKat/Fitness-Accountability)
+4. 🗣 Commented on [#4](https://github.com/FitDevs-withKat/Fitness-Accountability/issues/4) in [FitDevs-withKat/Fitness-Accountability](https://github.com/FitDevs-withKat/Fitness-Accountability)
+5. 💪 Opened PR [#4](https://github.com/FitDevs-withKat/Fitness-Accountability/pull/4) in [FitDevs-withKat/Fitness-Accountability](https://github.com/FitDevs-withKat/Fitness-Accountability)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
