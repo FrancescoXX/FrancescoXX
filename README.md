@@ -88,11 +88,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/FrancescoXX/free-Web3-resources/pull/65) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. ❌ Closed PR [#90](https://github.com/dailydotdev/docs/pull/90) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-3. 🗣 Commented on [#90](https://github.com/dailydotdev/docs/issues/90) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-4. 🎉 Merged PR [#93](https://github.com/dailydotdev/docs/pull/93) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-5. 🎉 Merged PR [#89](https://github.com/dailydotdev/docs/pull/89) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+1. 🎉 Merged PR [#112](https://github.com/dailydotdev/docs/pull/112) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+2. 🎉 Merged PR [#113](https://github.com/dailydotdev/docs/pull/113) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+3. 🎉 Merged PR [#65](https://github.com/FrancescoXX/free-Web3-resources/pull/65) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. ❌ Closed PR [#90](https://github.com/dailydotdev/docs/pull/90) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+5. 🗣 Commented on [#90](https://github.com/dailydotdev/docs/issues/90) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
