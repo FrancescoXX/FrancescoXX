@@ -58,10 +58,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How much $$$ are developers making? | With Luc Constantin](https://www.youtube.com/watch?v=g38dpLwSdb0)
-- [Web3 conf India Memories](https://www.youtube.com/watch?v=ziTAPHIG9DU)
 - [From coding in a dark room to jumping on the stage. Literally. #shorts](https://www.youtube.com/watch?v=wUDrsXUVStE)
 - [Introverted Developer on Social Media](https://www.youtube.com/watch?v=eQGm_9fJz8o)
 - [LearnWeb3 Challenge - 12 hours of Livestream - promo](https://www.youtube.com/watch?v=a1iEc8KXsBA)
+- [LearnWeb3 Challenge - 12 hours of Livestream - challenge](https://www.youtube.com/watch?v=N4BBL1JfRSg)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
