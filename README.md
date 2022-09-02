@@ -78,11 +78,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
+- [How to Learn Web3 &lpar;September 2022&rpar;](https://blog.francescociulla.com/how-to-learn-web3-september-2022)
 - [Solidity Hello world](https://blog.francescociulla.com/solidity-hello-world)
 - [Eddie Jaoude&#39;s Podcast Notes](https://blog.francescociulla.com/eddie-jaoudes-podcast-notes)
 - [Working in public](https://blog.francescociulla.com/working-in-public)
 - [4C - The Cool Community of Content Creators](https://blog.francescociulla.com/4c-the-cool-community-of-content-creators)
-- [Dockerize a Django Application](https://blog.francescociulla.com/docker-django-1)
 <!-- BLOG-POST-LIST:END -->
  
  
