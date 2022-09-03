@@ -89,11 +89,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8031](https://github.com/facebook/docusaurus/pull/8031) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-2. ❗️ Opened issue [#72](https://github.com/FrancescoXX/free-Web3-resources/issues/72) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. ❗️ Closed issue [#64](https://github.com/FrancescoXX/free-Web3-resources/issues/64) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. ❗️ Closed issue [#58](https://github.com/FrancescoXX/free-Web3-resources/issues/58) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. 🗣 Commented on [#58](https://github.com/FrancescoXX/free-Web3-resources/issues/58) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. ❗️ Opened issue [#169](https://github.com/FrancescoXX/4c-site/issues/169) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+2. ❗️ Opened issue [#168](https://github.com/FrancescoXX/4c-site/issues/168) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+3. 💪 Opened PR [#8031](https://github.com/facebook/docusaurus/pull/8031) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+4. ❗️ Opened issue [#72](https://github.com/FrancescoXX/free-Web3-resources/issues/72) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. ❗️ Closed issue [#64](https://github.com/FrancescoXX/free-Web3-resources/issues/64) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
