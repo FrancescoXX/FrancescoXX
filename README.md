@@ -89,11 +89,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#169](https://github.com/FrancescoXX/4c-site/issues/169) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-2. ❗️ Opened issue [#168](https://github.com/FrancescoXX/4c-site/issues/168) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-3. 💪 Opened PR [#8031](https://github.com/facebook/docusaurus/pull/8031) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-4. ❗️ Opened issue [#72](https://github.com/FrancescoXX/free-Web3-resources/issues/72) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. ❗️ Closed issue [#64](https://github.com/FrancescoXX/free-Web3-resources/issues/64) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. 🎉 Merged PR [#5](https://github.com/FrancescoXX/Short-Videos/pull/5) in [FrancescoXX/Short-Videos](https://github.com/FrancescoXX/Short-Videos)
+2. 🎉 Merged PR [#4](https://github.com/FrancescoXX/Short-Videos/pull/4) in [FrancescoXX/Short-Videos](https://github.com/FrancescoXX/Short-Videos)
+3. 🎉 Merged PR [#3](https://github.com/FrancescoXX/Short-Videos/pull/3) in [FrancescoXX/Short-Videos](https://github.com/FrancescoXX/Short-Videos)
+4. 🎉 Merged PR [#2](https://github.com/FrancescoXX/Short-Videos/pull/2) in [FrancescoXX/Short-Videos](https://github.com/FrancescoXX/Short-Videos)
+5. ❗️ Opened issue [#169](https://github.com/FrancescoXX/4c-site/issues/169) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
