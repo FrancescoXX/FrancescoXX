@@ -58,11 +58,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [300000 views on YouTube. 🤯 #shorts #shortsvideo](https://www.youtube.com/watch?v=pKLQg0Z0A68)
 - [What is Ethereum? #shorts](https://www.youtube.com/watch?v=c4J9PowMJnQ)
 - [Do Epic Sh*t - Twitter Space - Co-Host: and Pratim Bhosale | with Ankur Warikoo @warikoo](https://www.youtube.com/watch?v=O02IFE6JOuI)
 - [LearnWeb3 Junior Certificate | 12h Challenge &lpar;September&rpar;](https://www.youtube.com/watch?v=ONZfaiBT_zo)
 - [LearnWeb3 - Junior - 12h of livestream - September 2022](https://www.youtube.com/watch?v=OE_Q6mWh9x0)
-- [Build your own Cryptocurrency with Solidity, Remix and Metamask](https://www.youtube.com/watch?v=g9Ii4HovxUU)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
