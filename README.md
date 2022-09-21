@@ -58,11 +58,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What DOES a Developer Advocate do? #shorts](https://www.youtube.com/watch?v=jDK_oXBwy-I)
 - [How to create your OWN community…#shorts](https://www.youtube.com/watch?v=b7qaOkoz45o)
 - [The Merge EXACT MOMENT! We made it!](https://www.youtube.com/watch?v=6JsU117Ur1w)
 - [How to do something consistently #shorts](https://www.youtube.com/watch?v=ov6FSgw76zY)
 - [How to build your own NFT - using MetaMask, Remix IDE, hardhat, Solidity](https://www.youtube.com/watch?v=2jtdhZ09WLU)
-- [New video coming soon...](https://www.youtube.com/watch?v=fI58f2ziTJ4)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
