@@ -58,7 +58,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How to build Dapps FAST! - with Austin Griffith](https://www.youtube.com/watch?v=FYlUUslEdVM)
+- [How to build Dapps FAST! - with Austin Griffith](https://www.youtube.com/watch?v=Jwn7vaNmBsA)
 - [What DOES a Developer Advocate do? #shorts](https://www.youtube.com/watch?v=jDK_oXBwy-I)
 - [How to create your OWN community…#shorts](https://www.youtube.com/watch?v=b7qaOkoz45o)
 - [The Merge EXACT MOMENT! We made it!](https://www.youtube.com/watch?v=6JsU117Ur1w)
