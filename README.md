@@ -58,11 +58,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build a whitelist dapp using Metamask, Next.js, Hardhat Solidity and Vercel](https://www.youtube.com/watch?v=NGU0vlAu-OU)
 - [Will YOU join Hacktoberfest?￼ #shorts](https://www.youtube.com/watch?v=mAH2lMcaPKc)
 - [What IS an NFT? ￼ 🤔#shorts](https://www.youtube.com/watch?v=ExCkk1jsEjY)
 - [LearnWeb3 - Junior - 12h of livestream - September 2022](https://www.youtube.com/watch?v=OE_Q6mWh9x0)
 - [3 simple tricks to grow on Social Media￼ #shorts](https://www.youtube.com/watch?v=D8YfZG7R98E)
-- [Can I be a web developer? #shorts](https://www.youtube.com/watch?v=B_gN3zNPr8U)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
