@@ -89,11 +89,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#124](https://github.com/dailydotdev/docs/issues/124) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-2. 🎉 Merged PR [#125](https://github.com/dailydotdev/docs/pull/125) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-3. 🗣 Commented on [#72](https://github.com/FrancescoXX/free-Web3-resources/issues/72) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. ❗️ Closed issue [#81](https://github.com/FrancescoXX/free-Web3-resources/issues/81) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. 🎉 Merged PR [#5](https://github.com/FrancescoXX/Short-Videos/pull/5) in [FrancescoXX/Short-Videos](https://github.com/FrancescoXX/Short-Videos)
+1. 💪 Opened PR [#141](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/141) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+2. ❗️ Closed issue [#124](https://github.com/dailydotdev/docs/issues/124) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+3. 🎉 Merged PR [#125](https://github.com/dailydotdev/docs/pull/125) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+4. 🗣 Commented on [#72](https://github.com/FrancescoXX/free-Web3-resources/issues/72) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. ❗️ Closed issue [#81](https://github.com/FrancescoXX/free-Web3-resources/issues/81) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
