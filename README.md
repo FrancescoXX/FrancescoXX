@@ -89,11 +89,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/FrancescoXX/free-Web3-resources/issues/95) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. ❌ Closed PR [#92](https://github.com/FrancescoXX/free-Web3-resources/pull/92) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. 🗣 Commented on [#92](https://github.com/FrancescoXX/free-Web3-resources/issues/92) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. 🎉 Merged PR [#93](https://github.com/FrancescoXX/free-Web3-resources/pull/93) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. 🗣 Commented on [#93](https://github.com/FrancescoXX/free-Web3-resources/issues/93) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. 🗣 Commented on [#104](https://github.com/FrancescoXX/free-Web3-resources/issues/104) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. 🎉 Merged PR [#99](https://github.com/FrancescoXX/free-Web3-resources/pull/99) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🗣 Commented on [#99](https://github.com/FrancescoXX/free-Web3-resources/issues/99) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. 🎉 Merged PR [#101](https://github.com/FrancescoXX/free-Web3-resources/pull/101) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. 🗣 Commented on [#101](https://github.com/FrancescoXX/free-Web3-resources/issues/101) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
