@@ -58,7 +58,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Open Source - Guide for Beginners - With Praduimna Saraf](https://www.youtube.com/watch?v=DOymglE4Gfs)
+- [Open Source - Guide for Beginners - With Pradumna Saraf](https://www.youtube.com/watch?v=DOymglE4Gfs)
 - [The most important EVENT in October…#shorts #hacktoberfest](https://www.youtube.com/watch?v=cnDrNcDgZ9g)
 - [Hacktoberfest 2022 - working on contributions - 12h livestream](https://www.youtube.com/watch?v=4mYzYrSYGKI)
 - [I&#39;m working on new videos.. #shorts](https://www.youtube.com/watch?v=L4g2TGiIa_Y)
