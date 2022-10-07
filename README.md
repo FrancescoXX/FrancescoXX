@@ -108,4 +108,6 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
+[![FrancescoXX's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoXX)](https://github.com/anuraghazra/github-readme-stats) 
+ 
 <a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/devcard.svg" width="200" alt="Francesco's Dev Card"/></a>
