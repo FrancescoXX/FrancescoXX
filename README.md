@@ -18,17 +18,15 @@ I am a Computer Scientist interested in **Web3.**
 
 I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the European Space Agency 🛰.
 
-[Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021, I have been a host for the Official Docker All-Hands in September 2021, and guest on the official [Docker Youtube channel](https://youtu.be/QFl0EFGr5e4).
+[Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021, I have been the host for the Official Docker All-Hands in September 2021, and guest on the official [Docker Youtube channel](https://youtu.be/QFl0EFGr5e4).
 
-I have interviewed 140+ Developers in my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
+I have interviewed 180+ Developers in my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
 
 Currently Developer Advocate at [daily.dev](https://daily.dev) 
 
 I have created a [Cool Community of Content Creators](https://discord.com/invite/cRjhjFRRre) to help each other and stand out in the world of content creation.
 
-I stream on <a href="https://www.twitch.tv/francesco_ciulla">Twitch</a> 
-
-Sign up to my [Newsletter](https://blog.francescociulla.com/newsletter) to stay up-to-date with important upcoming events, 
+Sign up to my [Newsletter](https://www.getrevue.co/profile/francescociull4) to stay up-to-date with important upcoming events
 
 ___
 
