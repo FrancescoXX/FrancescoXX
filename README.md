@@ -106,7 +106,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 ## 🖥⌨ Most used Languages 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
  
 [![FrancescoXX's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoXX)](https://github.com/anuraghazra/github-readme-stats) 
  
