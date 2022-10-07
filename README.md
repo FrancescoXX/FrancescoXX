@@ -89,11 +89,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/FrancescoXX/4c-projects/pull/6) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
-2. 🎉 Merged PR [#5](https://github.com/FrancescoXX/4c-projects/pull/5) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
-3. 🗣 Commented on [#3](https://github.com/FrancescoXX/4c-projects/issues/3) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
-4. 🎉 Merged PR [#4](https://github.com/FrancescoXX/4c-projects/pull/4) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
-5. 🎉 Merged PR [#2](https://github.com/FrancescoXX/4c-projects/pull/2) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
+1. 🎉 Merged PR [#9](https://github.com/FrancescoXX/4c-projects/pull/9) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
+2. 🎉 Merged PR [#8](https://github.com/FrancescoXX/4c-projects/pull/8) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
+3. 🎉 Merged PR [#7](https://github.com/FrancescoXX/4c-projects/pull/7) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
+4. 🎉 Merged PR [#6](https://github.com/FrancescoXX/4c-projects/pull/6) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
+5. 🎉 Merged PR [#5](https://github.com/FrancescoXX/4c-projects/pull/5) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
