@@ -87,11 +87,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#178](https://github.com/FrancescoXX/4c-site/issues/178) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-2. 🗣 Commented on [#178](https://github.com/FrancescoXX/4c-site/issues/178) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-3. ❗️ Closed issue [#175](https://github.com/FrancescoXX/4c-site/issues/175) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-4. 🗣 Commented on [#175](https://github.com/FrancescoXX/4c-site/issues/175) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-5. 🗣 Commented on [#169](https://github.com/FrancescoXX/4c-site/issues/169) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+1. 🎉 Merged PR [#234](https://github.com/FrancescoXX/4c-site/pull/234) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+2. 🎉 Merged PR [#230](https://github.com/FrancescoXX/4c-site/pull/230) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+3. ❌ Reopened PR [#230](https://github.com/FrancescoXX/4c-site/pull/230) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+4. ❗️ Closed issue [#228](https://github.com/FrancescoXX/4c-site/issues/228) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+5. 🗣 Commented on [#228](https://github.com/FrancescoXX/4c-site/issues/228) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
