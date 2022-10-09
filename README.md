@@ -87,11 +87,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#197](https://github.com/FrancescoXX/free-Web3-resources/issues/197) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. ❗️ Closed issue [#205](https://github.com/FrancescoXX/free-Web3-resources/issues/205) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. 🗣 Commented on [#205](https://github.com/FrancescoXX/free-Web3-resources/issues/205) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. 🎉 Merged PR [#210](https://github.com/FrancescoXX/free-Web3-resources/pull/210) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. 🗣 Commented on [#211](https://github.com/FrancescoXX/free-Web3-resources/issues/211) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. ❗️ Opened issue [#214](https://github.com/FrancescoXX/free-Web3-resources/issues/214) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. 🗣 Commented on [#213](https://github.com/FrancescoXX/free-Web3-resources/issues/213) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. ❗️ Opened issue [#213](https://github.com/FrancescoXX/free-Web3-resources/issues/213) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. 🗣 Commented on [#184](https://github.com/FrancescoXX/free-Web3-resources/issues/184) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. ❗️ Closed issue [#212](https://github.com/FrancescoXX/free-Web3-resources/issues/212) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
