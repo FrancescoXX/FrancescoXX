@@ -87,11 +87,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#114](https://github.com/FrancescoXX/free-Web3-resources/issues/114) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. 🗣 Commented on [#114](https://github.com/FrancescoXX/free-Web3-resources/issues/114) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. 🎉 Merged PR [#176](https://github.com/FrancescoXX/4c-site/pull/176) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-4. ❗️ Closed issue [#7](https://github.com/FrancescoXX/FrancescoXX/issues/7) in [FrancescoXX/FrancescoXX](https://github.com/FrancescoXX/FrancescoXX)
-5. 🗣 Commented on [#7](https://github.com/FrancescoXX/FrancescoXX/issues/7) in [FrancescoXX/FrancescoXX](https://github.com/FrancescoXX/FrancescoXX)
+1. 🗣 Commented on [#174](https://github.com/FrancescoXX/free-Web3-resources/issues/174) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. 🗣 Commented on [#173](https://github.com/FrancescoXX/free-Web3-resources/issues/173) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. ❗️ Closed issue [#171](https://github.com/FrancescoXX/free-Web3-resources/issues/171) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. 🗣 Commented on [#171](https://github.com/FrancescoXX/free-Web3-resources/issues/171) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. ❗️ Closed issue [#169](https://github.com/FrancescoXX/free-Web3-resources/issues/169) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
