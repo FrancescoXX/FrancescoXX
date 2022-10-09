@@ -87,11 +87,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#217](https://github.com/FrancescoXX/free-Web3-resources/pull/217) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. 🎉 Merged PR [#187](https://github.com/FrancescoXX/4c-site/pull/187) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-3. 🗣 Commented on [#178](https://github.com/FrancescoXX/4c-site/issues/178) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-4. 🗣 Commented on [#169](https://github.com/FrancescoXX/4c-site/issues/169) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-5. ❗️ Closed issue [#168](https://github.com/FrancescoXX/4c-site/issues/168) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+1. ❗️ Closed issue [#206](https://github.com/FrancescoXX/free-Web3-resources/issues/206) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. 🎉 Merged PR [#219](https://github.com/FrancescoXX/free-Web3-resources/pull/219) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. ❗️ Opened issue [#194](https://github.com/FrancescoXX/4c-site/issues/194) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+4. 🗣 Commented on [#175](https://github.com/FrancescoXX/4c-site/issues/175) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+5. ❗️ Opened issue [#192](https://github.com/FrancescoXX/4c-site/issues/192) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
