@@ -87,11 +87,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#252](https://github.com/FrancescoXX/4c-site/pull/252) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-2. 🗣 Commented on [#179](https://github.com/FrancescoXX/4c-site/issues/179) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-3. 🗣 Commented on [#208](https://github.com/FrancescoXX/4c-site/issues/208) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-4. ❗️ Closed issue [#247](https://github.com/FrancescoXX/4c-site/issues/247) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-5. 🗣 Commented on [#247](https://github.com/FrancescoXX/4c-site/issues/247) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+1. ❗️ Opened issue [#99](https://github.com/asakatsuOrg/AsaKatsuProject/issues/99) in [asakatsuOrg/AsaKatsuProject](https://github.com/asakatsuOrg/AsaKatsuProject)
+2. ❗️ Opened issue [#98](https://github.com/asakatsuOrg/AsaKatsuProject/issues/98) in [asakatsuOrg/AsaKatsuProject](https://github.com/asakatsuOrg/AsaKatsuProject)
+3. 🎉 Merged PR [#252](https://github.com/FrancescoXX/4c-site/pull/252) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+4. 🗣 Commented on [#179](https://github.com/FrancescoXX/4c-site/issues/179) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+5. 🗣 Commented on [#208](https://github.com/FrancescoXX/4c-site/issues/208) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
