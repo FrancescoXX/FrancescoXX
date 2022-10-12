@@ -87,11 +87,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/sumitsaurabh927/Open-Souce-Demo/pull/3) in [sumitsaurabh927/Open-Souce-Demo](https://github.com/sumitsaurabh927/Open-Souce-Demo)
-2. 🎉 Merged PR [#1](https://github.com/FrancescoXX/Open-Souce-Demo/pull/1) in [FrancescoXX/Open-Souce-Demo](https://github.com/FrancescoXX/Open-Souce-Demo)
-3. 💪 Opened PR [#1](https://github.com/FrancescoXX/Open-Souce-Demo/pull/1) in [FrancescoXX/Open-Souce-Demo](https://github.com/FrancescoXX/Open-Souce-Demo)
-4. ❗️ Opened issue [#277](https://github.com/FrancescoXX/4c-site/issues/277) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-5. 🗣 Commented on [#164](https://github.com/FrancescoXX/4c-site/issues/164) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+1. 🗣 Commented on [#282](https://github.com/FrancescoXX/4c-site/issues/282) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+2. 💪 Opened PR [#3](https://github.com/sumitsaurabh927/Open-Souce-Demo/pull/3) in [sumitsaurabh927/Open-Souce-Demo](https://github.com/sumitsaurabh927/Open-Souce-Demo)
+3. 🎉 Merged PR [#1](https://github.com/FrancescoXX/Open-Souce-Demo/pull/1) in [FrancescoXX/Open-Souce-Demo](https://github.com/FrancescoXX/Open-Souce-Demo)
+4. 💪 Opened PR [#1](https://github.com/FrancescoXX/Open-Souce-Demo/pull/1) in [FrancescoXX/Open-Souce-Demo](https://github.com/FrancescoXX/Open-Souce-Demo)
+5. ❗️ Opened issue [#277](https://github.com/FrancescoXX/4c-site/issues/277) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
