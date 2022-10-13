@@ -87,11 +87,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#38](https://github.com/dailydotdev/memetoberfest/issues/38) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-2. 🎉 Merged PR [#63](https://github.com/dailydotdev/memetoberfest/pull/63) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-3. 🎉 Merged PR [#62](https://github.com/dailydotdev/memetoberfest/pull/62) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-4. 🗣 Commented on [#59](https://github.com/dailydotdev/memetoberfest/issues/59) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-5. 🎉 Merged PR [#57](https://github.com/dailydotdev/memetoberfest/pull/57) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+1. 🗣 Commented on [#286](https://github.com/FrancescoXX/4c-site/issues/286) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+2. 🗣 Commented on [#285](https://github.com/FrancescoXX/4c-site/issues/285) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+3. ❗️ Closed issue [#283](https://github.com/FrancescoXX/4c-site/issues/283) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+4. 🗣 Commented on [#283](https://github.com/FrancescoXX/4c-site/issues/283) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+5. ❗️ Opened issue [#287](https://github.com/FrancescoXX/4c-site/issues/287) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
