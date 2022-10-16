@@ -47,10 +47,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 ## <a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Recent Livestreams on Twitch
 <!-- TWITCH-VIDEOS-LIST:START -->
+- [Hacktoberfest: FREE Web3 Resources, 4C Website - LIVE](https://www.twitch.tv/francesco_ciulla)
+- [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.twitch.tv/videos/1625677987)
+- [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.twitch.tv/videos/1625674342)
 - [How much $$$ are developers making? | With Luc Constantin](https://www.twitch.tv/videos/1578835275)
 - [Highlight: 📊Social Dashboard - Display your Social Media stats &lpar;JavaScript, Node, Grafana, Docker&rpar;- Day 0](https://www.twitch.tv/videos/1203102356)
-- [Highlight: ⚙ Twitch Setup + first test](https://www.twitch.tv/videos/1202601592)
-- [😡Highlight: 🐳40 minutes challenge &lpar;Training&rpar;=&gt; Dockerized CRUD API with Node.js and Flask, connected with Postgres](https://www.twitch.tv/videos/1195232383)
 <!-- TWITCH-VIDEOS-LIST:END -->
  
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
