@@ -57,11 +57,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.youtube.com/watch?v=KBYVfTDBoN8)
 - [Blockchain development made easy - Jiri Kobelka, Tatum CEO](https://www.youtube.com/watch?v=fiv0aagW98M)
 - [What is a Cryptocurrency #shorts](https://www.youtube.com/watch?v=v2a1Ea7Xz3Y)
 - [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.youtube.com/watch?v=7sjUQJHnASA)
 - [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.youtube.com/watch?v=j4PJyad8E74)
-- [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.youtube.com/watch?v=ZfQS_0D8ZGo)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
