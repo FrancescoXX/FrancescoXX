@@ -88,11 +88,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#143](https://github.com/dailydotdev/docs/pull/143) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-2. 🗣 Commented on [#143](https://github.com/dailydotdev/docs/issues/143) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-3. 🎉 Merged PR [#118](https://github.com/dailydotdev/docs/pull/118) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-4. ❗️ Closed issue [#276](https://github.com/FrancescoXX/4c-site/issues/276) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-5. 🎉 Merged PR [#335](https://github.com/FrancescoXX/4c-site/pull/335) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+1. 🗣 Commented on [#167](https://github.com/dailydotdev/docs/issues/167) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+2. ❗️ Closed issue [#167](https://github.com/dailydotdev/docs/issues/167) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+3. ❗️ Closed issue [#160](https://github.com/dailydotdev/docs/issues/160) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+4. 🗣 Commented on [#160](https://github.com/dailydotdev/docs/issues/160) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+5. 🗣 Commented on [#155](https://github.com/dailydotdev/docs/issues/155) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
