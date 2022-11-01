@@ -88,11 +88,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#298](https://github.com/FrancescoXX/free-Web3-resources/pull/298) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. 🗣 Commented on [#164](https://github.com/FrancescoXX/4c-site/issues/164) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-3. 🗣 Commented on [#349](https://github.com/FrancescoXX/4c-site/issues/349) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-4. 🎉 Merged PR [#349](https://github.com/FrancescoXX/4c-site/pull/349) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-5. 🗣 Commented on [#345](https://github.com/FrancescoXX/4c-site/issues/345) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+1. ❌ Closed PR [#34](https://github.com/dailydotdev/memetoberfest/pull/34) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+2. 🗣 Commented on [#34](https://github.com/dailydotdev/memetoberfest/issues/34) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+3. ❌ Closed PR [#17](https://github.com/dailydotdev/memetoberfest/pull/17) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+4. 🗣 Commented on [#17](https://github.com/dailydotdev/memetoberfest/issues/17) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+5. 🎉 Merged PR [#13](https://github.com/dailydotdev/memetoberfest/pull/13) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
