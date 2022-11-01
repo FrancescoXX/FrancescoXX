@@ -88,11 +88,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/dailydotdev/memetoberfest/pull/101) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-2. 🎉 Merged PR [#100](https://github.com/dailydotdev/memetoberfest/pull/100) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-3. 🎉 Merged PR [#98](https://github.com/dailydotdev/memetoberfest/pull/98) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-4. 🎉 Merged PR [#97](https://github.com/dailydotdev/memetoberfest/pull/97) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-5. 🎉 Merged PR [#96](https://github.com/dailydotdev/memetoberfest/pull/96) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+1. 🎉 Merged PR [#105](https://github.com/dailydotdev/memetoberfest/pull/105) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+2. 🎉 Merged PR [#104](https://github.com/dailydotdev/memetoberfest/pull/104) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+3. 🎉 Merged PR [#103](https://github.com/dailydotdev/memetoberfest/pull/103) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+4. 🎉 Merged PR [#102](https://github.com/dailydotdev/memetoberfest/pull/102) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+5. 🎉 Merged PR [#101](https://github.com/dailydotdev/memetoberfest/pull/101) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
