@@ -50,8 +50,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.twitch.tv/videos/1637787010)
 - [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.twitch.tv/videos/1631421381)
 - [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.twitch.tv/videos/1625682825)
-- [How much $$$ are developers making? | With Luc Constantin](https://www.twitch.tv/videos/1578835275)
 - [Highlight: 📊Social Dashboard - Display your Social Media stats &lpar;JavaScript, Node, Grafana, Docker&rpar;- Day 0](https://www.twitch.tv/videos/1203102356)
+- [Highlight: ⚙ Twitch Setup + first test](https://www.twitch.tv/videos/1202601592)
 <!-- TWITCH-VIDEOS-LIST:END -->
  
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
