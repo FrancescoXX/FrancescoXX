@@ -88,11 +88,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#139](https://github.com/dailydotdev/memetoberfest/pull/139) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-2. 🎉 Merged PR [#138](https://github.com/dailydotdev/memetoberfest/pull/138) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-3. 🎉 Merged PR [#137](https://github.com/dailydotdev/memetoberfest/pull/137) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-4. 🎉 Merged PR [#136](https://github.com/dailydotdev/memetoberfest/pull/136) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-5. 🎉 Merged PR [#135](https://github.com/dailydotdev/memetoberfest/pull/135) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+1. 🗣 Commented on [#301](https://github.com/FrancescoXX/free-Web3-resources/issues/301) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. ❌ Closed PR [#300](https://github.com/FrancescoXX/free-Web3-resources/pull/300) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🗣 Commented on [#300](https://github.com/FrancescoXX/free-Web3-resources/issues/300) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. 🎉 Merged PR [#139](https://github.com/dailydotdev/memetoberfest/pull/139) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+5. 🎉 Merged PR [#138](https://github.com/dailydotdev/memetoberfest/pull/138) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
