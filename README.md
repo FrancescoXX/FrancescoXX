@@ -57,11 +57,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How to study, work and be a speaker as a Developer - Lou Creemers](https://www.youtube.com/watch?v=gXGhaU0aCYM)
 - [Content Creation Coaching for 4C #shorts](https://www.youtube.com/watch?v=9FQTLFx-Ces)
 - [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.youtube.com/watch?v=jm3Y8jmGPpo)
 - [Are the free resources for developers good?  with Quincy Larson](https://www.youtube.com/watch?v=hgHzjp6BW9Y)
 - [Join the Cool Community of Content Creators](https://www.youtube.com/watch?v=G6RP4QjdDt4)
+- [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.youtube.com/watch?v=KBYVfTDBoN8)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
