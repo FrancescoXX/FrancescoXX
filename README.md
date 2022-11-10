@@ -57,11 +57,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How  to build your NFT collection](https://www.youtube.com/watch?v=9kqke3uKFKw)
 - [DevRel in Web3 | with Albiona Hoti](https://www.youtube.com/watch?v=gP_qby68YtI)
 - [Web3 Conf India](https://www.youtube.com/watch?v=me0Qxa_21Yk)
 - [Francesco gets flashbanged by a light theme. #shorts](https://www.youtube.com/watch?v=zsySdbBFXlM)
 - [4C Community repositories](https://www.youtube.com/watch?v=K46MnMibpNw)
-- [How to study, work and be a speaker as a Developer - Lou Creemers](https://www.youtube.com/watch?v=gXGhaU0aCYM)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
