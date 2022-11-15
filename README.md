@@ -88,11 +88,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#325](https://github.com/FrancescoXX/free-Web3-resources/pull/325) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. 💪 Opened PR [#325](https://github.com/FrancescoXX/free-Web3-resources/pull/325) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. 🎉 Merged PR [#323](https://github.com/FrancescoXX/free-Web3-resources/pull/323) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. 🎉 Merged PR [#324](https://github.com/FrancescoXX/free-Web3-resources/pull/324) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. 🎉 Merged PR [#322](https://github.com/FrancescoXX/free-Web3-resources/pull/322) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. 🗣 Commented on [#380](https://github.com/FrancescoXX/4c-site/issues/380) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+2. 🎉 Merged PR [#325](https://github.com/FrancescoXX/free-Web3-resources/pull/325) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 💪 Opened PR [#325](https://github.com/FrancescoXX/free-Web3-resources/pull/325) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. 🎉 Merged PR [#323](https://github.com/FrancescoXX/free-Web3-resources/pull/323) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. 🎉 Merged PR [#324](https://github.com/FrancescoXX/free-Web3-resources/pull/324) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 ## daily.dev Bookmarks 
