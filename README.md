@@ -47,11 +47,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 ## <a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Recent Livestreams on Twitch
 <!-- TWITCH-VIDEOS-LIST:START -->
+- [Alchemy University. Let&#39;s Test it!](https://www.twitch.tv/videos/1662380696)
 - [Free Web3 resources livestream](https://www.twitch.tv/videos/1649812542)
 - [DevRel in Web3 | with Albiona Hoti](https://www.twitch.tv/videos/1647907235)
 - [4C Community repositories](https://www.twitch.tv/videos/1645265097)
 - [How to study, work and be a speaker as a Developer - Lou Creemers](https://www.twitch.tv/videos/1643287580)
-- [Hacktoberfest: FREE Web3 Resources, 4C Website](https://www.twitch.tv/videos/1637787010)
 <!-- TWITCH-VIDEOS-LIST:END -->
  
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
