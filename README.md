@@ -57,8 +57,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Alchemy University - 12hours livestream](https://www.youtube.com/watch?v=BgxsPVO-jBg)
 - [Alchemy University. Let&#39;s Test it!](https://www.youtube.com/watch?v=JO3HxAgntWw)
+- [Alchemy University - 12hours livestream](https://www.youtube.com/watch?v=BgxsPVO-jBg)
 - [Initial Coin Offering, using @LearnWeb3 DAO](https://www.youtube.com/watch?v=hQD_bt-XSZw)
 - [Decentralized Confidential computing](https://www.youtube.com/watch?v=dSQtGs4Jink)
 - [Free Web3 resources livestream](https://www.youtube.com/watch?v=WhTJisIr4X4)
