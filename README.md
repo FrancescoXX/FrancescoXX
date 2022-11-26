@@ -60,8 +60,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Alchemy University. Let&#39;s Test it!](https://www.youtube.com/watch?v=JO3HxAgntWw)
 - [Alchemy University - 12hours livestream](https://www.youtube.com/watch?v=BgxsPVO-jBg)
 - [Initial Coin Offering, using @LearnWeb3 DAO](https://www.youtube.com/watch?v=hQD_bt-XSZw)
-- [Decentralized Confidential computing](https://www.youtube.com/watch?v=dSQtGs4Jink)
 - [Free Web3 resources livestream](https://www.youtube.com/watch?v=WhTJisIr4X4)
+- [How  to build your NFT collection](https://www.youtube.com/watch?v=9kqke3uKFKw)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
