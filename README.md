@@ -60,8 +60,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [December Livestream Challenge - Alchhemy Unicversity announcement #shorts](https://www.youtube.com/watch?v=ICWPppgeqfI)
 - [Alchemy University - JavaScript and Ethereum Bootcamp](https://www.youtube.com/watch?v=0VxGNzt8U2U)
 - [Is Web3 truly Decentralized? with Vanshika](https://www.youtube.com/watch?v=h88uCGJhW1Q)
-- [Devrel and Conferences | With Deni](https://www.youtube.com/watch?v=OclCcu1lz8A)
 - [Why always like that? #shorts](https://www.youtube.com/watch?v=ifFiwh8oc4E)
+- [Alchemy University - JavaScript - Part 2](https://www.youtube.com/watch?v=fPFlZQLF1w8)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
