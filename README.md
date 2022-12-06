@@ -61,7 +61,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Rust From Zero - LEarning the Rust programming language - promo #shorts](https://www.youtube.com/watch?v=jxI_RvND_Xs)
 - [Rust From Zero - Episode 1 - Getting Started: Installation, Hello World, Hello Cargo](https://www.youtube.com/watch?v=w5LvdWq2R6I)
 - [Devrel and Conferences | With Deni](https://www.youtube.com/watch?v=OclCcu1lz8A)
-- [December Livestream Challenge - Alchhemy Unicversity announcement #shorts](https://www.youtube.com/watch?v=ICWPppgeqfI)
+- [December Livestream Challenge - Alchhemy University announcement #shorts](https://www.youtube.com/watch?v=ICWPppgeqfI)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
