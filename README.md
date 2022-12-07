@@ -47,11 +47,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 ## <a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Recent Livestreams on Twitch
 <!-- TWITCH-VIDEOS-LIST:START -->
+- [Is Web3 truly Decentralized? with Vanshika](https://www.twitch.tv/videos/1672775167)
 - [Devrel and Cofnerences | With Deni](https://www.twitch.tv/videos/1668291789)
 - [Alchemy University](https://www.twitch.tv/videos/1664274048)
 - [Alchemy University](https://www.twitch.tv/videos/1663870644)
 - [Decentralized Confidential computing](https://www.twitch.tv/videos/1663076624)
-- [Alchemy University. Let&#39;s Test it!](https://www.twitch.tv/videos/1662380696)
 <!-- TWITCH-VIDEOS-LIST:END -->
  
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
