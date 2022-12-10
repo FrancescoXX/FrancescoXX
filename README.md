@@ -95,10 +95,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Solidity Language with Cryptozombies - Lesson 6](https://www.youtube.com/watch?v=GSJjrS63s00)
-- [🦀Learning Rust](https://www.youtube.com/watch?v=XAgxUoRbW0s)
 - [Rust From Zero - Episode 1 - Getting Started: Installation, Hello World, Hello Cargo](https://www.youtube.com/watch?v=w5LvdWq2R6I)
 - [Is Web3 truly Decentralized? with Vanshika](https://www.youtube.com/watch?v=h88uCGJhW1Q)
 - [When your Girlfriend supports you by writing some JavaScript code. #shorts](https://www.youtube.com/watch?v=JqIsCluow4k)
+- [Rust From Zero - Learning the Rust programming language - promo #shorts](https://www.youtube.com/watch?v=jxI_RvND_Xs)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
