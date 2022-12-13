@@ -94,11 +94,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is ChatGPT? How to use it? Will AI replace programmers and content creators?](https://www.youtube.com/watch?v=qmT5nDBhnx8)
 - [Livestream behind the scenes #shorts #programming](https://www.youtube.com/watch?v=_w-yNVKg1K0)
 - [Alchemy University - JavaScript and Ethereum Bootcamp](https://www.youtube.com/watch?v=0VxGNzt8U2U)
 - [Rust From Zero - Hello Cargo &lpar;Rust&#39;s builder and package manager&rpar;](https://www.youtube.com/watch?v=XAgxUoRbW0s)
 - [Solidity Language with Cryptozombies - Lesson 6](https://www.youtube.com/watch?v=GSJjrS63s00)
-- [Rust From Zero - Episode 1 - Getting Started: Installation, Hello World, Hello Cargo](https://www.youtube.com/watch?v=w5LvdWq2R6I)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
