@@ -24,7 +24,8 @@
 - I have interviewed 185+ Developers on my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
 - I am a Developer Advocate at [daily.dev](https://daily.dev) 
 - I have founded [4C](https://discord.com/invite/cRjhjFRRre) a community focused on Content Creation.
-
+- I am building a 1M community
+ 
 </td><td valign="top" width="25%">
 
 ## 🥞 Tech Stack
