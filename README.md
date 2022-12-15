@@ -8,41 +8,30 @@
 &ensp;<a href="https://www.linkedin.com/in/francesco-ciulla-roma/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 &ensp;<a href="https://www.instagram.com/francescociullaroma"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
 &ensp;<a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
-&ensp;<a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
+<!-- &ensp;<a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a> -->
 &ensp;<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
 <!-- &ensp;<a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> -->
 </div>
 
-# Hi 👋, I Am Francesco
 
 <table><tr><td valign="top" width="75%">
 
-## 👨‍💻 Bio
+## Hi 👋, I Am Francesco
 
-I am a Computer Scientist interested in **Web3.**
+- I am a Computer Scientist interested in **Web3.**
+- I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the European Space Agency 🛰.
+- [Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021
+- I have interviewed 185+ Developers on my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
+- I am a Developer Advocate at [daily.dev](https://daily.dev) 
+- I have founded [4C](https://discord.com/invite/cRjhjFRRre) a community focused on Content Creation.
 
-I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the European Space Agency 🛰.
-
-[Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021, I have been the host for the Official Docker All-Hands in September 2021, and guest on the official [Docker Youtube channel](https://youtu.be/QFl0EFGr5e4).
-
-I have interviewed 180+ Developers in my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
-
-Currently Developer Advocate at [daily.dev](https://daily.dev) 
-
-I have created a [Cool Community of Content Creators](https://discord.com/invite/cRjhjFRRre) to help each other and stand out in the world of content creation.
-
-Sign up to my [Newsletter](https://www.getrevue.co/profile/francescociull4) to stay up-to-date with important upcoming events
-
- 
 </td><td valign="top" width="25%">
 
 ## 🥞 Tech Stack
- 
-I work with many different technologies and languages.
 
-My favorite ones are:
 - Docker
 - Kubernetes
+- Postgres
 - Node.js
 - Grafana
 - Next.js
