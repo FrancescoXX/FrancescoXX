@@ -18,7 +18,7 @@
 
 ## Hi 👋, I Am Francesco
 
-- I am a Computer Scientist interested in **Web3.**
+- I am a Computer Scientist interested in Web3 and DevRel.
 - I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the ESA, European Space Agency, as a Fullstack Developer.
 - [Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021
 - I have interviewed 185+ Developers on my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
