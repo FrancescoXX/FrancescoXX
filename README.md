@@ -19,32 +19,32 @@
 ## Hi 👋, I Am Francesco
 
 - I am a Computer Scientist interested in **Web3.**
-- I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the European Space Agency 🛰.
+- I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the ESA, European Space Agency, as a Fullstack Developer.
 - [Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021
 - I have interviewed 185+ Developers on my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
 - I am a Developer Advocate at [daily.dev](https://daily.dev) 
 - I have founded [4C](https://discord.com/invite/cRjhjFRRre) a community focused on Content Creation.
-- I am building a 1M community
  
 </td><td valign="top" width="25%">
 
-## 🥞 Tech Stack
+## 🖥️ Fav Tech Stack
 
 - Docker
 - Kubernetes
-- Postgres
+- Postgres 
 - Node.js
 - Grafana
 - Next.js
 - Rust (new)
  
+</tr></tr></table> 
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
 <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp; -->
 
-</td></tr></table>
+
 
 <!-- # Hi 👋, I Am Francesco
 
