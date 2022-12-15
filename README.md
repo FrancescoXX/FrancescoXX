@@ -16,7 +16,7 @@
 
 <table><tr><td valign="top" width="75%">
 
-## Hi 👋, I Am Francesco
+## 👋 Hi, I Am Francesco
 
 - I am a Computer Scientist interested in Web3 and DevRel.
 - I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the ESA, European Space Agency, as a Fullstack Developer.
