@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Can Docker help with cancer treatment? - Dr. Chris Miller](https://www.youtube.com/watch?v=pUrrZpdG550)
 - [Communities &amp; Content Creators - 4C](https://www.youtube.com/watch?v=uIS3hlHJ05o)
 - [Rust livestream - guessing game](https://www.youtube.com/watch?v=E424zcYgH_s)
 - [Coding a Guessing Game in Rust - part2](https://www.youtube.com/watch?v=UuSMF4rlOOE)
 - [🤯 ChatGPT changes everything!](https://www.youtube.com/watch?v=EdpC03odvSY)
-- [What is ChatGPT? How to use it? Will AI replace programmers and content creators?](https://www.youtube.com/watch?v=qmT5nDBhnx8)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
