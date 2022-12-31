@@ -86,10 +86,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Twitter Spaces 101 - Mario Nawfal @MarioNawfal](https://www.youtube.com/watch?v=-JX5q6K7NZM)
-- [Building a guessing game in Rust - part3](https://www.youtube.com/watch?v=-tVStdPo1JU)
 - [Coding a Guessing Game in Rust - part  2 - Lesson 4](https://www.youtube.com/watch?v=UuSMF4rlOOE)
 - [Communities &amp; Content Creators - 4C](https://www.youtube.com/watch?v=uIS3hlHJ05o)
 - [YouTuber while working at Google? | with Kevin Naughton Jr.](https://www.youtube.com/watch?v=ldLMGYZr9rg)
+- [Docker used to save lives - Dr. Chris Miller](https://www.youtube.com/watch?v=pUrrZpdG550)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
