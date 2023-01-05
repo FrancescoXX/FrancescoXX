@@ -86,7 +86,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Ethereum BootCamp - Alchemy University](https://www.youtube.com/watch?v=NbnpJH4zpMI)
-- [Programming Concepts](https://www.youtube.com/watch?v=0j0pisW3M6E)
+- [Rust - Programming Concepts](https://www.youtube.com/watch?v=0j0pisW3M6E)
 - [Building a guessing game in Rust - part3](https://www.youtube.com/watch?v=-tVStdPo1JU)
 - [Twitter Spaces 101 - Mario Nawfal @MarioNawfal](https://www.youtube.com/watch?v=-JX5q6K7NZM)
 - [Coding a Guessing Game in Rust - part  2 - Lesson 4](https://www.youtube.com/watch?v=UuSMF4rlOOE)
