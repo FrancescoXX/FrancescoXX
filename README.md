@@ -88,8 +88,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [🏆Goal Achieved! I got a raise as a Developer Advocate for @dailydotdev  #shorts](https://www.youtube.com/watch?v=zuJoxfnrURk)
 - [YouTuber while working at Google? | with Kevin Naughton Jr.](https://www.youtube.com/watch?v=ldLMGYZr9rg)
 - [Ethereum BootCamp - Alchemy University](https://www.youtube.com/watch?v=NbnpJH4zpMI)
-- [Rust - Programming Concepts](https://www.youtube.com/watch?v=0j0pisW3M6E)
 - [Building a guessing game in Rust - part3](https://www.youtube.com/watch?v=-tVStdPo1JU)
+- [Twitter Spaces 101 - Mario Nawfal @MarioNawfal](https://www.youtube.com/watch?v=-JX5q6K7NZM)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
