@@ -88,7 +88,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Rust - Programming Concepts](https://www.youtube.com/watch?v=0j0pisW3M6E)
 - [🏆Goal Achieved! I got a raise as a Developer Advocate for @dailydotdev  #shorts](https://www.youtube.com/watch?v=zuJoxfnrURk)
 - [YouTuber while working at Google? | with Kevin Naughton Jr.](https://www.youtube.com/watch?v=ldLMGYZr9rg)
-- [Ethereum BootCamp - Alchemy University](https://www.youtube.com/watch?v=NbnpJH4zpMI)
+- [Alchemy University Bootcamp](https://www.youtube.com/watch?v=NbnpJH4zpMI)
 - [Building a guessing game in Rust - part3](https://www.youtube.com/watch?v=-tVStdPo1JU)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
