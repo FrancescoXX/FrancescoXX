@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to learn Web3 in 2023 - Full Web3 Development Roadmap](https://www.youtube.com/watch?v=N0XOyo6TEHo)
 - [Alchemy University Bootcamp](https://www.youtube.com/watch?v=NbnpJH4zpMI)
 - [Rust - Programming Concepts](https://www.youtube.com/watch?v=0j0pisW3M6E)
 - [🏆Goal Achieved! I got a raise as a Developer Advocate for @dailydotdev  #shorts](https://www.youtube.com/watch?v=zuJoxfnrURk)
 - [YouTuber while working at Google? | with Kevin Naughton Jr.](https://www.youtube.com/watch?v=ldLMGYZr9rg)
-- [Building a guessing game in Rust - part3](https://www.youtube.com/watch?v=-tVStdPo1JU)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
