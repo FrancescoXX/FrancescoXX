@@ -86,10 +86,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [The TRUTH about Web3 #shorts #web3](https://www.youtube.com/watch?v=nVLCKIqEiDw)
-- [Control Flow in Rust](https://www.youtube.com/watch?v=BF1WfJRXqK8)
 - [How to learn Web3 in 2023 - Full Web3 Development Roadmap](https://www.youtube.com/watch?v=N0XOyo6TEHo)
 - [Alchemy University Bootcamp](https://www.youtube.com/watch?v=NbnpJH4zpMI)
 - [Rust - Programming Concepts](https://www.youtube.com/watch?v=0j0pisW3M6E)
+- [🏆Goal Achieved! I got a raise as a Developer Advocate for @dailydotdev  #shorts](https://www.youtube.com/watch?v=zuJoxfnrURk)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
