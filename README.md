@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [References and Borrowing](https://www.youtube.com/watch?v=UY73XNBfjNY)
 - [chatGPT paid plan? #shorts #chatgpt #ai](https://www.youtube.com/watch?v=QeSC4hwn1mw)
 - [What is Ownership?](https://www.youtube.com/watch?v=XJr3TJZIQEk)
 - [Getting a Tech Job - Shawn Charles](https://www.youtube.com/watch?v=K_1FgNSEYMM)
 - [Linkfree - Open Source way to connect to your audience with one link - Eddie Jaoude](https://www.youtube.com/watch?v=h3_qNTLx6dI)
-- [How to learn UI/UX | George Moller](https://www.youtube.com/watch?v=dtjfWSf7IcA)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
