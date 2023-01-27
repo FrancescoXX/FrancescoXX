@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Web3 Online Tutorials and Solidity Videos #shorts #blockchain #web3](https://www.youtube.com/watch?v=04ojkP-zPs0)
 - [Linkfree - Open Source way to connect to your audience with one link - Eddie Jaoude](https://www.youtube.com/watch?v=h3_qNTLx6dI)
 - [What is DevRel ?  | Hassan El Mghari - Senior Developer Advocate at Vercel](https://www.youtube.com/watch?v=b7psn3_kPsA)
 - [Open Source &amp; DevRel - Kelsey Hightower](https://www.youtube.com/watch?v=GZPs8SvpOKA)
 - [What is DevRel and How to get Started | interview with Marc Backes &lpar;WeAreDeveloper DevRel Lead&rpar;](https://www.youtube.com/watch?v=_G3B26KmKTA)
-- [Blockchain fundamentals you should check #shorts #blockchain](https://www.youtube.com/watch?v=KJsYNrKMjmY)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
