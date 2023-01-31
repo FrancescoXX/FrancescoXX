@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [6 Definitions of DevRel and Developer Advocacy - DevRel Unlocked - ep.3](https://www.youtube.com/watch?v=K9ADWSTqdRw)
 - [Build a Rest API using Rust, Postgres, Docker](https://www.youtube.com/watch?v=IDCWgG93_mo)
 - [References and Borrowing](https://www.youtube.com/watch?v=UY73XNBfjNY)
 - [Web3 Online Tutorials and Solidity Videos #shorts #blockchain #web3](https://www.youtube.com/watch?v=04ojkP-zPs0)
 - [Linkfree - Open Source way to connect to your audience with one link - Eddie Jaoude](https://www.youtube.com/watch?v=h3_qNTLx6dI)
-- [What is DevRel ?  | Hassan El Mghari - Senior Developer Advocate at Vercel](https://www.youtube.com/watch?v=b7psn3_kPsA)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
