@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Build CRUD rest API in Rust - Preparation](https://www.youtube.com/watch?v=IRBgeMWXF9g)
 - [3 reason to follow Francesco in 2023.](https://www.youtube.com/watch?v=fUuJ2fv0oo4)
 - [Getting a Tech Job - Shawn Charles](https://www.youtube.com/watch?v=K_1FgNSEYMM)
 - [6 Definitions of DevRel and Developer Advocacy - DevRel Unlocked - ep.3](https://www.youtube.com/watch?v=K9ADWSTqdRw)
 - [Build a Rest API using Rust, Postgres, Docker](https://www.youtube.com/watch?v=IDCWgG93_mo)
+- [References and Borrowing](https://www.youtube.com/watch?v=UY73XNBfjNY)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
