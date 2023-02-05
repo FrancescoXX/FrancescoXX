@@ -89,7 +89,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [3 reason to follow Francesco in 2023.](https://www.youtube.com/watch?v=fUuJ2fv0oo4)
 - [Getting a Tech Job - Shawn Charles](https://www.youtube.com/watch?v=K_1FgNSEYMM)
 - [6 Definitions of DevRel and Developer Advocacy - DevRel Unlocked - ep.3](https://www.youtube.com/watch?v=K9ADWSTqdRw)
-- [Build a Rest API using Rust, Postgres, Docker](https://www.youtube.com/watch?v=IDCWgG93_mo)
+- [References and Borrowing](https://www.youtube.com/watch?v=UY73XNBfjNY)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
