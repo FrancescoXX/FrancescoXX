@@ -85,7 +85,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Build a Rest API in JavaScript using Nodejs, Express, Postgres, Docker #javascript](https://www.youtube.com/watch?v=Uv-jMWV29rU)
+- [Build a CRUD Rest API in JavaScript using Nodejs, Express, Postgres, Docker #javascript](https://www.youtube.com/watch?v=Uv-jMWV29rU)
 - [Open Source &amp; DevRel - Kelsey Hightower](https://www.youtube.com/watch?v=GZPs8SvpOKA)
 - [Appwrite and Open Source | with Eldad A. Fux &lpar;founder, CEO and creator of Appwrite &rpar;](https://www.youtube.com/watch?v=MuLdioAEmc4)
 - [How to get started with DevRel - 4 Main Factors](https://www.youtube.com/watch?v=RCODaKac_9A)
