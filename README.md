@@ -100,7 +100,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [CHAT-GPT changes everything](https://dev.to/francescoxx/chat-gpt-changes-everything-5487)
 - [What is Rust?](https://dev.to/francescoxx/what-is-rust-2ii6)
 - [Solidity Hello world](https://dev.to/francescoxx/solidity-hello-world-2m08)
-- [How to Learn Web3 &lpar;December 2022&rpar;](https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h)
+- [How to Learn Web3](https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
