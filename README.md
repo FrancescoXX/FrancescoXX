@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [The Docker Community - Scott Johnston](https://www.youtube.com/watch?v=apu9o6KHpWA)
 - [The Power of Web3modal - WalletConnect in Action](https://www.youtube.com/watch?v=rFNh3APd2wQ)
 - [3 Types of DevRel  #devrel](https://www.youtube.com/watch?v=oAcHG96Bqog)
 - [Build a CRUD Rest API in Python using Flask, Postgres, Docker and Docker compose #python #docker](https://www.youtube.com/watch?v=fHQWTsWqBdE)
 - [Blockchain SDKs: @AlchemyPlatform @thirdweb_ @MoralisWeb3](https://www.youtube.com/watch?v=iaR3sxzIXHQ)
-- [Build a CRUD Rest API in JavaScript using Nodejs, Express, Postgres, Sequelize, Docker](https://www.youtube.com/watch?v=Uv-jMWV29rU)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
