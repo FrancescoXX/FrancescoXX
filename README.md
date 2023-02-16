@@ -89,7 +89,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [3 Types of DevRel  #devrel](https://www.youtube.com/watch?v=oAcHG96Bqog)
 - [Build a CRUD Rest API in Python using Flask, Postgres, Docker and Docker compose #python #docker](https://www.youtube.com/watch?v=fHQWTsWqBdE)
 - [Blockchain SDKs: @AlchemyPlatform @thirdweb_ @MoralisWeb3](https://www.youtube.com/watch?v=iaR3sxzIXHQ)
-- [Build a CRUD Rest API in JavaScript using Nodejs, Express, Postgres, Docker #javascript](https://www.youtube.com/watch?v=Uv-jMWV29rU)
+- [Build a CRUD Rest API in JavaScript using Nodejs, Express, Postgres, Sequelize, Docker](https://www.youtube.com/watch?v=Uv-jMWV29rU)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
