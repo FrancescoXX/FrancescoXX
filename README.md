@@ -87,7 +87,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Build a CRUD Rest API in Python using Flask, Postgres, Docker and Docker compose #python #docker](https://www.youtube.com/watch?v=fHQWTsWqBdE)
 - [ChatGPT in Action - let&#39;s build with Open AI](https://www.youtube.com/watch?v=3KtRYjvRv-w)
-- [The Power of Web3modal - WalletConnect in Action](https://www.youtube.com/watch?v=rFNh3APd2wQ)
+- [The Power of Web3modal ⚡ WalletConnect in Action](https://www.youtube.com/watch?v=rFNh3APd2wQ)
 - [Appwrite and Open Source | with Eldad A. Fux &lpar;founder, CEO and creator of Appwrite &rpar;](https://www.youtube.com/watch?v=MuLdioAEmc4)
 - [The Docker Community - Scott Johnston](https://www.youtube.com/watch?v=apu9o6KHpWA)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
