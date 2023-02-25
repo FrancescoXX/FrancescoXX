@@ -88,8 +88,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [The Docker Community - Scott Johnston](https://www.youtube.com/watch?v=apu9o6KHpWA)
 - [Free Web 3 Resources - Build the website with Docusaurus](https://www.youtube.com/watch?v=YLW5fH-CXC8)
 - [DevRel: the worst and the best part - what is Devr-Hell](https://www.youtube.com/watch?v=S_3B0Co2KJo)
-- [Build a CRUD Rest API in Go using Mux, Postgres, Docker and Docker Compose #golang #docker](https://www.youtube.com/watch?v=aLVJY-1dKz8)
 - [Build a CRUD Rest API in Python using Flask, Postgres, Docker and Docker compose #python #docker](https://www.youtube.com/watch?v=fHQWTsWqBdE)
+- [ChatGPT in Action - let&#39;s build with Open AI](https://www.youtube.com/watch?v=3KtRYjvRv-w)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
