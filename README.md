@@ -96,11 +96,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Build a CRUD Rest API in Go using Mux, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/build-a-crud-rest-api-in-go-using-mux-postgres-docker-and-docker-compose-2a75)
 - [Build a CRUD Rest API in Python using Flask, SQLAlchemy, Postgres, Docker](https://dev.to/francescoxx/build-a-crud-rest-api-in-python-using-flask-sqlalchemy-postgres-docker-28lo)
 - [Build a CRUD Rest API in JavaScript using Nodejs, Express, Postgres, Docker](https://dev.to/francescoxx/build-a-crud-rest-api-in-javascript-using-nodejs-express-postgres-docker-jkb)
 - [CHAT-GPT changes everything](https://dev.to/francescoxx/chat-gpt-changes-everything-5487)
 - [What is Rust?](https://dev.to/francescoxx/what-is-rust-2ii6)
-- [Solidity Hello world](https://dev.to/francescoxx/solidity-hello-world-2m08)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
