@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is a Developer Advocate? | @themarcba @_wearedevs @dailydotdev #devrel](https://www.youtube.com/watch?v=B3y2qLoszlQ)
 - [Build a CRUD Rest API in Go using Mux, Postgres, Docker and Docker Compose #golang #docker](https://www.youtube.com/watch?v=aLVJY-1dKz8)
 - [The Docker Community - Scott Johnston](https://www.youtube.com/watch?v=apu9o6KHpWA)
 - [Free Web 3 Resources - Build the website with Docusaurus](https://www.youtube.com/watch?v=YLW5fH-CXC8)
 - [DevRel: the worst and the best part - what is Devr-Hell](https://www.youtube.com/watch?v=S_3B0Co2KJo)
-- [Build a CRUD Rest API in Python using Flask, Postgres, Docker and Docker compose #python #docker](https://www.youtube.com/watch?v=fHQWTsWqBdE)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
