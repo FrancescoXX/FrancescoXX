@@ -86,10 +86,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Java CRUD API app coming soon...#java #docker](https://www.youtube.com/watch?v=t3YOHFvljWs)
-- [Build a CRUD Rest API in Java using Spring boot, Hibernate, Postgres, Docker and Docker Compose](https://www.youtube.com/watch?v=Nefd6qdpdSI)
 - [Public Speaking as a DevRel](https://www.youtube.com/watch?v=Qmq6EAnmlA0)
 - [Introduction to Solidity and the Blockchain](https://www.youtube.com/watch?v=m2688JFRft0)
 - [Can you be a DevRel if you are a non-native speaker?](https://www.youtube.com/watch?v=CSgWIUswUOM)
+- [What is a Developer Advocate? | @themarcba @_wearedevs @dailydotdev #devrel](https://www.youtube.com/watch?v=B3y2qLoszlQ)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
