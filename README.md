@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build a CRUD Rest API in TypeScript, using Nest..js, TypeORM, Postgres, Docker and Docker Compose](https://www.youtube.com/watch?v=gqFauCpPSlw)
 - [Platformatic in Action - with Matteo Collina](https://www.youtube.com/watch?v=dIyqbtEUTxI)
 - [DevRel &amp; Communities - With Lee Robinson](https://www.youtube.com/watch?v=73cAxCskqgs)
 - [Free Web3 Resources project part2](https://www.youtube.com/watch?v=HFDiDId8a3E)
 - [Free Web3 Resources project](https://www.youtube.com/watch?v=YLW5fH-CXC8)
-- [Build a CRUD Rest API in Java using Spring boot, Hibernate, Postgres, Docker and Docker Compose](https://www.youtube.com/watch?v=Nefd6qdpdSI)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
