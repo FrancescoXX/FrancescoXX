@@ -89,7 +89,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Unboxing @dailydotdev swag #devrel](https://www.youtube.com/watch?v=PHmVwC7A2n4)
 - [Tomorrow. @dailydotdev #devrel #programming](https://www.youtube.com/watch?v=e5taU93TR0I)
 - [In-person events as a DevRel - EthDenver 2023 experience](https://www.youtube.com/watch?v=0UO_1vYKCno)
-- [Build a CRUD Rest API in TypeScript, using Nest..js, TypeORM, Postgres, Docker and Docker Compose](https://www.youtube.com/watch?v=gqFauCpPSlw)
+- [Platformatic in Action - with Matteo Collina](https://www.youtube.com/watch?v=dIyqbtEUTxI)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
