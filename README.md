@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [ChatGPT in Action - let&#39;s build with Open AI](https://www.youtube.com/watch?v=3KtRYjvRv-w)
 - [Dive deep into Lens Protocol #blockchain #web3 #webdev](https://www.youtube.com/watch?v=oYs8HI5S86M)
 - [Build a project from zero with Lens Protocol](https://www.youtube.com/watch?v=I53oz2YIA_4)
 - [Build a CRUD Rest API in Python, using Django, Postgres, Docker and Docker Compose](https://www.youtube.com/watch?v=GaPAGkJDzGQ)
 - [Don&#39;t send your CV to get a DevRel Job!](https://www.youtube.com/watch?v=3sSuZ1Lv8nE)
-- [Build a CRUD Rest API in TypeScript, using Nest..js, TypeORM, Postgres, Docker and Docker Compose](https://www.youtube.com/watch?v=gqFauCpPSlw)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
