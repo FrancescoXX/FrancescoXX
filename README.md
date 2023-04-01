@@ -89,7 +89,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [ChatGPT in Action - let&#39;s build with Open AI](https://www.youtube.com/watch?v=3KtRYjvRv-w)
 - [Dive deep into Lens Protocol #blockchain #web3 #webdev](https://www.youtube.com/watch?v=oYs8HI5S86M)
 - [Build a project from zero with Lens Protocol](https://www.youtube.com/watch?v=I53oz2YIA_4)
-- [Build a CRUD Rest API in Python, using Django, Postgres, Docker and Docker Compose](https://www.youtube.com/watch?v=GaPAGkJDzGQ)
+- [CRUD rest api in Python](https://www.youtube.com/watch?v=GaPAGkJDzGQ)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
