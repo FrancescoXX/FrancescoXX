@@ -86,7 +86,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Company Gatherings and DevRel](https://www.youtube.com/watch?v=2SXLGMedllc)
-- [Build a project from zero with Lens Protocol](https://www.youtube.com/watch?v=I53oz2YIA_4)
+- [Build a Next app in JavaScript, using Tailwind CSS, Vercel and Lens Protocol](https://www.youtube.com/watch?v=I53oz2YIA_4)
 - [Build a CRUD Rest API in Python using Django, Django Rest Framework, Postgres, Docker](https://www.youtube.com/watch?v=GaPAGkJDzGQ)
 - [Build a CRUD Rest API in Kotlin, using Spring boot, Hibernate, Postgres, Docker and Docker Compose](https://www.youtube.com/watch?v=BbT1PCAOS2s)
 - [2 Tips to learn Web3](https://www.youtube.com/watch?v=uQSGH50gaVo)
