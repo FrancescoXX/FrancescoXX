@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [C# CRUD Rest API using .NET 7, ASP.NET, Entity Framework, Postgres, Docker, Docker Compose](https://www.youtube.com/watch?v=PY6uD1fgzZA)
 - [Platformatic in Action - with Matteo Collina](https://www.youtube.com/watch?v=dIyqbtEUTxI)
 - [Company Gatherings and DevRel](https://www.youtube.com/watch?v=2SXLGMedllc)
 - [Build a Next app in JavaScript, using Tailwind CSS, Vercel and Lens Protocol](https://www.youtube.com/watch?v=I53oz2YIA_4)
 - [Build a CRUD Rest API in Python using Django, Django Rest Framework, Postgres, Docker](https://www.youtube.com/watch?v=GaPAGkJDzGQ)
-- [Build a CRUD Rest API in Kotlin, using Spring boot, Hibernate, Postgres, Docker and Docker Compose](https://www.youtube.com/watch?v=BbT1PCAOS2s)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
