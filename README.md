@@ -96,11 +96,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Kubernetes quick tutorial](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)
 - [C# &lpar;C Sharp&rpar; CRUD Rest API using .NET 7, ASP.NET, Entity Framework, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/c-c-sharp-crud-rest-api-using-net-7-aspnet-entity-framework-postgres-docker-and-docker-compose-493a)
 - [Dockerize a Python application](https://dev.to/francescoxx/dockerize-a-python-application-1olg)
 - [Kotlin CRUD Rest Api using Spring Boot, Hibernate, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/kotlin-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-1cnl)
 - [Python CRUD Rest API, using: Django, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/python-crud-rest-api-using-django-postgres-docker-and-docker-compose-4nhe)
-- [TypeScript CRUD Rest API, using Nest.js, TypeORM, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
