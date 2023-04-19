@@ -85,11 +85,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to grow an audience as an Indie hacker - Content Creator](https://www.youtube.com/watch?v=ve2qIVVfybY)
 - [What is Best language for Ethereum?](https://www.youtube.com/watch?v=yqwfaHXMaj0)
 - [Kubernetes quick tutorial - simply explained](https://www.youtube.com/watch?v=noJmOirhHKM)
 - [C# CRUD Rest API using .NET 7, ASP.NET, Entity Framework, Postgres, Docker, Docker Compose](https://www.youtube.com/watch?v=PY6uD1fgzZA)
 - [Docker init](https://www.youtube.com/watch?v=f4cHtDRZv5U)
-- [Should you code as a Devrel?](https://www.youtube.com/watch?v=R-30b07eFNI)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
