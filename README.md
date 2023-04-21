@@ -1,3 +1,18 @@
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none;" valign="middle">
+      <a href="https://www.youtube.com/c/FrancescoCiulla">
+        <strong>Check YouTube -> </strong>
+      </a>
+    </td>
+    <td style="border: none;" valign="middle">
+      <a href="https://www.youtube.com/c/FrancescoCiulla">
+        <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40" style="position: relative; top: 3px;"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!-- <img align=right src="https://github.com/FrancescoXX/FrancescoXX/blob/main/devcard.svg" width="200" alt="Francesco's Dev Card"/> -->
 <div align=center>
 <a href="https://www.tiktok.com/@francesco.ciulla"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a> 
