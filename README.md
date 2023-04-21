@@ -6,7 +6,7 @@
       </a>
     </td>
     <td style="border: none;" valign="middle">
-      <a href="https://www.youtube.com/c/FrancescoCiulla">
+      <a style="line-height:0;" href="https://www.youtube.com/c/FrancescoCiulla">
         <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40" style="position: relative; top: 3px;"/>
       </a>
     </td>
