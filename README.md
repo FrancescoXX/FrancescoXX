@@ -117,10 +117,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Rust 🦀 CRUD Rest API - intro](https://www.youtube.com/watch?v=3DQ9Or5JAnU)
-- [Developers and Communities - Avie](https://www.youtube.com/watch?v=NOhdFRRTacM)
 - [Developers and DevRels](https://www.youtube.com/watch?v=8I3WsIlzknk)
 - [How to store data on the ⛓️  Blockchain](https://www.youtube.com/watch?v=CDZODUrPEsw)
 - [Rust 🦀 CRUD Rest API - Rust, Postgres, Docker, Docker Compose](https://www.youtube.com/watch?v=vhNoiBOuW94)
+- [Big Announcements as a DevRel](https://www.youtube.com/watch?v=4X5wgcCC4BA)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
