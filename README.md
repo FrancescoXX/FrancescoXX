@@ -3,8 +3,6 @@
 https://www.youtube.com/@francescociulla
  
 <!-- 
-
-
  
 </td><td valign="top" width="50%">
 
