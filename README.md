@@ -115,10 +115,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How I got a raise as a Developer Advocate](https://www.youtube.com/watch?v=a7NK9OOjz_A)
-- [Members-only event - #1](https://www.youtube.com/watch?v=WSAzloDtAWM)
 - [4 Ways to grow your Developer Audience - as a DevRel](https://www.youtube.com/watch?v=WnaYRafLOmc)
 - [Developers and Communities - Avie](https://www.youtube.com/watch?v=NOhdFRRTacM)
 - [Rust 🦀 CRUD Rest API - intro](https://www.youtube.com/watch?v=3DQ9Or5JAnU)
+- [Developers and DevRels](https://www.youtube.com/watch?v=8I3WsIlzknk)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
