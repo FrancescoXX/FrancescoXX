@@ -114,11 +114,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Web3, Crypto, and Decentralized Social Media &lpar;Lens Protocol, Bluesky, AT Protocol&rpar;](https://www.youtube.com/watch?v=hTt67PEpo88)
 - [What is Kubernetes?](https://www.youtube.com/watch?v=2_2Y1U3RSxc)
 - [How I got a raise as a Developer Advocate](https://www.youtube.com/watch?v=a7NK9OOjz_A)
 - [4 Ways to grow your Developer Audience - as a DevRel](https://www.youtube.com/watch?v=WnaYRafLOmc)
 - [Developers and Communities - Avie](https://www.youtube.com/watch?v=NOhdFRRTacM)
-- [Rust 🦀 CRUD Rest API - intro](https://www.youtube.com/watch?v=3DQ9Or5JAnU)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
