@@ -114,11 +114,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Open Source &amp; DevRel |  Kelsey Hightower](https://www.youtube.com/watch?v=CfbmRePymDY)
 - [Interview with @KunalKushwaha](https://www.youtube.com/watch?v=zbHhYx5Lyms)
 - [How to submit an effective CFP](https://www.youtube.com/watch?v=i9m6Kdh1HRc)
 - [Typescript CRUD API: Next.js, TypeScript, Tailwind, tRPC, Prisma Postgres, Docker](https://www.youtube.com/watch?v=Gf9RkaHnsR8)
 - [🤯 In-person feedback is mindblowing](https://www.youtube.com/watch?v=UTeoslp3z6c)
-- [Developers and Communities | with Salman Chishti](https://www.youtube.com/watch?v=ttcvJPmhFQU)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
