@@ -117,7 +117,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Build an open source project for content creation #1](https://www.youtube.com/watch?v=BxYJnON2r4o)
 - [Developers and Public speaking](https://www.youtube.com/watch?v=aFLam5lPRnI)
 - [DevRels and Social Media - DevRel Roundtable](https://www.youtube.com/watch?v=lrwGfagJ-8M)
-- [Open Source &amp; DevRel |  Kelsey Hightower](https://www.youtube.com/watch?v=CfbmRePymDY)
+- [Open Source Software Community and Developer Relations - Software Engineer](https://www.youtube.com/watch?v=CfbmRePymDY)
 - [Interview with @KunalKushwaha](https://www.youtube.com/watch?v=zbHhYx5Lyms)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
