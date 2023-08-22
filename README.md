@@ -114,11 +114,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build an Open Source project for Content Creation - Content Box](https://www.youtube.com/watch?v=jeP5Cnqk35U)
 - [How to Learn Web3 - live in Croatia](https://www.youtube.com/watch?v=OPF1KEJdX9Q)
 - [Build an open source project for content creation #2](https://www.youtube.com/watch?v=PH2qkpIle50)
 - [Build an open source project for content creation #1](https://www.youtube.com/watch?v=BxYJnON2r4o)
 - [Developers and Public speaking](https://www.youtube.com/watch?v=aFLam5lPRnI)
-- [DevRels and Social Media - DevRel Roundtable](https://www.youtube.com/watch?v=lrwGfagJ-8M)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
