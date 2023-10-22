@@ -114,11 +114,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to be an Epic Developer - Kent Dodds](https://www.youtube.com/watch?v=Xws3_Ln8sz0)
 - [Cast AI - Automate Kubernetes cost, performance, and security management](https://www.youtube.com/watch?v=ilt7u7mLrlY)
 - [Developer Relations and Conferences - Edidiong Asikpo](https://www.youtube.com/watch?v=S6DLU0y5DVs)
 - [Breaking into tech - Layla](https://www.youtube.com/watch?v=R57-xSieIQk)
 - [Hacktoberfest 2023 - Content Box and other Open Source projects](https://www.youtube.com/watch?v=xdRb4BRHnCU)
-- [Hacktoberfest 2023 - how to get started with open source](https://www.youtube.com/watch?v=1vxWpRIYehQ)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
