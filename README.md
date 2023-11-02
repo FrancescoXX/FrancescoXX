@@ -115,10 +115,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to be an Epic Developer - Kent Dodds @KentCDodds-vids](https://www.youtube.com/watch?v=Xws3_Ln8sz0)
-- [EthMiami Hackathon winners](https://www.youtube.com/watch?v=-Wn-VgIcgFs)
 - [Breaking into tech - Layla](https://www.youtube.com/watch?v=R57-xSieIQk)
 - [Cast AI - Automate Kubernetes cost, performance, and security management](https://www.youtube.com/watch?v=ilt7u7mLrlY)
 - [Developer Relations and Conferences - Edidiong Asikpo](https://www.youtube.com/watch?v=S6DLU0y5DVs)
+- [Hacktoberfest 2023 - Content Box and other Open Source projects](https://www.youtube.com/watch?v=xdRb4BRHnCU)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
