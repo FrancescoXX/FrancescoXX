@@ -114,11 +114,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Docker Tutorial Crash Course! @DockerIo](https://www.youtube.com/watch?v=i9M2YBSKp4M)
 - [🅰️ Angular 17 - let&#39;s try it](https://www.youtube.com/watch?v=rRct4kVi6aE)
 - [Developer Relations and Conferences - Edidiong Asikpo](https://www.youtube.com/watch?v=S6DLU0y5DVs)
 - [New launch - new AI feature](https://www.youtube.com/watch?v=p5YZTyYCYcg)
 - [What is Docker? What is a Docker Container and a Docker Image? #opensource #docker #software #devops](https://www.youtube.com/watch?v=2RFw3_V4eU8)
-- [Developers and live streams!](https://www.youtube.com/watch?v=k_ysziP67yY)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
