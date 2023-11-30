@@ -125,11 +125,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
+- [WTF...Next.js app deployed with Docker?](https://dev.to/francescoxx/wtfnextjs-app-deployed-with-docker-4h3m)
 - [Typescript 🟦 CRUD API: Next.js, Tailwind, tRPC, Prisma Postgres, Docker](https://dev.to/francescoxx/typescript-crud-api-with-trpc-4689)
 - [How to test your app using Docker Containers and Postman](https://dev.to/francescoxx/how-to-test-your-app-using-docker-containers-and-postman-3j04)
 - [Rust 🦀 CRUD Rest API with Docker 🐳](https://dev.to/francescoxx/rust-crud-rest-api-3n45)
 - [PHP CRUD Rest API with Docker](https://dev.to/francescoxx/php-crud-rest-api-with-docker-2c3f)
-- [Kubernetes quick tutorial](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
