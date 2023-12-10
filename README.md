@@ -114,11 +114,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Full Stack App: Next.js 14, Rust, Postgres, Docker](https://www.youtube.com/watch?v=kPxZXPRMJNw)
 - [Full Stack App: Next.js, Node.js , Express, Prisma, Posgres, Docker &lpar;PERN&rpar;](https://www.youtube.com/watch?v=NaqNk2TbeRE)
 - [Developers and youTube - Hitesh Choudhary](https://www.youtube.com/watch?v=FkSnrYVD_Bw)
 - [How to make content for Developers @CodingWithLewis](https://www.youtube.com/watch?v=0PVK57WxqDI)
 - [docker build - docker image build command tutorial](https://www.youtube.com/watch?v=alt_C0qmHCA)
-- [Dockerfile tutorial - Docker course](https://www.youtube.com/watch?v=jUaen7_R42o)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
