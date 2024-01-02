@@ -114,7 +114,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Rust Functions](https://www.youtube.com/watch?v=7sIJYL4p1Bk)
+- [Rust Functions - Rust tutorial](https://www.youtube.com/watch?v=7sIJYL4p1Bk)
 - [AI tools for frontend devs - Jack Herrington](https://www.youtube.com/watch?v=cEf_Jwfpk9s)
 - [Web Development Roadmap in 2024 - Dave Gray](https://www.youtube.com/watch?v=bR_kR4mYoHk)
 - [Rust Data types](https://www.youtube.com/watch?v=w4z_J8gmkSk)
