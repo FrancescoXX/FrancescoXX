@@ -125,11 +125,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Control flow in Rust](https://dev.to/francescoxx/control-flow-in-rust-1fkp)
 - [Functions in Rust: a good introduction](https://dev.to/francescoxx/functions-in-rust-a-good-introduction-5a23)
 - [Rust Data Types](https://dev.to/francescoxx/rust-data-types-1mlg)
 - [Variables, Shadowing, and Constants in Rust](https://dev.to/francescoxx/variables-shadowing-and-constants-in-rust-1fcj)
 - [Rust 🦀 Installation + Hello World](https://dev.to/francescoxx/rust-installation-hello-world-1omk)
-- [Python 🐍 fullstack REST API app with Docker 🐳](https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
