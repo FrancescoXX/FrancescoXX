@@ -118,7 +118,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Developer Relations done right - Dennis Ivy @DennisIvy](https://www.youtube.com/watch?v=DxyzRruoPtk)
 - [JavaScript vs Python. Key differences #programming #javascript #python](https://www.youtube.com/watch?v=b_-yAg7IwLc)
 - [5 Rust web frameworks #programming #software](https://www.youtube.com/watch?v=GKGUvr3Swg0)
-- [🎉 50000 subscribers celebration!](https://www.youtube.com/watch?v=Vwbjrtj2IP4)
+- [🔴RAID by @ezsnippat @ezLiveOfficial  #programming #software #dsa #programming #rust](https://www.youtube.com/watch?v=CKT3qAOmImo)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
