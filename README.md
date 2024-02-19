@@ -133,3 +133,5 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
+
+<a href="https://app.daily.dev/francescociulla"><img src="https://api.daily.dev/devcards/v2/QgTYreBqt.png?type=default&r=b8b" width="356" alt="Francesco Ciulla's Dev Card"/></a>
