@@ -118,9 +118,9 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Different types of Data Structures #dsa #programming #development](https://www.youtube.com/watch?v=cM7lYP9c834)
 - [Ownership in Rust -  Rust Tutorial](https://www.youtube.com/watch?v=i3XUjukM2WM)
-- [🎉 60000 subscribers celebration!](https://www.youtube.com/watch?v=Cg0T3X5C75U)
 - [Developer Relations done right - Dennis Ivy @DennisIvy](https://www.youtube.com/watch?v=DxyzRruoPtk)
 - [JavaScript vs Python. Key differences #programming #javascript #python](https://www.youtube.com/watch?v=b_-yAg7IwLc)
+- [5 Rust web frameworks #programming #software](https://www.youtube.com/watch?v=GKGUvr3Swg0)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
