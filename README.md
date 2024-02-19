@@ -1,6 +1,8 @@
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   YouTube Channel
 
 https://www.youtube.com/@francescociulla
+
+<a href="https://app.daily.dev/francescociulla"><img src="https://api.daily.dev/devcards/v2/QgTYreBqt.png?type=default&r=wt4" width="356" alt="Francesco Ciulla's Dev Card"/></a>
  
 <!-- 
  
