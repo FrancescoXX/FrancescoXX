@@ -4,10 +4,10 @@ https://www.youtube.com/@francescociulla
 
 
 
-<a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
+
 <!-- 
 <a href="https://app.daily.dev/francescociulla"><img src="https://api.daily.dev/devcards/v2/QgTYreBqt.png?type=default&r=wt4" width="356" alt="Francesco Ciulla's Dev Card"/></a>
-
+<a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
 <a href="https://app.daily.dev/francescociulla"><img src="https://api.daily.dev/devcards/v2/QgTYreBqt.png?type=default&r=u48" width="356" alt="Francesco Ciulla's Dev Card"/></a>
 </td><td valign="top" width="50%">
 
