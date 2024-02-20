@@ -2,7 +2,7 @@
 
 https://www.youtube.com/@francescociulla
 
-
+<a href="https://app.daily.dev/francescociulla"><img src="https://api.daily.dev/devcards/v2/QgTYreBqt.png?type=default&r=akz" width="356" alt="Francesco Ciulla's Dev Card"/></a>
 
 
 <!-- 
