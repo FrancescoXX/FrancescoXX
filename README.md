@@ -119,11 +119,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Ownership in Rust - Rust Crash Tutorial](https://www.youtube.com/watch?v=9VBLOwmNE1g)
 - [Developer Relations - Sam Julien](https://www.youtube.com/watch?v=lXbIwI09dz8)
 - [Different types of Data Structures #dsa #programming #development](https://www.youtube.com/watch?v=cM7lYP9c834)
 - [Ownership in Rust -  Rust Tutorial](https://www.youtube.com/watch?v=i3XUjukM2WM)
 - [Developer Relations done right - Dennis Ivy @DennisIvy](https://www.youtube.com/watch?v=DxyzRruoPtk)
-- [JavaScript vs Python. Key differences #programming #javascript #python](https://www.youtube.com/watch?v=b_-yAg7IwLc)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
