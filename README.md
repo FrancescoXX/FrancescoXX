@@ -123,9 +123,9 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Level up your tech career - With Taylor Desseyn](https://www.youtube.com/watch?v=p56g683G_po)
 - [An example of Struct in Rust](https://www.youtube.com/watch?v=mgK5LezkHl8)
+- [Time Management for developers - @saumya1singh](https://www.youtube.com/watch?v=_khO4rFBO-s)
 - [Try Daytona @daytonaio](https://www.youtube.com/watch?v=b2sbD6kAy08)
 - [Methods - Rust Live Tutorial](https://www.youtube.com/watch?v=VnSSNWSWxWA)
-- [What is Devin, the first AI software engineer? Are you Scared?](https://www.youtube.com/watch?v=qUrmFpVM4wo)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
