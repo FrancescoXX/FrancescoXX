@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Developer Relations - Amanda Martin @WixStudio](https://www.youtube.com/watch?v=g51fuN1gXbg)
 - [Methods for Structs - Rust full tutorial](https://www.youtube.com/watch?v=94iSHoKmPmY)
 - [Match construct in Rust - Rust tutorial live](https://www.youtube.com/watch?v=7knPQ2wcRCA)
 - [Enums - Rust live tutorial](https://www.youtube.com/watch?v=OjOLHtrGBjM)
 - [Why Rust?  #rustlang #programming #software #webdevelopment](https://www.youtube.com/watch?v=XiECSAO_-t0)
-- [Packages and Crates in Rust - Rust Live turotial](https://www.youtube.com/watch?v=IbrlEA8c1cA)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
