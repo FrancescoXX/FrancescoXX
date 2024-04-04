@@ -122,7 +122,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [The Match Construct in Rust](https://www.youtube.com/watch?v=swecENYqgAw)
-- [How to improve you communication - with Tejas Kumar](https://www.youtube.com/watch?v=GO2hLFrRvJs)
+- [How to improve your communication - with Tejas Kumar](https://www.youtube.com/watch?v=GO2hLFrRvJs)
 - [Enums in Rust - Rust full tutorial](https://www.youtube.com/watch?v=XQWX7dMqY3U)
 - [Build a TypeScript Rest API using Nest.js, Mongo and Docker with @codeSTACKr](https://www.youtube.com/watch?v=qFnYYqCKDow)
 - [Web3 and Decentralized social media](https://www.youtube.com/watch?v=eY_gGmlQB-A)
