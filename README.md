@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Will AI replace prorammers?](https://www.youtube.com/watch?v=u16e5sGdTLY)
 - [Storing UTF-8 Encoded Text with Strings - Rust tutorial live](https://www.youtube.com/watch?v=VJJtGQTzfeE)
 - [Vectors - Rust tutorial live](https://www.youtube.com/watch?v=f3jJHezuy84)
 - [Switching career to tech - How my life changed in the past 10 years &lpar;2014-2024&rpar;](https://www.youtube.com/watch?v=ZntnnMNNHF0)
 - [Defining Modules in Rust - Rust tutorial live](https://www.youtube.com/watch?v=UtDMzjwSLbI)
+- [how to create a sinple function that waits 3s in Rust. Don&#39;t forget to recompile!](https://www.youtube.com/watch?v=IcrDm1EKy5w)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
