@@ -122,7 +122,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Will Rust blow up? with @ezLiveOfficial](https://www.youtube.com/watch?v=_5yrda0bE4A)
-- [Welcome 👋 am Francesco Ciulla, a Software Developer from Italy](https://www.youtube.com/watch?v=NSCXVD_niGw)
+- [What is this YouTube Channel about??](https://www.youtube.com/watch?v=NSCXVD_niGw)
 - [Simplifying Web Development and AI - with Kyle - @WebDevSimplified](https://www.youtube.com/watch?v=Q1uUqKEO1HU)
 - [Leading DevRel - Dani Passos](https://www.youtube.com/watch?v=JQgB6MKU89Y)
 - [Defining modules in Rust - Rust full tutorial](https://www.youtube.com/watch?v=C0_b9r1Wcpo)
