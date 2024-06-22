@@ -122,7 +122,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [float types in Rust - #rustlang #software #programmingtutorial](https://www.youtube.com/watch?v=f91IcISoOok)
-- [Understanding Time and Space Complexity in Algorithms | Big-O Notation Explained](https://www.youtube.com/watch?v=fRbHDwFvmxA)
+- [Understanding Time and Space Complexity in Algorithms | Big-O Notation Explained - DSA Course](https://www.youtube.com/watch?v=fRbHDwFvmxA)
 - [Getting Started with Cloud - with @KunalKushwaha  from @CivoCloud](https://www.youtube.com/watch?v=nMX9_8qOKPY)
 - [Debugging Rust with Recoverable Errors: Result, Match, ? - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=NBFH3BnCIvU)
 - [Integers data types in Rust #rustlang](https://www.youtube.com/watch?v=ZKy6uz4zAOY)
