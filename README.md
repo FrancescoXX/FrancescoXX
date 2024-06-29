@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Wix DevStudioCon - Live from Bangalore](https://www.youtube.com/watch?v=0n39MeK_FPA)
 - [I was really shy in  2020. But many things have changed since then @_wearedevs @dailydotdev](https://www.youtube.com/watch?v=PGO6voFdMLg)
 - [Rust Error Handling: When to Use panic! vs Result Explained - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=6AkRRzcAUKk)
 - [Lifetimes to validate References](https://www.youtube.com/watch?v=JfjNJBkqUXo)
 - [Traits: Defining Shared Behavior](https://www.youtube.com/watch?v=9-dGm2AwItY)
-- [Generic Data Types](https://www.youtube.com/watch?v=_O1gq-LoL3E)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
