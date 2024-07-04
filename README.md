@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Controlling How Tests Are Run in Rust - Rust live tutorial](https://www.youtube.com/watch?v=LhzkG0COLr0)
+- [How to write tests in Rust - Rust tutorial live](https://www.youtube.com/watch?v=04eVRrpESn8)
 - [Quick 1 hour Q&amp;A](https://www.youtube.com/watch?v=Y1IHNwLTC8k)
 - [Generics, Traits, and Lifetimes in Rust: Concepts &amp; Examples -Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=gFTJcroX5Ww)
 - [Wix DevStudioCon - Live from Bangalore](https://www.youtube.com/watch?v=0n39MeK_FPA)
-- [I was really shy in  2020. But many things have changed since then @_wearedevs @dailydotdev](https://www.youtube.com/watch?v=PGO6voFdMLg)
-- [Rust Error Handling: When to Use panic! vs Result Explained - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=6AkRRzcAUKk)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
