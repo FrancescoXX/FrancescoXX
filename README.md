@@ -132,11 +132,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
+- [A New AI Tool for my Rust Open Source Project](https://dev.to/francescoxx/a-new-ai-tool-for-my-rust-open-source-project-5c52)
 - [A new project for Rust Developers??](https://dev.to/francescoxx/a-new-project-for-rust-developers-5cbj)
 - [unwrap_or_else in Rust](https://dev.to/francescoxx/unwraporelse-in-rust-2ogh)
 - [What is Mina Protocol](https://dev.to/francescoxx/what-is-mina-protocol-40il)
 - [Structs in Rust](https://dev.to/francescoxx/structs-in-rust-2a9a)
-- [Slices in Rust](https://dev.to/francescoxx/slices-in-rust-g6)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
