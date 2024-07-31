@@ -132,11 +132,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Getting familiar with Rust&#39;s Syntax](https://dev.to/francescoxx/getting-familiar-with-rusts-syntax-35cd)
 - [How to Write Tests in Rust](https://dev.to/francescoxx/how-to-write-tests-in-rust-2pde)
 - [Announcing Rust 1.80.0](https://dev.to/francescoxx/announcing-rust-1800-2njd)
 - [Exciting Announcement: My New Book on Rust Programming!](https://dev.to/francescoxx/exciting-announcement-my-new-book-on-rust-programming-2bob)
 - [Lifetimes in Rust explained](https://dev.to/francescoxx/lifetimes-in-rust-explained-4og8)
-- [What are Traits in Rust? A well-known concept you might already know](https://dev.to/francescoxx/what-are-traits-in-rust-a-well-known-concept-you-might-already-know-4b01)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
