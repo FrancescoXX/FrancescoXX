@@ -121,7 +121,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Test Driven Development in Rust - Rust live tutorial](https://www.youtube.com/watch?v=uMzMDU5q7UY)
+- [Test Driven Development in Rust - Full Crash Rust tutorial for Beginners](https://www.youtube.com/watch?v=uMzMDU5q7UY)
 - [Introduction to Blockchain and solidity - Francesco Ciulla](https://www.youtube.com/watch?v=4PHR9FPQZI8)
 - [Closures in Rust: Anonymous Functions that Capture Their Environment](https://www.youtube.com/watch?v=agm_oW8t8tE)
 - [Writing Error Messages to Standard Error Instead of Standard Output](https://www.youtube.com/watch?v=2B7vyCE8P-E)
