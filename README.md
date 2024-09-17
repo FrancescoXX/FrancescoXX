@@ -132,11 +132,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Rust fullstack web app! WASM + YEW + ROCKET](https://dev.to/francescoxx/rust-fullstack-web-app-wasm-yew-rocket-3ian)
 - [Rocket - The Rust Web Framework - Hello World](https://dev.to/francescoxx/rocket-the-rust-web-framework-hello-world-31po)
 - [Build a CLI in Rust](https://dev.to/francescoxx/build-a-cli-in-rust-5029)
 - [Build YouTube API Data Fetching Using Rust](https://dev.to/francescoxx/build-youtube-api-data-fetching-using-rust-2713)
 - [Reading Files in Rust](https://dev.to/francescoxx/reading-files-in-rust-13ca)
-- [Building a Simple CLI in Rust](https://dev.to/francescoxx/building-a-simple-cli-in-rust-4hof)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
