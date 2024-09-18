@@ -122,10 +122,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Rust Fullstack Web Application: Wasm, Yes, Rocket, Postgres and Docker](https://www.youtube.com/watch?v=FYVbt6YFMsM)
-- [Espresso with S - Live Q&amp;A with YOU - ep2](https://www.youtube.com/watch?v=jpzAskuxJyw)
 - [Loops in Rust - loop keyword  #rustdevelopment #programmingtutorial#shorts](https://www.youtube.com/watch?v=sBLqBVswwn0)
 - [Test Driven Development in Rust - Full Crash Rust tutorial for Beginners](https://www.youtube.com/watch?v=uMzMDU5q7UY)
 - [Introduction to Blockchain and solidity - Francesco Ciulla](https://www.youtube.com/watch?v=4PHR9FPQZI8)
+- [Closures in Rust: Anonymous Functions that Capture Their Environment](https://www.youtube.com/watch?v=agm_oW8t8tE)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
