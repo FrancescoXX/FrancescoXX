@@ -132,11 +132,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
+- [What are Closures in Rust?](https://dev.to/francescoxx/what-are-closures-in-rust-3c30)
 - [3 ways to use environment Variables in Rust](https://dev.to/francescoxx/3-ways-to-use-environment-variables-in-rust-4eaf)
 - [Environment Variables in Rust](https://dev.to/francescoxx/environment-variables-in-rust-4m5l)
 - [Why might Rust be a smart choice for developers today?](https://dev.to/francescoxx/why-might-rust-be-a-smart-choice-for-developers-today-4ol1)
 - [Rust fullstack web app! WASM + YEW + ROCKET](https://dev.to/francescoxx/rust-fullstack-web-app-wasm-yew-rocket-3ian)
-- [Rocket - The Rust Web Framework - Hello World](https://dev.to/francescoxx/rocket-the-rust-web-framework-hello-world-31po)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
