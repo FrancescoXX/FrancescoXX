@@ -132,11 +132,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Python CRUD Rest API using Flask, SQLAlchemy, Postgres, Docker, Docker Compose](https://dev.to/francescoxx/python-crud-rest-api-using-flask-sqlalchemy-postgres-docker-docker-compose-3kh4)
 - [Closures in Rust](https://dev.to/francescoxx/closures-in-rust-2kcm)
 - [What are Closures in Rust?](https://dev.to/francescoxx/what-are-closures-in-rust-3c30)
 - [3 ways to use environment Variables in Rust](https://dev.to/francescoxx/3-ways-to-use-environment-variables-in-rust-4eaf)
 - [Environment Variables in Rust](https://dev.to/francescoxx/environment-variables-in-rust-4m5l)
-- [Why might Rust be a smart choice for developers today?](https://dev.to/francescoxx/why-might-rust-be-a-smart-choice-for-developers-today-4ol1)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
