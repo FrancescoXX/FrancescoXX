@@ -124,7 +124,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [🚨 Rust live - Cargo Workspaces](https://www.youtube.com/watch?v=PF5rozqH974)
 - [🚨 Rust live - Publish a Crate](https://www.youtube.com/watch?v=8HlMJUYTsTQ)
 - [What is Cloud Computing? @KunalKushwaha #cloudcomputing #docker](https://www.youtube.com/watch?v=9LqOcZk349s)
-- [Iterators in Rust Explained - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=Dtkv5i2nelk)
+- [Iterators in Rust Explained - Map, filter, fold &lpar;reduce&rpar; - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=Dtkv5i2nelk)
 - [Build a CLI Project - Improved version with Iterators - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=qI2JY52i6Ns)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
