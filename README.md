@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Livestream from Greece - testing new webcam and mic](https://www.youtube.com/watch?v=VxsM4hILJo4)
 - [❌ Don&#39;t focus on a cloud provider @KunalKushwaha @CivoCloud #devops](https://www.youtube.com/watch?v=9YGBXKSChY0)
 - [Mern stack and web development - should you learn Docker and K8s? @KunalKushwaha  #webdevelopment](https://www.youtube.com/watch?v=fHeytP3Ifd4)
 - [Cloud deployment models - @KunalKushwaha @CivoCloud #devops](https://www.youtube.com/watch?v=iKn9Y35L4fU)
 - [🚨 Rust live - Cargo Workspaces](https://www.youtube.com/watch?v=PF5rozqH974)
-- [🚨 Rust live - Publish a Crate](https://www.youtube.com/watch?v=8HlMJUYTsTQ)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
