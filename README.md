@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Release Profiles in Rust - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=_5-Jp5A-OzE)
 - [What is a Vector Database? - Building a RAG application with Datastax Astra DB and Langflow using AI](https://www.youtube.com/watch?v=QFIvv91_sXM)
 - [Rust and Ownerhip What happens when we go out of scope? #rustdevelopment #programmingtutorial](https://www.youtube.com/watch?v=KUFKMb6XtEc)
 - [Build a CLI Project - Improved version with Iterators - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=qI2JY52i6Ns)
 - [❌ Don&#39;t focus on a cloud provider @KunalKushwaha @CivoCloud #devops](https://www.youtube.com/watch?v=9YGBXKSChY0)
-- [Mern stack and web development - should you learn Docker and K8s? @KunalKushwaha  #webdevelopment](https://www.youtube.com/watch?v=fHeytP3Ifd4)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
