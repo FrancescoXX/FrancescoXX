@@ -132,11 +132,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Actix Web - The Rust Framework for Web Development - Hello World](https://dev.to/francescoxx/actix-web-the-rust-framework-for-web-development-hello-world-2n2d)
 - [All the Rust Features](https://dev.to/francescoxx/all-the-rust-features-1l1o)
 - [Iterators in Rust - Map, Filter, Reduce](https://dev.to/francescoxx/iterators-in-rust-2o0b)
 - [Iterators in Rust](https://dev.to/francescoxx/iterators-in-rust-fm)
 - [Python CRUD Rest API using Flask, SQLAlchemy, Postgres, Docker, Docker Compose](https://dev.to/francescoxx/python-crud-rest-api-using-flask-sqlalchemy-postgres-docker-docker-compose-3kh4)
-- [Closures in Rust](https://dev.to/francescoxx/closures-in-rust-2kcm)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
