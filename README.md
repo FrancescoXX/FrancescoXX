@@ -121,7 +121,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [🚨 Rust live - Cargo Workspaces](https://www.youtube.com/watch?v=PF5rozqH974)
+- [Cargo Workspaces, Cargo Install, Cargo custom commands - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=PF5rozqH974)
 - [Actix Web - The Rust Framework for Web Development - Hello World](https://www.youtube.com/watch?v=o5IP71BqO58)
 - [How to publish a crate on Crates.io - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=8HlMJUYTsTQ)
 - [🚨 Rust live - The Deref Trait](https://www.youtube.com/watch?v=S2pIrLRWseI)
