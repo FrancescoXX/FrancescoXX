@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [🚨 Rust live - The Box Smart pointer](https://www.youtube.com/watch?v=esTddv6MOY4)
 - [Getting familiar with Rust&#39;s syntax](https://www.youtube.com/watch?v=AuzoABH7fRA)
 - [Smart Pointers - data structures that act like a pointer -  Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=QmWQUkqkxDs)
 - [Cargo Workspaces, Cargo Install, Cargo custom commands - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=PF5rozqH974)
 - [Actix Web - The Rust Framework for Web Development - Hello World](https://www.youtube.com/watch?v=o5IP71BqO58)
-- [How to publish a crate on Crates.io - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=8HlMJUYTsTQ)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
