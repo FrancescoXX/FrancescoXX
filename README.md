@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [🚨 Rust live - The Drop Trait](https://www.youtube.com/watch?v=K6TeVyGm8cs)
 - [🚨 Rust live - Concurrency - Threads](https://www.youtube.com/watch?v=e_EeoGWXcng)
 - [🚨 Rust live - Reference Cycles and Memory Leaks](https://www.youtube.com/watch?v=Pf9qx_PQlLg)
 - [🚨 RefCell Type and the Interior Mutability Pattern](https://www.youtube.com/watch?v=NrC6XqL2xG0)
 - [🚨 Rust live - The Referenced Counted Smart pointer](https://www.youtube.com/watch?v=r2f6-HTzGlw)
-- [🚨 Rust live - The Drop Trait](https://www.youtube.com/watch?v=K6TeVyGm8cs)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
