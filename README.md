@@ -125,7 +125,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [🚨 Rust live - Threads and Concurrency](https://www.youtube.com/watch?v=gZcOwF7OQWw)
 - [🚨 Rust live - Reference Cycles and Memory Leaks](https://www.youtube.com/watch?v=daOvJZKjFpA)
 - [🚨 RefCell Type and the Interior Mutability Pattern](https://www.youtube.com/watch?v=3y9GX6Nxxiw)
-- [🚨 Rust live - The Referenced Counted Smart pointer](https://www.youtube.com/watch?v=X4_LXh2oU4U)
+- [🚨 Rust live - The Drop Trait](https://www.youtube.com/watch?v=K6TeVyGm8cs)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
