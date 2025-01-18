@@ -123,9 +123,9 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [🚨 Rust live - the RC Smart pointer](https://www.youtube.com/watch?v=BNEHeQtmPiM)
 - [🚨 Rust live - Threads and Concurrency](https://www.youtube.com/watch?v=gZcOwF7OQWw)
-- [🚨 Rust live - Reference Cycles and Memory Leaks](https://www.youtube.com/watch?v=daOvJZKjFpA)
 - [🚨 Rust live - The Drop Trait](https://www.youtube.com/watch?v=K6TeVyGm8cs)
 - [The Deref Trait in Rust - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=9g-UG0BC9A4)
+- [Using The Box Smart pointer to Point to Data on the Heap - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=esTddv6MOY4)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
