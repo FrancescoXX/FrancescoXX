@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Live coding, AI, Conferences, Videos, Book, Build an APP](https://www.youtube.com/watch?v=kCwOts5MtwQ)
+- [Live coding, AI, Conferences, Videos, Book, Build an APP](https://www.youtube.com/watch?v=4JZwQ5InWFc)
 - [The grep command](https://www.youtube.com/watch?v=Bbkfj2LzKHk)
 - [🚨 Francesco is live 🚨](https://www.youtube.com/watch?v=tgBU5LR9pag)
 - [🚨 Rust live - the RC Smart pointer](https://www.youtube.com/watch?v=BNEHeQtmPiM)
-- [🚨 Rust live - The Drop Trait](https://www.youtube.com/watch?v=K6TeVyGm8cs)
-- [The Deref Trait in Rust - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=9g-UG0BC9A4)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
