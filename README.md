@@ -122,10 +122,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Live coding, AI, Conferences, Videos, Book, Build an APP](https://www.youtube.com/watch?v=kCwOts5MtwQ)
-- [Live coding, AI, Conferences, Videos, Book, Build an APP](https://www.youtube.com/watch?v=4JZwQ5InWFc)
 - [The grep command](https://www.youtube.com/watch?v=Bbkfj2LzKHk)
 - [🚨 Francesco is live 🚨](https://www.youtube.com/watch?v=tgBU5LR9pag)
 - [🚨 Rust live - the RC Smart pointer](https://www.youtube.com/watch?v=BNEHeQtmPiM)
+- [🚨 Rust live - The Drop Trait](https://www.youtube.com/watch?v=K6TeVyGm8cs)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
