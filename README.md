@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Rust - Working with the minigrep function](https://www.youtube.com/watch?v=mpdI2S3vmQ8)
 - [Rust and Web Development](https://www.youtube.com/watch?v=gFAB_aTAbX0)
 - [Francesco is live 🔥](https://www.youtube.com/watch?v=w_wE4NxoBBk)
 - [Live coding, AI, Conferences, Videos, Book, Build an APP](https://www.youtube.com/watch?v=kCwOts5MtwQ)
 - [The grep command](https://www.youtube.com/watch?v=Bbkfj2LzKHk)
-- [🚨 Francesco is live 🚨](https://www.youtube.com/watch?v=tgBU5LR9pag)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
