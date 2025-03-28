@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Live with Leah Thompson](https://www.youtube.com/watch?v=TxMeH3vbGv8)
 - [🚨 RefCell Type and the Interior Mutability Pattern](https://www.youtube.com/watch?v=62i_zC-6xFI)
 - [Rust - Working with the minigrep function](https://www.youtube.com/watch?v=mpdI2S3vmQ8)
-- [Rust and Web Development](https://www.youtube.com/watch?v=gFAB_aTAbX0)
+- [Rust and Web Development in 2025](https://www.youtube.com/watch?v=gFAB_aTAbX0)
 - [Francesco is live 🔥](https://www.youtube.com/watch?v=w_wE4NxoBBk)
-- [Live coding, AI, Conferences, Videos, Book, Build an APP](https://www.youtube.com/watch?v=kCwOts5MtwQ)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
