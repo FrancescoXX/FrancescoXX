@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [5 Rust Frameworks #rust #programming #coding](https://www.youtube.com/watch?v=Iumo7qTtuME)
 - [Francesco Ciulla is live!](https://www.youtube.com/watch?v=g3c2Ki_4Vuk)
 - [🚨 RefCell Type and the Interior Mutability Pattern](https://www.youtube.com/watch?v=62i_zC-6xFI)
 - [Rust and Web Development in 2025](https://www.youtube.com/watch?v=gFAB_aTAbX0)
 - [Live with Leah Thompson](https://www.youtube.com/watch?v=TxMeH3vbGv8)
-- [Rust - Working with the minigrep function](https://www.youtube.com/watch?v=mpdI2S3vmQ8)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
