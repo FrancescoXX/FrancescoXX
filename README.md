@@ -124,7 +124,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Abdel Sghiouar - Google, Devops, Cloud, Running](https://www.youtube.com/watch?v=MA7djRkDBmA)
 - [Live with Leah Thompson](https://www.youtube.com/watch?v=TxMeH3vbGv8)
 - [Live with Joshua Tobkin - The Supra Blockchain](https://www.youtube.com/watch?v=Zrea6p7qzgQ)
-- [🚨 Memory Leaks in Rust](https://www.youtube.com/watch?v=CgLkktqyu98)
+- [🚨 Memory leaks in Rust](https://www.youtube.com/watch?v=CgLkktqyu98)
 - [5 Rust Frameworks #rust #programming #coding](https://www.youtube.com/watch?v=Iumo7qTtuME)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
