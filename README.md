@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Live - Vs Code update, LLAMA4, Streamlify](https://www.youtube.com/watch?v=RaZccX6eN84)
-- [🚨 Memory leaks in Rust](https://www.youtube.com/watch?v=CgLkktqyu98)
-- [Abdel Sghiouar - Google, Devops, Cloud, Running](https://www.youtube.com/watch?v=MA7djRkDBmA)
-- [Live with Leah Thompson](https://www.youtube.com/watch?v=TxMeH3vbGv8)
-- [Live with Joshua Tobkin - The Supra Blockchain](https://www.youtube.com/watch?v=Zrea6p7qzgQ)
+- [🚨 Concurrency in Rust - Sync and Send Traits](https://www.youtube.com/watch?v=M0MLgIuF9c0)
+- [🚨 Concurrency in Rust - Shared State](https://www.youtube.com/watch?v=XwU8ncOEoMc)
+- [🚨Concurrency in Rust - Message passing](https://www.youtube.com/watch?v=_keCuLJvQ9c)
+- [🚨 Concurrency and Threads in Rust](https://www.youtube.com/watch?v=kX0TxT4FbN0)
+- [Live with Abdel Sghiouar](https://www.youtube.com/watch?v=OKf99k4yFlo)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
