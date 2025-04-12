@@ -125,7 +125,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [🚨 Concurrency in Rust - Sync and Send Traits](https://www.youtube.com/watch?v=M0MLgIuF9c0)
 - [🚨 Concurrency in Rust - Shared State](https://www.youtube.com/watch?v=XwU8ncOEoMc)
 - [🚨Concurrency in Rust - Message passing](https://www.youtube.com/watch?v=_keCuLJvQ9c)
-- [🚨 Concurrency and Threads in Rust](https://www.youtube.com/watch?v=kX0TxT4FbN0)
+- [Live with Abdel Sghiouar](https://www.youtube.com/watch?v=OKf99k4yFlo)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
