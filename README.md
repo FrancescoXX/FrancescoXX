@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Google announces Veo 2 - AI text to video generator - Better than Sora](https://www.youtube.com/watch?v=1W6cSyL2pxw)
 - [Live with Abdel Sghiouar](https://www.youtube.com/watch?v=OKf99k4yFlo)
 - [announcing Readme AI generator -built with @warpdotdev](https://www.youtube.com/watch?v=L11KeCdaENg)
 - [Open AI releases o3, o4-mini, announces a new social media and wants to buy Windsurf](https://www.youtube.com/watch?v=NCigHILRnkQ)
 - [Rust Concurrency and Parallelism - Threads in Rust -  Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=_lvKmkspl1w)
-- [Live with Joshua Tobkin - The Supra Blockchain](https://www.youtube.com/watch?v=Zrea6p7qzgQ)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
