@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Is T3chat the best AI Chat ever made? @t3dotgg  - Francesco&#39;s lab](https://www.youtube.com/watch?v=gs-My5SWJ6w)
 - [Learn the Rust programming language - Course for beginners](https://www.youtube.com/watch?v=gAX3Zj-JGE0)
 - [Building stuff with AI - HTML-CSS-JavaScript](https://www.youtube.com/watch?v=kUwtD91aIhU)
 - [Solana Explained: Accounts, PDAs, CPIs &amp; Anchor CRUD Demo](https://www.youtube.com/watch?v=QtHVPdygNuQ)
 - [Shared-state Concurrency in Rust - Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=aGkgwXQ-OwU)
-- [Rust Concurrency and Parallelism - Message Passing in Rust -  Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=y6KEp53J3rY)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
