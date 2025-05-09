@@ -132,7 +132,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
-- [Should I learn Rust as my next programming language?](https://dev.to/francescoxx/should-i-learn-rust-as-a-my-next-programming-language-ach)
+- [Should you learn Rust as your next programming language?](https://dev.to/francescoxx/should-i-learn-rust-as-a-my-next-programming-language-ach)
 - [Actix Web - The Rust Framework for Web Development - Hello World](https://dev.to/francescoxx/actix-web-the-rust-framework-for-web-development-hello-world-2n2d)
 - [All the Rust Features](https://dev.to/francescoxx/all-the-rust-features-1l1o)
 - [Iterators in Rust - Map, Filter, Reduce](https://dev.to/francescoxx/iterators-in-rust-2o0b)
