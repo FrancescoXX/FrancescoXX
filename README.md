@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How can developers write better code with AI?](https://www.youtube.com/watch?v=_0VDUczDWvs)
 - [The Future of Docker &amp; AI | Docker Captains Live @DockerInc](https://www.youtube.com/watch?v=QUPKu-LZAis)
 - [ChatGPT VS Claude VS Gemini](https://www.youtube.com/watch?v=8yJwQoDMMbA)
 - [5 Years on youtube ! Time flies!](https://www.youtube.com/watch?v=4nIQEyyRHkY)
 - [Is Appwrite better than Vercel? Appwrite sites in action](https://www.youtube.com/watch?v=xNpDEbOUZEw)
-- [Let&#39;s try GitHub Spark - the new AI tool by GitHub](https://www.youtube.com/watch?v=mvze_xfcZCs)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
