@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [The Future of Docker &amp; AI | Docker Captains Live @DockerInc](https://www.youtube.com/watch?v=QUPKu-LZAis)
 - [Can you build a Multiplayer game with AI? Gemini VS Claude vs ChatGPT comparison](https://www.youtube.com/watch?v=UvhMOmXGOG8)
+- [Can you build a Multiplayer game with AI? Gemini VS Claude vs ChatGPT comparison](https://www.youtube.com/watch?v=w2QKrzfCszE)
+- [The Future of Docker &amp; AI | Docker Captains Live @DockerInc](https://www.youtube.com/watch?v=QUPKu-LZAis)
 - [How can developers write better code with AI?](https://www.youtube.com/watch?v=_0VDUczDWvs)
 - [ChatGPT VS Claude VS Gemini](https://www.youtube.com/watch?v=8yJwQoDMMbA)
-- [5 Years on youtube ! Time flies!](https://www.youtube.com/watch?v=4nIQEyyRHkY)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
