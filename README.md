@@ -122,10 +122,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Commit Your code &#39;25 - Hot Takes](https://www.youtube.com/watch?v=9ChvxLSxgN0)
-- [Build and deploy a Node.js Application](https://www.youtube.com/watch?v=dnS3oR4ooN0)
 - [Will AI replace programmers?](https://www.youtube.com/watch?v=u16e5sGdTLY)
 - [What I learned in two years as a public speaker](https://www.youtube.com/watch?v=O6RPY-sOkks)
 - [Open source Hacktoberfest contributions - working on RustCrab](https://www.youtube.com/watch?v=J0cvGN_BCf8)
+- [Planning the upcoming Rust Content](https://www.youtube.com/watch?v=QTrY3KMiJFs)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
