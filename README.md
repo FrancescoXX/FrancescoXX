@@ -124,8 +124,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Learn the Rust Programming Language - 1-hour Bootcamp for beginners](https://www.youtube.com/watch?v=tgJ8d9yQtKY)
 - [Rust Crush Bootcamp for beginners](https://www.youtube.com/watch?v=kPpJTftITNs)
 - [How to Deploy a Node.js App on Cloudways &lpar;Step-by-Step Guide&rpar;](https://www.youtube.com/watch?v=42MYAe5l7KY)
-- [Chilled Livestream - Projects, content, bootcamp, book](https://www.youtube.com/watch?v=bLmUrMyRd3k)
 - [Docker Captains 2025 Recap](https://www.youtube.com/watch?v=fcGidkovzIc)
+- [How to learn Rust - @ezsnippat](https://www.youtube.com/shorts/VsKv76yOayk)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
