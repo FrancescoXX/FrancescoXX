@@ -121,7 +121,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Oracle Staff Engineer: &quot;Why We Bet on Rust&quot;](https://www.youtube.com/watch?v=AEA9K2v79Rg)
+- [&quot;Rust Has No Jobs?&quot; Ask Oracle.](https://www.youtube.com/watch?v=AEA9K2v79Rg)
 - [Best uses of Rust @ezsnippat #rustlang #programming](https://www.youtube.com/shorts/3cOjsF2sOwg)
 - [Learn the Rust Programming Language - 1-hour Bootcamp for beginners](https://www.youtube.com/watch?v=tgJ8d9yQtKY)
 - [Rust Crush Bootcamp for beginners](https://www.youtube.com/watch?v=kPpJTftITNs)
