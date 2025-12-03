@@ -122,7 +122,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Dev Career Secrets from a GitHub Strategy Leader](https://www.youtube.com/watch?v=I9zQos_ePDs)
-- [Why I am quitting Developer Relations to Write Rust](https://www.youtube.com/watch?v=HmJk7behMgI)
+- [Why I decided to quit Developer Relations for now](https://www.youtube.com/watch?v=HmJk7behMgI)
 - [&quot;Rust Has No Jobs?&quot; Ask Oracle.](https://www.youtube.com/watch?v=AEA9K2v79Rg)
 - [Best uses of Rust @ezsnippat #rustlang #programming](https://www.youtube.com/shorts/3cOjsF2sOwg)
 - [Learn the Rust Programming Language - 1-hour Bootcamp for beginners](https://www.youtube.com/watch?v=tgJ8d9yQtKY)
