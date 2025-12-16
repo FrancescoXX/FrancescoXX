@@ -132,11 +132,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Rust CRUD Rest API, using Axum, sqlx, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/rust-crud-rest-api-using-axum-sqlx-postgres-docker-and-docker-compose-152a)
 - [Redox OS: Is the Future of Operating Systems Written in Rust?](https://dev.to/francescoxx/redox-os-is-the-future-of-operating-systems-written-in-rust-d2n)
 - [AI vs. Machine Learning vs. Deep Learning](https://dev.to/francescoxx/ai-vs-machine-learning-vs-deep-learning-2ph0)
 - [Rust Hello World: The Hard and the Smart Way](https://dev.to/francescoxx/rust-hello-world-the-hard-and-the-smart-way-36l7)
 - [Rust vs. Your Next JavaScript Framework: Which Should You Learn?](https://dev.to/francescoxx/rust-vs-your-next-javascript-framework-which-should-you-learn-24pj)
-- [Open AI Releases Open Models](https://dev.to/francescoxx/open-ai-releases-open-models-1m19)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
