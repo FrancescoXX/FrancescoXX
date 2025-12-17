@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Gemini 3 Flash - It&#39;s Here!](https://www.youtube.com/watch?v=Aj8rI7L5NTM)
 - [Rust REST API Tutorial: Axum, SQLx, Postgres &amp; Docker](https://www.youtube.com/watch?v=cJyl9e2oqHY)
 - [Rust Backend: Axum Hello World &amp; Setup](https://www.youtube.com/watch?v=3L4laTARCRQ)
 - [The End of Coding Tutorials for Tech Creators?](https://www.youtube.com/watch?v=c58bMmlelow)
 - [It’s OFFICIAL: Free Rust Bootcamp Season 2 &lpar;Dates &amp; Projects&rpar; - AI, Docker, and Future Plans](https://www.youtube.com/watch?v=T-Qr0KudDTY)
-- [Redox OS: Is the Future of Operating Systems Written in Rust? - With Jeremy Soller](https://www.youtube.com/watch?v=NAck7dPKk7c)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
