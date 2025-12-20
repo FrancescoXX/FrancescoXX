@@ -124,8 +124,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [The Rust Programming Language is NOT hard to learn!](https://www.youtube.com/watch?v=OxQT9QIzRrE)
 - [Gemini 3 Flash is now available - Google&#39;s best LLM model ever?](https://www.youtube.com/watch?v=QpwpPIttmBE)
 - [Rust REST API Tutorial: Axum, SQLx, Postgres &amp; Docker](https://www.youtube.com/watch?v=cJyl9e2oqHY)
-- [Rust Backend: Axum Hello World &amp; Setup](https://www.youtube.com/watch?v=3L4laTARCRQ)
 - [The End of Coding Tutorials for Tech Creators?](https://www.youtube.com/watch?v=c58bMmlelow)
+- [It’s OFFICIAL: Free Rust Bootcamp Season 2 &lpar;Dates &amp; Projects&rpar; - AI, Docker, and Future Plans](https://www.youtube.com/watch?v=T-Qr0KudDTY)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
