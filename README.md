@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build a Netflix Clone with Rust &amp; React using RustRover &lpar;Axum and Tanstack Full Stack Tutorial&rpar;](https://www.youtube.com/watch?v=TVeaQKtCXzk)
 - [Build LLM Applications using Rust! What is Rig - with Joshua Mo](https://www.youtube.com/watch?v=nsFOeWFr2Jo)
 - [The Rust Programming Language is NOT hard to learn!](https://www.youtube.com/watch?v=OxQT9QIzRrE)
 - [Gemini 3 Flash is now available - Google&#39;s best LLM model ever?](https://www.youtube.com/watch?v=QpwpPIttmBE)
 - [Rust REST API Tutorial: Axum, SQLx, Postgres &amp; Docker](https://www.youtube.com/watch?v=cJyl9e2oqHY)
-- [The End of Coding Tutorials for Tech Creators?](https://www.youtube.com/watch?v=c58bMmlelow)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
