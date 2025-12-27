@@ -121,7 +121,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How to &quot;Hack&quot; the Mainframe &lpar;and Maybe a Heart?&rpar; with Rust 🦀 💚](https://www.youtube.com/watch?v=qk4dJQgpnVE)
+- [How to &quot;Hack&quot; the Mainframe, and Maybe a Heart? - with Rust](https://www.youtube.com/watch?v=qk4dJQgpnVE)
 - [Build a Netflix Clone with Rust &amp; React using RustRover &lpar;Axum and Tanstack Full Stack Tutorial&rpar;](https://www.youtube.com/watch?v=TVeaQKtCXzk)
 - [Build LLM Applications using Rust! What is Rig - with Joshua Mo](https://www.youtube.com/watch?v=nsFOeWFr2Jo)
 - [The Rust Programming Language is NOT hard to learn!](https://www.youtube.com/watch?v=OxQT9QIzRrE)
