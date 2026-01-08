@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build Netflix? 🦀 #rustlang #softwareengineer #programming #jetbrains @JetBrainsTV #axum #coding](https://www.youtube.com/shorts/tRI4T_WRipY)
 - [Hello world - Axum - The Rust Backend Framework](https://www.youtube.com/watch?v=x36yuM8FKds)
 - [Build AI Voice Apps with Rust and Docker - with Echokit](https://www.youtube.com/watch?v=QgVslD_u0AI)
 - [Should you learn Rust in 2026? Watch 5 minutes of this video](https://www.youtube.com/watch?v=nCi2Lr-awYI)
 - [Primitive Types - Rust Programming Language #rustlang #programming #axum #coding #backend](https://www.youtube.com/shorts/ynohgY6HBPU)
-- [What you missed about Rust in 2025 - Rust Official blog recap](https://www.youtube.com/watch?v=-_ziyY7_Dw0)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
