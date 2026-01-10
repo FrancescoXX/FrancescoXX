@@ -124,8 +124,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [The first AI full-stack solution written in Rust? - With Nathaniel Simard](https://www.youtube.com/watch?v=yb4yeocWrYE)
 - [Build Netflix? 🦀 #rustlang #softwareengineer #programming #jetbrains @JetBrainsTV #axum #coding](https://www.youtube.com/shorts/tRI4T_WRipY)
 - [Hello world - Axum - The Rust Backend Framework](https://www.youtube.com/watch?v=x36yuM8FKds)
-- [Build AI Voice Apps with Rust and Docker - with Echokit](https://www.youtube.com/watch?v=QgVslD_u0AI)
 - [Should you learn Rust in 2026? Watch 5 minutes of this video](https://www.youtube.com/watch?v=nCi2Lr-awYI)
+- [Primitive Types - Rust Programming Language #rustlang #programming #axum #coding #backend](https://www.youtube.com/shorts/ynohgY6HBPU)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
