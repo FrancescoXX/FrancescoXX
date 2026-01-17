@@ -122,10 +122,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Rust Crush Bootcamp for beginners - Part 2](https://www.youtube.com/watch?v=Qm2UMUoGqeY)
-- [🔴 Automating Development with Claude Code &amp; Docker &lpar;The Ralph Method&rpar;](https://www.youtube.com/watch?v=gEvNq2sV35U)
 - [Rust bootcamp recap!  #rustlang  #softwareengineer #programming #programmer  #coding  #software](https://www.youtube.com/shorts/TPRtj6kiAgA)
 - [Rust vs Python for AI: Is Rig better than Langchain? - Running Python inside Rust?](https://www.youtube.com/watch?v=cyZXVgzy7DA)
 - [The first AI full-stack solution written in Rust? - With Nathaniel Simard](https://www.youtube.com/watch?v=yb4yeocWrYE)
+- [Build Netflix? 🦀 #rustlang #softwareengineer #programming #jetbrains @JetBrainsTV #axum #coding](https://www.youtube.com/shorts/tRI4T_WRipY)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
