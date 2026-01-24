@@ -124,8 +124,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Is Rust a good alternative to frameworks like Next.js, Laravel, Django for web development  in 2026?](https://www.youtube.com/watch?v=usYYJSUsfjg)
 - [Constants in Rust - Rust bootcamp  #rustlang  #softwareengineer #programming #programmer  #coding](https://www.youtube.com/shorts/Kuw89rQnkK8)
 - [Build a Game with Rust! Learn the Rust Programming Language - 1-hour Bootcamp for beginners - Part 2](https://www.youtube.com/watch?v=s3olEWdyKg8)
-- [The Rust Project - with Jack Huey](https://www.youtube.com/watch?v=oVK1LfQ-rzo)
 - [Rust Crush Bootcamp for beginners - Part 2](https://www.youtube.com/watch?v=Qm2UMUoGqeY)
+- [Rust bootcamp recap!  #rustlang  #softwareengineer #programming #programmer  #coding  #software](https://www.youtube.com/shorts/TPRtj6kiAgA)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
