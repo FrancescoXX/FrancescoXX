@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Axum Tutorial: Extractors, Routes &amp; JSON Handling &lpar;Rust Web Dev&rpar;](https://www.youtube.com/watch?v=HovmPET2-L8)
 - [Enums in Rust - Rust bootcamp  #rustlang  #softwareengineer #programming #programmer  #coding](https://www.youtube.com/shorts/BHaBFKL7ksY)
 - [Building AI Agents with MCP and 400+ Certified APIs - Openapi](https://www.youtube.com/watch?v=c1bETXAXvt8)
 - [I joined Zerops as Head of Developer Relations Engineer! Deploy Rust, Python, PHP, Go, Next.js apps](https://www.youtube.com/watch?v=tzF_sUKb1KM)
 - [Is Rust a good alternative to frameworks like Next.js, Laravel, Django for web development  in 2026?](https://www.youtube.com/watch?v=usYYJSUsfjg)
-- [Constants in Rust - Rust bootcamp  #rustlang  #softwareengineer #programming #programmer  #coding](https://www.youtube.com/shorts/Kuw89rQnkK8)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
