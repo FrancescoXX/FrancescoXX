@@ -122,7 +122,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [What is docker? @DockerInc #docker #python #rust #javascript](https://www.youtube.com/shorts/8rbmI9RGaeE)
-- [How to Deploy a Rust Lambda Function in Minutes](https://www.youtube.com/watch?v=SHvE8B9NYdg)
+- [Building a Serverless API with Rust and AWS Lambda](https://www.youtube.com/watch?v=SHvE8B9NYdg)
 - [Stop Studying Rust, Start Coding: 9 Practical Examples](https://www.youtube.com/watch?v=ncFIqIOUaPQ)
 - [This or That at last Docker Captain Summit! #docker #devops #programming #software](https://www.youtube.com/shorts/0cW1qJYc3is)
 - [Stop Using C++ for AI Toys? Why Echokit Uses Rust](https://www.youtube.com/watch?v=nlxxMBXT0nA)
