@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Rust is not hard to learn - the talk I delivered 2 days ago at Rust Nation UK](https://www.youtube.com/watch?v=Pk0pXXgYyxc)
 - [My Experience at Laracon India 2026 🇮🇳](https://www.youtube.com/watch?v=cVnRGZaMLXQ)
 - [Building a game in Rust - #rustlang  #softwareengineer #programming #programmer  #coding  #software](https://www.youtube.com/shorts/fhYbI7Q6c7c)
 - [The Future of Rust: Vision Doc, AI &amp; Symposium.dev &lpar;feat. Jack Huey&rpar;](https://www.youtube.com/watch?v=8yXGYLgJ_do)
 - [AI vs Developers: Will AI Really Replace Software Engineers in 2026?](https://www.youtube.com/watch?v=xmtRCBX0yT0)
+- [What is docker? @DockerInc #docker #python #rust #javascript](https://www.youtube.com/shorts/8rbmI9RGaeE)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
