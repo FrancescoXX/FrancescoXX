@@ -121,7 +121,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Is Rust &lpar;Axum&rpar; Better Than Go and Node.js for Web Development and APIs in 2026?](https://www.youtube.com/watch?v=CdVO7oDoAGk)
+- [Is Rust &lpar;Axum&rpar; Better Than Go, Python and Node.js for Web Development and APIs in 2026?](https://www.youtube.com/watch?v=CdVO7oDoAGk)
 - [Live Reaction to a review to my Rust book!](https://www.youtube.com/watch?v=2-zwPhFYJQc)
 - [Rust Bootcamp - PLayer -  #rustlang  #softwareengineer #programming #programmer  #coding  #software](https://www.youtube.com/shorts/L5GUeZmA5EA)
 - [Is Rust Really Hard to Learn, compared to Python, JavaScript and C++?](https://www.youtube.com/watch?v=24mL8eVYNl4)
