@@ -122,10 +122,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Reacting to Vitaly Bragilevsky&#39;s Review of My Rust Book](https://www.youtube.com/watch?v=BvfETILFJCw)
-- [I am going to GDC &lpar;thanks Meta for sponsoring me!&rpar;](https://www.youtube.com/watch?v=L4LOZInI66M)
 - [No, Rust is NOT really hard to learn, compared to Python, JavaScript, GO, and C++](https://www.youtube.com/watch?v=F0mnlcS0Amg)
 - [Rust Axum in 2026: Is it actually better than Go, Python  and Node?](https://www.youtube.com/watch?v=CdVO7oDoAGk)
 - [Rust Bootcamp - PLayer -  #rustlang  #softwareengineer #programming #programmer  #coding  #software](https://www.youtube.com/shorts/L5GUeZmA5EA)
+- [Is Rust Really Hard to Learn, compared to Python, JavaScript and C++?](https://www.youtube.com/watch?v=24mL8eVYNl4)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
