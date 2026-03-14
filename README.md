@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [🚨LIVE- GDC - San Francisco - Hot impressions](https://www.youtube.com/watch?v=PHnUMq0BHoE)
 - [Rust is not Hard to Learn 🦀 RustNation UK - February 2026 #rustlang #software #programming](https://www.youtube.com/shorts/5ICUsC0C_oY)
 - [Vitaly Bragilevsky Reviewed My Rust Book &lpar;And He Didn&#39;t Hold Back&rpar;](https://www.youtube.com/watch?v=BvfETILFJCw)
 - [No, Rust is NOT really hard to learn, compared to Python, JavaScript, GO, and C++](https://www.youtube.com/watch?v=F0mnlcS0Amg)
 - [Rust Axum in 2026: Is it actually better than Go, Python  and Node?](https://www.youtube.com/watch?v=CdVO7oDoAGk)
-- [Rust Bootcamp - PLayer -  #rustlang  #softwareengineer #programming #programmer  #coding  #software](https://www.youtube.com/shorts/L5GUeZmA5EA)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
