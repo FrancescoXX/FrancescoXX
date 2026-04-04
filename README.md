@@ -122,10 +122,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [🎉 I am now part of the Meta Horizon Program!  #Metahorizonpartner #vr #Meta @meta](https://www.youtube.com/shorts/NXmb9-gyyi4)
-- [Docker Captains Live - Special AI](https://www.youtube.com/watch?v=s4jIuNMl-90)
 - [Rust vs The World: Why Senior Devs Struggle with the &quot;New&quot; Language](https://www.youtube.com/watch?v=Bmo8yBdis2w)
 - [🦸 Build your Hero! Rust bootcamp recap!  #rustlang  #programming #programmer #software](https://www.youtube.com/shorts/NaLbFjuVsso)
 - [Stop using Over-Complicated Cloud. Zerops 3.0 is here](https://www.youtube.com/watch?v=48VT0P9Jh5o)
+- [Rust Roadmap 2026: How to Learn Rust Fast &lpar;Step-by-Step&rpar;](https://www.youtube.com/watch?v=A1DZuMNZTfo)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
