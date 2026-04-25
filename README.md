@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Is Computer Science Actually Dead in 2026? @SapienzaRoma](https://www.youtube.com/watch?v=_I_ZOZ218TM)
-- [Docker and Laravel - Optimize PHP with Docker](https://www.youtube.com/watch?v=X5OiZuMx8Qo)
-- [This conference has been huge! Game Developers Conference in San Francisco - #MetaHorizonpartner](https://www.youtube.com/shorts/aehEqA9P20A)
-- [Inside GDC 2026: Crazy Games and My Huge Meta Announcement!](https://www.youtube.com/watch?v=LsZr3tBA0JY)
-- [🎉 I am now part of the Meta Horizon Insider Program!  #Metahorizonpartner #vr #Meta @meta](https://www.youtube.com/shorts/NXmb9-gyyi4)
+- [The AI Sweet Spot: How to Use LLMs Without Losing Your Skills](https://www.youtube.com/watch?v=_EnrMzTxzVU)
+- [How to Build a Tech Presence Without Burning Out](https://www.youtube.com/watch?v=T0JGUnSqoZU)
+- [Build an MCP Server using Rust and Docker - AI and the Model Context Protocol](https://www.youtube.com/watch?v=gGRJpwyCAio)
+- [Why Rust is Replacing My Favorite Languages in 2026](https://www.youtube.com/watch?v=5QhdrMfU5lE)
+- [Build a Real World Full Stack App with Rust &lpar;Axum, SQLx, Leptos&rpar;](https://www.youtube.com/watch?v=WmGv-lZgr7M)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
