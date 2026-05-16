@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Clerk CLI Tutorial: Next.js Auth with a Rust API](https://www.youtube.com/watch?v=tEj7Zs52cXY)
-- [Rust Terminal Cooking with Orhun: Ratatui &amp; Web Development](https://www.youtube.com/watch?v=tZKZrwGxc58)
+- [Add Auth to Next.js with Clerk CLI and Rust](https://www.youtube.com/watch?v=tEj7Zs52cXY)
 - [What to do to improve your chances of getting hired in tech? @torcdotdev](https://www.youtube.com/shorts/LClBvvFg8D0)
 - [5 Underrated Rust Features That Make Your Code Cleaner](https://www.youtube.com/watch?v=QjSVSV6CUtE)
 - [How can we use Docker and AI in our workflow ? #docker #AI](https://www.youtube.com/shorts/PvS9Kl5ESJg)
+- [Don’t Trust AI-Generated Code Until You Watch This - Docker can help you](https://www.youtube.com/watch?v=baFV0ODJbRI)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
