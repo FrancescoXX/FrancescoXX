@@ -32,7 +32,6 @@ https://www.youtube.com/@francescociulla
 
 -->
 
-<!--
 <div align=center>
 <a href="https://www.tiktok.com/@francesco.ciulla"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a>
 <a href="https://twitter.com/FrancescoCiull4"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
@@ -70,7 +69,7 @@ https://www.youtube.com/@francescociulla
 - Next.js
 - Rust (new)
 
-</tr></tr></table>
+</tr></table>
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
