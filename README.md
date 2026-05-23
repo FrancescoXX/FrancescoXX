@@ -45,7 +45,6 @@ https://www.youtube.com/@francescociulla
 &ensp;<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.dev GitHub" width="30"/></a>
 </div>
 
-
 <table><tr><td valign="top" width="75%">
 
 ## 👋 Hi, I Am Francesco
