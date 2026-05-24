@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How AI Changed My Workflow as a Software Engineer &amp; Conference Organizer](https://www.youtube.com/shorts/0yayMpS3LGQ)
+- [Punching the Terminal in VR?! 🤯](https://www.youtube.com/shorts/EKvIuJL8DkU)
+- [This Experimental Rust Terminal Renders 3D Objects 🤯](https://www.youtube.com/watch?v=9kkmSfuPHk0)
 - [Add Auth to Next.js with Clerk CLI and Rust](https://www.youtube.com/watch?v=tEj7Zs52cXY)
 - [What to do to improve your chances of getting hired in tech? @torcdotdev](https://www.youtube.com/shorts/LClBvvFg8D0)
-- [5 Underrated Rust Features That Make Your Code Cleaner](https://www.youtube.com/watch?v=QjSVSV6CUtE)
-- [How can we use Docker and AI in our workflow ? #docker #AI](https://www.youtube.com/shorts/PvS9Kl5ESJg)
-- [Don’t Trust AI-Generated Code Until You Watch This - Docker can help you](https://www.youtube.com/watch?v=baFV0ODJbRI)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
