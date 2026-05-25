@@ -123,6 +123,13 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 - [Don’t Trust AI-Generated Code Until You Watch This - Docker can help you](https://www.youtube.com/watch?v=baFV0ODJbRI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
+- [How AI Changed My Workflow as a Software Engineer &amp; Conference Organizer](https://www.youtube.com/shorts/0yayMpS3LGQ)
+- [Punching the Terminal in VR?! 🤯](https://www.youtube.com/shorts/EKvIuJL8DkU)
+- [This Experimental Rust Terminal Renders 3D Objects 🤯](https://www.youtube.com/watch?v=9kkmSfuPHk0)
+- [Add Auth to Next.js with Clerk CLI and Rust](https://www.youtube.com/watch?v=tEj7Zs52cXY)
+- [What to do to improve your chances of getting hired in tech? @torcdotdev](https://www.youtube.com/shorts/LClBvvFg8D0)
+<!-- YOUTUBE-VIDEOS-LIST:END --> 
+ 
 </td><td valign="top" width="50%">
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
