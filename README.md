@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Why I’m Starting Francesco Unfiltered](https://www.youtube.com/watch?v=AtEDG4EwkNw)
 - [What’s the Direction of MCP in 2026, How Has AI Changed the dev Workflow? @KentCDodds-vids #ai](https://www.youtube.com/shorts/KJeC9NvWPNc)
 - [I Tried Zero, Vercel’s New AI Language… Better Than Rust?](https://www.youtube.com/watch?v=L3BJgrEY_fY)
 - [How AI Changed My Workflow as a Software Engineer &amp; Conference Organizer](https://www.youtube.com/shorts/0yayMpS3LGQ)
 - [Punching the Terminal in VR?! 🤯](https://www.youtube.com/shorts/EKvIuJL8DkU)
-- [This Experimental Rust Terminal Renders 3D Objects 🤯](https://www.youtube.com/watch?v=9kkmSfuPHk0)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
