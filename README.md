@@ -122,10 +122,10 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Rust and Web Development in 2026: Where It Actually Wins](https://www.youtube.com/watch?v=D9MusizUQlo)
-- [LIVE: The Commits Open Source Awards with Justin E Samuels](https://www.youtube.com/watch?v=LDNQNN45qX8)
-- [Claude + GitHub: App &amp; CLI Live Demo with Andrea Griffiths](https://www.youtube.com/watch?v=sskZoqDeQZg)
 - [I Built YouTube With GIFs in Minutes](https://www.youtube.com/watch?v=fdYqEGDNC5A)
 - [Why Docker Still Matters in 2026](https://www.youtube.com/watch?v=PqT-vucUykU)
+- [Why I’m Starting Francesco Unfiltered](https://www.youtube.com/watch?v=AtEDG4EwkNw)
+- [What’s the Direction of MCP in 2026, How Has AI Changed the dev Workflow? @KentCDodds-vids #ai](https://www.youtube.com/shorts/KJeC9NvWPNc)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
