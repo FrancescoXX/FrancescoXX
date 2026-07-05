@@ -121,7 +121,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Build an AI Meeting Workflow with Cronofy, Rust and Next.js](https://www.youtube.com/watch?v=qGZRdBS-R3Q)
+- [Build an AI Meeting Agent with Rust, Next.js and Cronofy](https://www.youtube.com/watch?v=qGZRdBS-R3Q)
 - [Rust for Web Development: JavaScript Won the Web, Rust Owns the Critical Path](https://www.youtube.com/watch?v=32BQzxZAQZo)
 - [Rust and Web Development in 2026: Where It Actually Wins](https://www.youtube.com/watch?v=D9MusizUQlo)
 - [Why I’m Starting Francesco Unfiltered](https://www.youtube.com/watch?v=AtEDG4EwkNw)
