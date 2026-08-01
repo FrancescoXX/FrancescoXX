@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [7 Things You Need to Know About Topcoat, Rust&#39;s New Full-Stack Framework](https://www.youtube.com/watch?v=gvo9KzADsjQ)
+- [Better than Next.js? I Tried Rust’s New Full-Stack Web Framework: Topcoat](https://www.youtube.com/watch?v=ppp4A2B0FeA)
 - [Why Canonical Is Betting on Rust for Ubuntu](https://www.youtube.com/watch?v=Tw-1DDODk9Q)
 - [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://www.youtube.com/watch?v=iP9iL4dkiB0)
 - [I Built a Full-Stack App with Fable5 &lpar;Claude&rpar;, Next.js, Rust Axum and Neon](https://www.youtube.com/watch?v=I9bnGk55pXY)
-- [Build an AI Meeting Agent with Rust, Next.js and Cronofy](https://www.youtube.com/watch?v=qGZRdBS-R3Q)
-- [Rust for Web Development: JavaScript Won the Web, Rust Owns the Critical Path](https://www.youtube.com/watch?v=32BQzxZAQZo)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
