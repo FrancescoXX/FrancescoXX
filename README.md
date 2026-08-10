@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Rust Has a New Borrow Checker: Polonius Explained](https://www.youtube.com/watch?v=ouIK8ZESnRk)
-- [Zerops ZCP Challenge - With @KunalKushwaha](https://www.youtube.com/watch?v=CwRc5aJDda8)
+- [The New Rust Borrow Checker: Polonius in 10 Minutes](https://www.youtube.com/watch?v=ouIK8ZESnRk)
 - [Tailwind CSS in Rust?! Topcoat Assets, Icons &amp; Fonts](https://www.youtube.com/watch?v=lBDLBfzpUSE)
 - [Build a Rust Web App with AI, Next.js, Axum &amp; Docker | RustRover](https://www.youtube.com/watch?v=53onIhscyks)
 - [7 Things You Need to Know About Topcoat, Rust&#39;s New Full-Stack Framework](https://www.youtube.com/watch?v=gvo9KzADsjQ)
+- [Better than Next.js? I Tried Rust’s New Full-Stack Web Framework: Topcoat](https://www.youtube.com/watch?v=ppp4A2B0FeA)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
