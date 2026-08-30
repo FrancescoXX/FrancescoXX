@@ -121,11 +121,11 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Grok Bot Use Cases - Here’s How to Use It in Tech.](https://www.youtube.com/watch?v=tg7asTfgG7E)
 - [Building with AI in 2026 ft. Brandon Roberts &lpar;AnalogJS&rpar;](https://www.youtube.com/watch?v=AQiZ6kHHm7c)
 - [The New Rust Borrow Checker: Polonius in 10 Minutes](https://www.youtube.com/watch?v=ouIK8ZESnRk)
 - [Tailwind CSS in Rust?! Topcoat Assets, Icons &amp; Fonts](https://www.youtube.com/watch?v=lBDLBfzpUSE)
 - [Build a Rust Web App with AI, Next.js, Axum &amp; Docker | RustRover](https://www.youtube.com/watch?v=53onIhscyks)
-- [7 Things You Need to Know About Topcoat, Rust&#39;s New Full-Stack Framework](https://www.youtube.com/watch?v=gvo9KzADsjQ)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
