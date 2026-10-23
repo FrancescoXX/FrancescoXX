@@ -1,17 +1,57 @@
 name: Latest YouTube Videos
 on:
   schedule:
-    # Runs every hour
+    # Daily at 03:14 UTC. GitHub may start the job a few minutes later.
     - cron: '14 3 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: latest-youtube-videos
+  cancel-in-progress: false
 
 jobs:
   update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCBRxDSTfr2aJVODDh4WG_7g"
+      - uses: actions/checkout@v5
+
+      # Temporary check: same URL, User-Agent, and Accept header the old
+      # blog-post-workflow action used. Removed after the runner status is recorded.
+      - name: Record YouTube RSS status from this runner
+        continue-on-error: true
+        run: |
+          url="https://www.youtube.com/feeds/videos.xml?channel_id=UCBRxDSTfr2aJVODDh4WG_7g"
+          code=$(curl -sS -D /tmp/yt-rss-headers.txt -o /tmp/yt-rss-body.txt -w "%{http_code}" \
+            -A "rss-parser" \
+            -H "Accept: application/rss+xml" \
+            --max-time 30 \
+            "$url" || true)
+          echo "rss_http_status=${code}"
+          echo "rss_body_bytes=$(wc -c < /tmp/yt-rss-body.txt | tr -d ' ')"
+          echo "rss_headers:"
+          sed -n '1,20p' /tmp/yt-rss-headers.txt || true
+          echo "rss_body_prefix:"
+          head -c 240 /tmp/yt-rss-body.txt || true
+          echo
+
+      - name: Update README from the YouTube Data API
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python3 .github/scripts/update-youtube-readme.py
+
+      - name: Commit and push README on main
+        if: github.ref == 'refs/heads/main'
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "YOUTUBE-VIDEOS-LIST is unchanged. Nothing to commit."
+            exit 0
+          fi
+          git config user.name "blog-post-bot"
+          git config user.email "blog-post-bot@example.com"
+          git add README.md
+          git commit -m "Updated with the latest blog posts"
+          git push origin HEAD:main
